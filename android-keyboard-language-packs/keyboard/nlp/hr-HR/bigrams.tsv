@@ -2,7 +2,7 @@
 # Source: Leipzig Corpora Collection hrv_news_2020_1M.tar.gz (hrv_news_2020_1M/hrv_news_2020_1M-sentences.txt)
 # Derived from ordered adjacent tokens in the sentence corpus; format: context<TAB>prediction<TAB>frequency
 da	je	54331000
-je	u	47979000
+je	u	47978000
 da	se	38933000
 što	je	30141000
 koji	je	26748000
@@ -12,7 +12,7 @@ je	i	25877000
 je	da	24511000
 je	na	20178000
 koji	su	19731000
-se	u	18528000
+se	u	18527000
 kako	je	17935000
 da	su	17895000
 rekao	je	17273000
@@ -23,7 +23,7 @@ koja	je	15079000
 i	da	14579000
 je	to	13659000
 što	se	13654000
-i	na	13201000
+i	na	13200000
 bi	se	13124000
 više	od	12992000
 su	u	12909000
@@ -31,20 +31,20 @@ u	hrvatskoj	11972000
 nakon	što	11641000
 kao	i	11418000
 je	bio	11377000
-se	na	10750000
-se	i	10633000
+se	na	10748000
+se	i	10632000
 da	bi	10585000
 koji	se	10391000
 koje	su	10304000
 će	biti	9931000
 i	to	9856000
 se	da	9787000
-je	za	9681000
+je	za	9679000
 ali	i	8938000
 kada	je	8678000
 kazao	je	8523000
 je	kako	8190000
-su	i	8153000
+su	i	8152000
 i	dalje	7989000
 kako	se	7691000
 bio	je	7508000
@@ -69,7 +69,7 @@ ove	godine	6140000
 kako	će	6061000
 je	bila	5975000
 ne	može	5890000
-te	da	5856000
+te	da	5855000
 je	bilo	5798000
 civilne	zaštite	5785000
 su	na	5774000
@@ -108,7 +108,7 @@ u	subotu	4391000
 i	kako	4380000
 riječ	je	4360000
 obzirom	na	4358000
-da	ne	4349000
+da	ne	4348000
 je	li	4338000
 a	na	4324000
 je	osoba	4308000
@@ -122,7 +122,7 @@ ako	se	4186000
 neće	biti	4169000
 u	odnosu	4155000
 rekla	je	4154000
-će	u	4131000
+će	u	4130000
 je	još	4077000
 se	s	4056000
 su	bili	4045000
@@ -170,7 +170,7 @@ u	sati	3452000
 prošle	godine	3441000
 s	i	3376000
 nakon	toga	3374000
-a	je	3340000
+a	je	3339000
 joj	je	3297000
 nego	što	3290000
 mislim	da	3287000
@@ -254,7 +254,7 @@ budući	da	2480000
 koliko	je	2479000
 u	slučaju	2479000
 a	da	2474000
-za	i	2472000
+za	i	2471000
 to	što	2465000
 tko	je	2463000
 a	onda	2458000
@@ -305,8 +305,8 @@ zato	što	2218000
 je	prije	2215000
 gdje	se	2210000
 i	pol	2196000
-je	zbog	2183000
 na	kojoj	2183000
+je	zbog	2181000
 čini	se	2171000
 radi	o	2170000
 u	protekla	2166000
@@ -613,7 +613,7 @@ da	ima	1316000
 za	u	1311000
 s	njima	1310000
 tisuća	kuna	1310000
-je	koji	1309000
+je	koji	1308000
 ali	nije	1306000
 skladu	s	1302000
 teško	je	1301000
@@ -624,8 +624,8 @@ se	mogu	1297000
 kako	bismo	1296000
 u	suradnji	1296000
 ne	želi	1295000
-a	potom	1294000
 činjenica	da	1294000
+a	potom	1293000
 i	ja	1293000
 onima	koji	1290000
 smrtnih	slučajeva	1290000
@@ -840,10 +840,10 @@ radnih	mjesta	1022000
 sati	u	1020000
 zakona	o	1019000
 mogućnost	da	1017000
-u	gdje	1017000
 za	što	1016000
 iz	hrvatske	1015000
 od	najboljih	1015000
+u	gdje	1015000
 to	vrijeme	1014000
 u	karijeri	1013000
 u	društvu	1012000
@@ -1228,10 +1228,10 @@ je	zabilježeno	768000
 koji	ima	767000
 za	svoje	767000
 za	zaštitu	767000
-a	će	766000
 dinamo	je	766000
 kojom	je	766000
 u	početku	766000
+a	će	765000
 je	jasno	765000
 nalazi	na	764000
 sada	u	764000
@@ -1309,10 +1309,10 @@ ugovor	s	734000
 a	danas	732000
 se	očekuje	732000
 u	londonu	732000
-vrijeme	i	732000
 i	drugim	731000
 kojom	se	731000
 na	ovom	731000
+vrijeme	i	731000
 za	nas	731000
 na	te	729000
 on	se	729000
@@ -1396,10 +1396,10 @@ ligu	prvaka	699000
 nekoliko	puta	699000
 zavod	za	699000
 dosad	je	697000
-ili	na	697000
 iz	u	697000
 čija	je	697000
 i	mi	696000
+ili	na	696000
 je	ranije	696000
 se	vidi	696000
 sve	su	696000
@@ -1809,12 +1809,12 @@ se	prije	577000
 za	početak	577000
 širenje	virusa	577000
 a	već	576000
-bih	i	576000
 europske	komisije	576000
 razgovoru	za	576000
 roku	od	576000
 s	je	576000
 a	ona	575000
+bih	i	575000
 da	mogu	575000
 da	može	575000
 od	prvog	575000
@@ -1875,10 +1875,10 @@ nisu	imali	562000
 posljednje	vrijeme	562000
 se	prema	562000
 sredstva	za	562000
-i	svoje	561000
 je	glavni	561000
 je	trebalo	561000
 su	četiri	561000
+i	svoje	560000
 nalaze	u	560000
 no	što	560000
 osječko	baranjske	560000
@@ -2099,11 +2099,11 @@ vam	se	518000
 za	borbu	518000
 od	siječnja	517000
 ostali	su	517000
-u	dan	517000
 ponedjeljak	je	516000
 prostor	za	516000
 s	djecom	516000
 su	kao	516000
+u	dan	516000
 u	nekom	516000
 ako	ste	515000
 centra	za	515000
@@ -2649,7 +2649,6 @@ u	tu	428000
 bih	da	427000
 boravka	u	427000
 do	siječnja	427000
-je	krenuo	427000
 ožujka	u	427000
 su	tijekom	427000
 veći	od	427000
@@ -2657,6 +2656,7 @@ za	novi	427000
 četiri	dana	427000
 ako	to	426000
 dobro	da	426000
+je	krenuo	426000
 su	sa	426000
 u	njegovoj	426000
 za	kojeg	426000
@@ -2980,7 +2980,6 @@ utjecaja	na	389000
 za	osobe	389000
 dva	gola	388000
 igrača	u	388000
-je	igrač	388000
 je	tamo	388000
 milijardi	eura	388000
 nagradu	za	388000
@@ -2988,6 +2987,7 @@ pandemije	i	388000
 u	jer	388000
 ide	na	387000
 ima	u	387000
+je	igrač	387000
 klinici	za	387000
 no	za	387000
 s	ali	387000
@@ -3269,7 +3269,6 @@ toga	i	364000
 u	drugu	364000
 u	ulozi	364000
 ali	on	363000
-bih	u	363000
 grada	dubrovnika	363000
 hrvatska	i	363000
 i	ta	363000
@@ -3295,6 +3294,7 @@ za	jedan	362000
 ako	bude	361000
 bi	bili	361000
 bih	je	361000
+bih	u	361000
 da	ostanu	361000
 glavni	tajnik	361000
 iz	drugih	361000
@@ -3805,7 +3805,6 @@ problem	s	323000
 tom	je	323000
 u	kontekstu	323000
 hrvatski	zavod	322000
-je	mjesto	322000
 je	vijest	322000
 još	malo	322000
 li	biti	322000
@@ -3822,6 +3821,7 @@ cijeli	dan	321000
 europskih	zemalja	321000
 i	radi	321000
 iz	osijeka	321000
+je	mjesto	321000
 je	nastala	321000
 klub	u	321000
 način	i	321000
@@ -4670,7 +4670,6 @@ u	sredini	275000
 uđe	u	275000
 za	sigurnost	275000
 zdravlja	i	275000
-će	ove	275000
 čim	se	275000
 biti	jako	274000
 da	iz	274000
@@ -4689,6 +4688,7 @@ u	turskoj	274000
 u	zatvorenim	274000
 zdravstvenih	radnika	274000
 će	ići	274000
+će	ove	274000
 ako	ih	273000
 je	ostalo	273000
 nove	sezone	273000
@@ -5115,7 +5115,6 @@ potpuno	je	255000
 razgovor	s	255000
 samo	zbog	255000
 tako	na	255000
-također	i	255000
 temelji	na	255000
 u	njihovim	255000
 u	sdp	255000
@@ -5141,6 +5140,7 @@ napominje	da	254000
 pa	onda	254000
 se	odvija	254000
 stoga	se	254000
+također	i	254000
 to	mu	254000
 u	formi	254000
 velika	je	254000
@@ -5290,7 +5290,6 @@ je	ubrzo	247000
 je	zagreb	247000
 kontrolu	nad	247000
 lopta	je	247000
-moguće	i	247000
 na	jednu	247000
 na	nakon	247000
 ova	dva	247000
@@ -5315,10 +5314,10 @@ je	brzo	246000
 je	takva	246000
 jer	ih	246000
 kontrolu	i	246000
+moguće	i	246000
 momčadi	u	246000
 moraju	se	246000
 može	dovesti	246000
-naša	je	246000
 njih	posto	246000
 ove	dvije	246000
 pet	puta	246000
@@ -5339,6 +5338,7 @@ je	primjerice	245000
 ljudima	u	245000
 na	svakom	245000
 najbolje	što	245000
+naša	je	245000
 od	srijede	245000
 ovdje	se	245000
 pošto	je	245000
@@ -6219,7 +6219,6 @@ s	najvećim	218000
 sve	druge	218000
 u	dinamo	218000
 u	hrvatskim	218000
-vas	da	218000
 već	ima	218000
 vratila	u	218000
 za	čak	218000
@@ -6255,6 +6254,7 @@ u	cjelini	217000
 u	indiji	217000
 ukazuju	na	217000
 uzoraka	od	217000
+vas	da	217000
 žene	u	217000
 ali	kada	216000
 dvd	a	216000
@@ -6317,7 +6317,6 @@ sad	su	215000
 se	pitanje	215000
 stvar	je	215000
 svaki	od	215000
-svijetu	u	215000
 traje	do	215000
 u	tvrtki	215000
 upozorio	da	215000
@@ -6346,6 +6345,7 @@ se	govori	214000
 srijedu	da	214000
 sudu	u	214000
 sustav	koji	214000
+svijetu	u	214000
 u	policiji	214000
 za	obranu	214000
 ćemo	to	214000
@@ -7075,7 +7075,6 @@ zaključiti	da	195000
 zbog	činjenice	195000
 znao	sam	195000
 će	početi	195000
-će	samo	195000
 električne	energije	194000
 godina	te	194000
 gradskom	vrtu	194000
@@ -7115,6 +7114,7 @@ trener	i	194000
 u	državnom	194000
 u	pratnji	194000
 u	pravom	194000
+će	samo	194000
 škola	u	194000
 a	pod	193000
 ako	imate	193000
@@ -7424,7 +7424,6 @@ mjesta	a	187000
 na	bazi	187000
 nakon	izlaska	187000
 narastao	na	187000
-nas	na	187000
 nešto	slično	187000
 ostala	bez	187000
 otišla	u	187000
@@ -7446,7 +7445,6 @@ zaraze	od	187000
 da	moramo	186000
 dobiti	i	186000
 dolaska	na	186000
-i	koju	186000
 i	mjesto	186000
 i	općenito	186000
 i	poručio	186000
@@ -7492,6 +7490,7 @@ vjetar	u	186000
 života	a	186000
 djeca	i	185000
 dogovor	o	185000
+i	koju	185000
 je	predsjednica	185000
 je	sud	185000
 koje	im	185000
@@ -7554,6 +7553,7 @@ mjeseca	u	184000
 mu	u	184000
 na	more	184000
 na	sam	184000
+nas	na	184000
 nikada	nisu	184000
 nitko	se	184000
 njegovo	ime	184000
@@ -7635,7 +7635,6 @@ da	većina	182000
 dom	u	182000
 hrt	u	182000
 i	ostao	182000
-im	u	182000
 iz	nje	182000
 iz	njega	182000
 je	išao	182000
@@ -7686,6 +7685,7 @@ film	u	181000
 godine	nije	181000
 i	građana	181000
 ili	barem	181000
+im	u	181000
 ima	dovoljno	181000
 je	pobjedu	181000
 je	sinoć	181000
@@ -8117,7 +8117,6 @@ se	našla	174000
 se	pojavi	174000
 se	ponašati	174000
 se	posljednjih	174000
-se	putem	174000
 se	ti	174000
 se	žele	174000
 srednju	školu	174000
@@ -8181,6 +8180,7 @@ s	čak	173000
 s	što	173000
 se	dodatno	173000
 se	prvo	173000
+se	putem	173000
 se	vrate	173000
 splitu	i	173000
 su	dobro	173000
@@ -8674,7 +8674,6 @@ na	leđima	164000
 na	mjere	164000
 naglaskom	na	164000
 nakon	ovog	164000
-nas	da	164000
 neposredno	prije	164000
 njegov	udarac	164000
 opreme	i	164000
@@ -8753,6 +8752,7 @@ milijuna	doza	163000
 na	lokaciji	163000
 napisali	su	163000
 napustio	je	163000
+nas	da	163000
 nema	sumnje	163000
 njegova	obitelj	163000
 novog	predsjednika	163000
@@ -8939,7 +8939,6 @@ virovitičko	županiji	161000
 više	godina	161000
 za	euro	161000
 za	stvaranje	161000
-za	su	161000
 za	svjetsko	161000
 zagrebačkoj	županiji	161000
 zaštite	virovitičko	161000
@@ -9029,6 +9028,7 @@ vidljivo	je	160000
 vozila	u	160000
 vraćaju	u	160000
 za	ruke	160000
+za	su	160000
 što	predstavlja	160000
 ali	do	159000
 ali	moramo	159000
@@ -9212,7 +9212,6 @@ mogli	su	157000
 mogu	vidjeti	157000
 možda	nije	157000
 može	računati	157000
-možete	i	157000
 na	pobjedu	157000
 na	redu	157000
 nadzor	nad	157000
@@ -9265,7 +9264,6 @@ i	trenera	156000
 iz	showa	156000
 iz	tvrtke	156000
 je	neki	156000
-je	nije	156000
 je	nosila	156000
 je	pjevačica	156000
 je	predvodio	156000
@@ -9273,6 +9271,7 @@ joj	nije	156000
 klub	iz	156000
 koji	traže	156000
 mediji	u	156000
+možete	i	156000
 na	dijelu	156000
 na	kopnu	156000
 na	ne	156000
@@ -9331,6 +9330,7 @@ iz	koja	155000
 iz	krize	155000
 iz	svijeta	155000
 je	najbolja	155000
+je	nije	155000
 je	plan	155000
 je	toga	155000
 je	čini	155000
@@ -9572,7 +9572,6 @@ se	boji	152000
 starijih	osoba	152000
 su	veliki	152000
 sustav	za	152000
-svega	je	152000
 tako	ćemo	152000
 tko	ne	152000
 trenutno	osoba	152000
@@ -9644,6 +9643,7 @@ showa	brak	151000
 snagu	i	151000
 su	ali	151000
 su	nešto	151000
+svega	je	151000
 ta	zemlja	151000
 u	rukometu	151000
 umjetnosti	i	151000
@@ -9783,7 +9783,6 @@ o	novoj	149000
 o	smanjenju	149000
 od	g	149000
 oni	mogu	149000
-otac	i	149000
 ovdje	i	149000
 pak	da	149000
 pitanja	koja	149000
@@ -9812,7 +9811,6 @@ vjerojatno	bi	149000
 vrlo	važno	149000
 za	pacijente	149000
 za	statistiku	149000
-zagrebu	na	149000
 zdravstvo	i	149000
 bi	imao	148000
 bude	i	148000
@@ -9849,6 +9847,7 @@ nogometna	reprezentacija	148000
 o	njegovom	148000
 o	važnosti	148000
 osobe	pozitivne	148000
+otac	i	148000
 po	svim	148000
 po	svojoj	148000
 potvrđen	kod	148000
@@ -9889,6 +9888,7 @@ uskoro	biti	148000
 uvjetima	i	148000
 za	olimpijske	148000
 za	turizam	148000
+zagrebu	na	148000
 zaraze	što	148000
 zbog	svojih	148000
 znanje	i	148000
@@ -10352,7 +10352,6 @@ istra	je	142000
 iz	s	142000
 jasno	zašto	142000
 javnog	reda	142000
-je	cijelo	142000
 je	ispod	142000
 je	otvorena	142000
 je	predstavio	142000
@@ -10431,6 +10430,7 @@ i	ljubavi	141000
 igrače	koji	141000
 iz	državnog	141000
 jako	dobra	141000
+je	cijelo	141000
 je	pozvala	141000
 je	teže	141000
 kako	navodi	141000
@@ -11373,7 +11373,6 @@ koji	više	131000
 kraja	lipnja	131000
 kuća	je	131000
 los	angelesa	131000
-me	na	131000
 međutim	ne	131000
 mjerama	za	131000
 mjestu	je	131000
@@ -11495,6 +11494,7 @@ koliko	sam	130000
 krenuli	s	130000
 li	im	130000
 listopada	godine	130000
+me	na	130000
 mjesto	a	130000
 na	izložbi	130000
 na	nije	130000
@@ -12931,7 +12931,6 @@ taj	virus	118000
 temperature	zraka	118000
 to	tek	118000
 trenera	koji	118000
-trenutačno	na	118000
 turizam	i	118000
 u	meni	118000
 u	obiteljskoj	118000
@@ -13052,6 +13051,7 @@ tijela	u	117000
 tom	su	117000
 tome	će	117000
 treba	napraviti	117000
+trenutačno	na	117000
 treći	dan	117000
 turističku	sezonu	117000
 u	kaže	117000
@@ -13245,7 +13245,6 @@ jedan	za	115000
 koja	i	115000
 koji	smatra	115000
 koji	ulaze	115000
-konferencije	za	115000
 kroz	nekoliko	115000
 li	bilo	115000
 li	možda	115000
@@ -13363,6 +13362,7 @@ jednom	i	114000
 kad	dođe	114000
 katoličke	crkve	114000
 kojeg	sam	114000
+konferencije	za	114000
 korisnika	doma	114000
 kroz	koje	114000
 kuna	s	114000
@@ -14108,7 +14108,6 @@ riješiti	problem	109000
 s	eu	109000
 s	godine	109000
 s	pozitivnim	109000
-saveza	i	109000
 se	ondje	109000
 sebe	kaže	109000
 slobodan	igrač	109000
@@ -14197,7 +14196,6 @@ i	osoblje	108000
 i	otići	108000
 i	policije	108000
 i	poput	108000
-i	putovanja	108000
 i	stručni	108000
 i	tome	108000
 i	utakmice	108000
@@ -14358,6 +14356,7 @@ i	naglasio	107000
 i	osigurati	107000
 i	potres	107000
 i	počeli	107000
+i	putovanja	107000
 i	tijelo	107000
 i	trgovine	107000
 ide	prema	107000
@@ -14434,6 +14433,7 @@ s	različitim	107000
 s	tvrtkom	107000
 sam	htio	107000
 sam	više	107000
+saveza	i	107000
 se	gleda	107000
 se	nalazila	107000
 se	obilježava	107000
@@ -15162,7 +15162,6 @@ hrvatskoj	za	102000
 i	jednim	102000
 i	krenuli	102000
 i	lijekova	102000
-i	lijepo	102000
 i	stanje	102000
 i	svjetski	102000
 i	uprave	102000
@@ -15331,6 +15330,7 @@ filmskom	festivalu	101000
 hrvatskom	i	101000
 i	dijete	101000
 i	iza	101000
+i	lijepo	101000
 i	lipnja	101000
 i	novo	101000
 i	polako	101000
@@ -16142,7 +16142,6 @@ ugovora	i	97000
 uključen	u	97000
 ulaznica	za	97000
 uz	brojne	97000
-van	i	97000
 vidljivo	da	97000
 više	ali	97000
 za	funkcioniranje	97000
@@ -16343,6 +16342,7 @@ udjela	u	96000
 uklapa	u	96000
 umjesto	njega	96000
 uslijedilo	je	96000
+van	i	96000
 veliki	i	96000
 virus	može	96000
 više	ili	96000
@@ -17334,7 +17334,6 @@ tko	ga	91000
 tomo	medved	91000
 tržište	rada	91000
 twitter	profilu	91000
-u	kazao	91000
 u	ljubav	91000
 u	meču	91000
 u	njezinom	91000
@@ -17551,6 +17550,7 @@ tužbu	protiv	90000
 u	autobusu	90000
 u	banci	90000
 u	dubrovačkoj	90000
+u	kazao	90000
 u	koaliciji	90000
 u	priči	90000
 u	razredu	90000
@@ -19953,7 +19953,6 @@ mjere	uvedene	80000
 mogla	i	80000
 mogu	kupiti	80000
 moći	igrati	80000
-možete	u	80000
 na	burzi	80000
 na	ekranu	80000
 na	trenutnu	80000
@@ -20234,6 +20233,7 @@ mjestima	na	79000
 mogli	dobiti	79000
 mora	postojati	79000
 može	riješiti	79000
+možete	u	79000
 mrtvih	i	79000
 na	izbor	79000
 na	kanalu	79000
@@ -22795,7 +22795,6 @@ mom	životu	71000
 može	ali	71000
 može	predvidjeti	71000
 možete	gledati	71000
-možete	na	71000
 mreže	u	71000
 mu	bilo	71000
 na	njezinom	71000
@@ -23162,6 +23161,7 @@ molimo	da	70000
 mom	mišljenju	70000
 mora	platiti	70000
 može	trajati	70000
+možete	na	70000
 muškarci	su	70000
 na	američke	70000
 na	granicu	70000
@@ -24993,7 +24993,6 @@ za	nabavku	66000
 za	nije	66000
 za	radio	66000
 za	svega	66000
-za	the	66000
 za	vozila	66000
 za	vođenje	66000
 za	zbrinjavanje	66000
@@ -25852,6 +25851,7 @@ za	odnosno	64000
 za	sdp	64000
 za	sredstva	64000
 za	stanovnike	64000
+za	the	64000
 za	vanjske	64000
 za	veći	64000
 zabio	dva	64000
@@ -26071,7 +26071,6 @@ mogu	zamisliti	63000
 mora	proći	63000
 može	primiti	63000
 mrežu	i	63000
-muzeja	i	63000
 na	cijenu	63000
 na	djecu	63000
 na	dno	63000
@@ -26502,6 +26501,7 @@ može	kupiti	62000
 može	znati	62000
 može	značiti	62000
 možemo	da	62000
+muzeja	i	62000
 na	intenzivnim	62000
 na	javnom	62000
 na	najmanju	62000
@@ -28454,7 +28454,6 @@ misu	u	58000
 mnogi	nisu	58000
 mnogim	drugim	58000
 mogla	postati	58000
-mogu	do	58000
 mogu	ostati	58000
 mogu	podnijeti	58000
 mogu	s	58000
@@ -29005,6 +29004,7 @@ mjeseca	na	57000
 mjeseci	je	57000
 mlađim	kategorijama	57000
 mnogo	manje	57000
+mogu	do	57000
 mogućnosti	koje	57000
 momčadi	ali	57000
 momčadi	za	57000
@@ -31949,7 +31949,6 @@ igrača	te	52000
 igrači	imaju	52000
 igru	je	52000
 ih	može	52000
-ih	nakon	52000
 ih	po	52000
 ih	već	52000
 ili	koje	52000
@@ -32598,6 +32597,7 @@ i	zagrebačka	51000
 i	zdrav	51000
 idealno	vrijeme	51000
 idealno	za	51000
+ih	nakon	51000
 im	godinama	51000
 ima	problem	51000
 imali	samo	51000
@@ -33869,7 +33869,6 @@ znatno	manji	50000
 zrak	i	50000
 će	dvije	50000
 će	gotovo	50000
-će	milijuna	50000
 će	najbolje	50000
 će	njihova	50000
 će	osim	50000
@@ -34625,6 +34624,7 @@ znam	koliko	49000
 znanja	kako	49000
 znanstvenici	iz	49000
 zvijezde	i	49000
+će	milijuna	49000
 će	njihov	49000
 će	ostaviti	49000
 će	otkriti	49000
@@ -40902,7 +40902,6 @@ uvođenju	mjera	42000
 uz	da	42000
 učiniti	ako	42000
 učiniti	je	42000
-van	u	42000
 varaždinu	ih	42000
 velik	interes	42000
 veliki	porast	42000
@@ -42025,6 +42024,7 @@ učenici	u	41000
 učiniti	kako	41000
 uđemo	u	41000
 valja	napomenuti	41000
+van	u	41000
 velika	natjecanja	41000
 velika	okupljanja	41000
 velike	šanse	41000
@@ -42441,7 +42441,6 @@ je	usvojila	40000
 je	zaključak	40000
 je	zaposlen	40000
 je	zaraženi	40000
-je	zatvorio	40000
 je	zbilja	40000
 je	žaljenje	40000
 jedan	vrlo	40000
@@ -42557,7 +42556,6 @@ možda	nešto	40000
 možda	zato	40000
 može	naučiti	40000
 mrežu	u	40000
-muzej	je	40000
 na	dodjelu	40000
 na	engleski	40000
 na	final	40000
@@ -43580,6 +43578,7 @@ je	uspješan	39000
 je	vozača	39000
 je	zakonom	39000
 je	zaraze	39000
+je	zatvorio	39000
 je	zvao	39000
 je	čista	39000
 je	španjolski	39000
@@ -43718,6 +43717,7 @@ može	predstavljati	39000
 možemo	smanjiti	39000
 mu	kaže	39000
 mu	što	39000
+muzej	je	39000
 na	ako	39000
 na	crvenoj	39000
 na	dane	39000
@@ -48248,7 +48248,6 @@ sustav	od	36000
 sustav	te	36000
 sućut	obiteljima	36000
 suživot	s	36000
-svakako	u	36000
 svaki	građanin	36000
 svakom	novom	36000
 svaku	večer	36000
@@ -49743,6 +49742,7 @@ sustav	ali	35000
 sustava	da	35000
 sva	druga	35000
 svakako	pogledajte	35000
+svakako	u	35000
 svake	od	35000
 svatko	se	35000
 sve	krenulo	35000
@@ -52388,7 +52388,6 @@ napraviti	jest	33000
 napravljen	u	33000
 napustio	i	33000
 narodne	garde	33000
-nas	kako	33000
 nas	samih	33000
 naslov	na	33000
 nastale	su	33000
@@ -52556,7 +52555,6 @@ osobe	povezane	33000
 ostat	ću	33000
 ostavku	jer	33000
 otvorili	smo	33000
-otvoriti	u	33000
 ova	serija	33000
 ovaj	dvoboj	33000
 ovaj	turnir	33000
@@ -54075,6 +54073,7 @@ napisala	kako	32000
 napoli	i	32000
 napravila	i	32000
 naredne	dvije	32000
+nas	kako	32000
 nas	uči	32000
 naselja	na	32000
 nastali	su	32000
@@ -54237,6 +54236,7 @@ ostatak	je	32000
 ostati	još	32000
 osvojenih	glasova	32000
 otvara	svoja	32000
+otvoriti	u	32000
 ova	knjiga	32000
 ovaj	par	32000
 ovakvim	uvjetima	32000
@@ -58217,7 +58217,6 @@ početku	sam	30000
 početnoj	fazi	30000
 počinje	nova	30000
 počinje	se	30000
-počinju	i	30000
 poštovati	mjere	30000
 poštuju	i	30000
 poštuju	pravila	30000
@@ -60256,6 +60255,7 @@ pozitivnih	a	29000
 počeo	rasti	29000
 počeo	trenirati	29000
 početak	pregovora	29000
+počinju	i	29000
 požara	je	29000
 prati	sve	29000
 pratili	smo	29000
@@ -60547,7 +60547,6 @@ sive	boje	29000
 sjeo	je	29000
 skočio	za	29000
 slavlje	je	29000
-slijedi	u	29000
 sljedeći	je	29000
 slobodan	trenutak	29000
 slobodnih	bacanja	29000
@@ -62330,7 +62329,6 @@ nogometna	utakmica	28000
 nogometu	a	28000
 nosila	s	28000
 nova	odluka	28000
-nova	u	28000
 nove	okolnosti	28000
 nove	restrikcije	28000
 nove	zgrade	28000
@@ -62910,6 +62908,7 @@ skupštine	i	28000
 skupštine	u	28000
 skupštini	grada	28000
 slavi	se	28000
+slijedi	u	28000
 sljedeće	kolo	28000
 slobode	kretanja	28000
 slobode	medija	28000
@@ -64703,6 +64702,7 @@ nosi	maske	27000
 nosi	na	27000
 notre	dame	27000
 nova	imena	27000
+nova	u	27000
 nova	znanja	27000
 novca	je	27000
 nove	navike	27000
@@ -65241,7 +65241,6 @@ samo	ovaj	27000
 samo	prvi	27000
 samo	zajedno	27000
 sao	paulu	27000
-sarajevu	u	27000
 sasvim	normalno	27000
 sasvim	novi	27000
 sati	protiv	27000
@@ -67752,6 +67751,7 @@ sama	sa	26000
 samo	ona	26000
 samo	rijetki	26000
 samo	tisuća	26000
+sarajevu	u	26000
 sata	izvršeno	26000
 sata	osobe	26000
 sata	policijski	26000
@@ -80075,7 +80075,6 @@ ponašanju	u	22000
 ponedjeljak	kada	22000
 ponedjeljak	objavila	22000
 ponedjeljak	poslijepodne	22000
-ponedjeljak	za	22000
 ponedjeljak	županijski	22000
 ponosna	je	22000
 ponosno	je	22000
@@ -83967,6 +83966,7 @@ pomoći	koja	21000
 pomoćnica	ministra	21000
 ponaša	u	21000
 ponašanje	prema	21000
+ponedjeljak	za	21000
 ponedjeljka	navečer	21000
 ponovno	ima	21000
 ponovno	nakon	21000
@@ -84609,7 +84609,6 @@ splitu	koji	21000
 spola	a	21000
 spomenika	u	21000
 spominjali	su	21000
-sporta	na	21000
 sporta	te	21000
 sportaš	koji	21000
 spot	koji	21000
@@ -88963,6 +88962,7 @@ sporazuma	između	20000
 sporije	nego	20000
 sporno	da	20000
 sporta	je	20000
+sporta	na	20000
 sportaša	iz	20000
 sportom	i	20000
 spota	za	20000
@@ -89957,7 +89957,6 @@ zračnom	prometu	20000
 će	jedino	20000
 će	jedno	20000
 će	maske	20000
-će	mjesto	20000
 će	moja	20000
 će	najprije	20000
 će	novo	20000
@@ -94883,6 +94882,7 @@ zvijezdu	na	19000
 će	koliko	19000
 će	liječnici	19000
 će	ministar	19000
+će	mjesto	19000
 će	objavljene	19000
 će	objavljeno	19000
 će	obje	19000
@@ -99055,7 +99055,6 @@ slavlje	i	18000
 slavna	osoba	18000
 slici	i	18000
 slijedi	je	18000
-slijedi	s	18000
 slika	koje	18000
 slikovito	rečeno	18000
 slično	onome	18000
@@ -101734,7 +101733,6 @@ i	stadion	17000
 i	stalni	17000
 i	stanovima	17000
 i	stilu	17000
-i	stol	17000
 i	strukture	17000
 i	sveučilišne	17000
 i	svjetlo	17000
@@ -104412,7 +104410,6 @@ preseljenje	u	17000
 prestanka	epidemije	17000
 presudna	za	17000
 prethodno	bio	17000
-prethodno	na	17000
 prethodno	zatvaranje	17000
 pretrage	i	17000
 prevrnuo	se	17000
@@ -105067,6 +105064,7 @@ slavonija	i	17000
 slažem	s	17000
 sletio	na	17000
 slijede	u	17000
+slijedi	s	17000
 slijediti	primjer	17000
 slikom	i	17000
 slično	ali	17000
@@ -107945,7 +107943,6 @@ i	drage	16000
 i	drvo	16000
 i	dugom	16000
 i	engleskoj	16000
-i	fair	16000
 i	financiranja	16000
 i	fond	16000
 i	fran	16000
@@ -108163,6 +108160,7 @@ i	srpska	16000
 i	srpskog	16000
 i	stalna	16000
 i	stanovništvo	16000
+i	stol	16000
 i	stopa	16000
 i	stražnja	16000
 i	streljivo	16000
@@ -111108,6 +111106,7 @@ prestanak	pušenja	16000
 prestati	raditi	16000
 prestižne	nagrade	16000
 presudu	za	16000
+prethodno	na	16000
 prethodno	osobom	16000
 pretpostavka	da	16000
 pretvorio	je	16000
@@ -113921,7 +113920,6 @@ bih	biti	15000
 bih	dao	15000
 bih	ih	15000
 bih	ipak	15000
-bih	istaknuo	15000
 bih	radije	15000
 bih	sa	15000
 bijeli	kruh	15000
@@ -114634,6 +114632,7 @@ e	rh	15000
 e	tu	15000
 efekte	i	15000
 ehf	lige	15000
+eiffelov	toranj	15000
 ekonomskih	aktivnosti	15000
 ekonomsku	situaciju	15000
 ekskluzivno	istraživanje	15000
@@ -115024,6 +115023,7 @@ i	dugotrajna	15000
 i	edo	15000
 i	ekipu	15000
 i	elegantno	15000
+i	fair	15000
 i	fakultetima	15000
 i	filmska	15000
 i	filmskih	15000
@@ -121713,6 +121713,7 @@ bicikla	i	14000
 biciklističke	utrke	14000
 bih	dr	14000
 bih	igrati	14000
+bih	istaknuo	14000
 bih	kada	14000
 bih	ostati	14000
 bih	otišao	14000
@@ -134656,7 +134657,6 @@ na	izvoru	13000
 na	javljaju	13000
 na	jedinstvenu	13000
 na	kamen	13000
-na	kanalima	13000
 na	katedrali	13000
 na	kauč	13000
 na	kazala	13000
@@ -139710,6 +139710,7 @@ vam	pokazati	13000
 vam	svima	13000
 vam	za	13000
 van	da	13000
+van	gogh	13000
 van	granica	13000
 van	snage	13000
 vanessa	bryant	13000
@@ -139738,7 +139739,6 @@ važan	susret	13000
 važno	koliko	13000
 važno	to	13000
 važno	upozorenje	13000
-veleposlanik	je	13000
 velika	nepoznanica	13000
 velika	sredstva	13000
 velikani	poput	13000
@@ -144369,7 +144369,6 @@ jezika	koji	12000
 jeziku	je	12000
 joea	koji	12000
 jogurta	i	12000
-joj	baš	12000
 joj	neće	12000
 joj	s	12000
 joj	samo	12000
@@ -145448,7 +145447,6 @@ mogu	oštetiti	12000
 mogu	po	12000
 mogu	postojati	12000
 mogu	potrajati	12000
-mogu	preko	12000
 mogu	primijeniti	12000
 mogu	provoditi	12000
 mogu	sigurno	12000
@@ -145659,6 +145657,7 @@ na	izolaciju	12000
 na	javlja	12000
 na	jugoslaviju	12000
 na	kampusu	12000
+na	kanalima	12000
 na	ključna	12000
 na	kocku	12000
 na	kompromis	12000
@@ -145981,7 +145980,6 @@ nas	dijeli	12000
 nas	doma	12000
 nas	igrače	12000
 nas	ili	12000
-nas	koliko	12000
 nas	ljudi	12000
 nas	ni	12000
 nas	o	12000
@@ -149866,7 +149864,6 @@ ste	pročitali	12000
 ste	zadnji	12000
 stepenicama	u	12000
 stigla	tek	12000
-stigla	za	12000
 stiglo	vrijeme	12000
 stihove	i	12000
 stipendije	za	12000
@@ -156862,6 +156859,7 @@ jezika	ali	11000
 jeziku	na	11000
 johna	koji	11000
 johnsona	i	11000
+joj	baš	11000
 joj	bile	11000
 joj	daju	11000
 joj	dati	11000
@@ -158172,6 +158170,7 @@ mogu	platiti	11000
 mogu	pokrenuti	11000
 mogu	popraviti	11000
 mogu	predstavljati	11000
+mogu	preko	11000
 mogu	procijeniti	11000
 mogu	sjetiti	11000
 mogu	vrlo	11000
@@ -158816,6 +158815,7 @@ naročito	kad	11000
 naročito	nakon	11000
 naručili	smo	11000
 nas	brine	11000
+nas	koliko	11000
 nas	mogao	11000
 nas	no	11000
 nas	odvesti	11000
@@ -163519,6 +163519,7 @@ sterling	je	11000
 stigao	zahtjev	11000
 stigla	nova	11000
 stigla	obavijest	11000
+stigla	za	11000
 stiglo	oko	11000
 stignu	do	11000
 stil	a	11000
@@ -165504,6 +165505,7 @@ važno	kada	11000
 važno	zbog	11000
 važnost	da	11000
 važnosti	očuvanja	11000
+veleposlanik	je	11000
 veli	kako	11000
 velik	dan	11000
 velik	jer	11000
@@ -171743,7 +171745,6 @@ jedinici	ali	10000
 jedinici	kao	10000
 jedino	možemo	10000
 jedino	ne	10000
-jedino	nije	10000
 jedino	po	10000
 jedino	sam	10000
 jedino	to	10000
@@ -176782,7 +176783,6 @@ posjetitelja	te	10000
 posjetitelji	i	10000
 posjetiteljima	da	10000
 posjetiteljima	će	10000
-posjetiti	u	10000
 posjećuju	i	10000
 posla	kaže	10000
 posla	ne	10000
@@ -189592,7 +189592,6 @@ je	terasa	9000
 je	teški	9000
 je	tiha	9000
 je	tipični	9000
-je	toranj	9000
 je	točnije	9000
 je	travanj	9000
 je	tražilo	9000
@@ -189708,6 +189707,7 @@ jedinica	te	9000
 jedinice	koje	9000
 jedinicu	a	9000
 jedino	ispravno	9000
+jedino	nije	9000
 jedino	sigurno	9000
 jedinstvena	i	9000
 jedinstvenom	digitalnom	9000
@@ -195831,6 +195831,7 @@ podršku	žrtvama	9000
 podržalo	je	9000
 podržan	od	9000
 podržava	a	9000
+podsjeti	na	9000
 podsjetnik	je	9000
 podu	a	9000
 podupiru	i	9000
@@ -196234,6 +196235,7 @@ posjeti	oko	9000
 posjetitelja	od	9000
 posjetitelji	u	9000
 posjetiteljima	je	9000
+posjetiti	u	9000
 posla	bio	9000
 posla	no	9000
 posla	više	9000
@@ -199023,6 +199025,7 @@ sekundi	na	9000
 sekundu	prije	9000
 selena	gomez	9000
 self	help	9000
+selidba	u	9000
 selidbe	u	9000
 seljaka	i	9000
 seljačka	buna	9000
@@ -203433,6 +203436,7 @@ za	papire	9000
 za	pariz	9000
 za	peti	9000
 za	petnaest	9000
+za	podcast	9000
 za	pogled	9000
 za	ponovnim	9000
 za	ponuda	9000
@@ -212074,6 +212078,7 @@ je	tik	8000
 je	tipična	8000
 je	tlak	8000
 je	toplije	8000
+je	toranj	8000
 je	totalna	8000
 je	trebali	8000
 je	treninge	8000
@@ -215189,6 +215194,7 @@ možete	odrediti	8000
 možete	otkriti	8000
 možete	podnijeti	8000
 možete	poslati	8000
+možete	rezervirati	8000
 možete	svoj	8000
 možete	tražiti	8000
 možete	uključiti	8000
@@ -219995,9 +220001,3 @@ pogodnosti	i	8000
 pogona	koji	8000
 pogone	i	8000
 pogonu	na	8000
-pogotka	nakon	8000
-pogotka	nije	8000
-pogotka	pala	8000
-pogotkom	a	8000
-pogotovo	mi	8000
-pogotovo	ona	8000

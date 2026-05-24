@@ -3,24 +3,3 @@
 # Derived from bigram tokens whose scaled frequency is at least 5000.
 # Frequency formula: clamp(round(sqrt(bigram_frequency) * 10.0), 2000, 6000).
 # Format: word<TAB>derived_frequency
-
-# Curated broad-life phone vocabulary floors from
-# scripts/audit_android_keyboard_spanish_portuguese_usage.py.
-adiciona	2000
-aluguel	2500
-avisa	2000
-carrega	2000
-cita	1800
-confere	2500
-confirma	2500
-conserto	2500
-encanador	2000
-farmácia	3000
-mesquita	2000
-placar	2000
-podcast	2500
-preparo	2000
-reservar	2000
-respondo	2000
-revisa	2500
-treina	2000
