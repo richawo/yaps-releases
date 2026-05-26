@@ -2,10 +2,16 @@
 # Source: wordfreq top_n_list/zipf_frequency; see script header.
 # Format: word<TAB>frequency
 a	1000000
+se	1000000
 v	1000000
+na	912011
+je	707946
+to	645654
+že	457088
 s	371535
 z	346737
 si	323594
+do	316228
 jsem	309030
 ale	295121
 o	275423
@@ -27,7 +33,6 @@ cituje	234567
 debata	234567
 dej	234567
 dnes	234567
-do	234567
 dokument	234567
 doma	234567
 domov	234567
@@ -49,7 +54,6 @@ hráč	234567
 hudba	234567
 internet	234567
 jde	234567
-je	234567
 jídlo	234567
 jíme	234567
 jízdenka	234567
@@ -90,7 +94,6 @@ mění	234567
 město	234567
 může	234567
 můžeš	234567
-na	234567
 nabíjí	234567
 narozeniny	234567
 neděle	234567
@@ -145,7 +148,6 @@ rychlá	234567
 ráno	234567
 schůzka	234567
 schůzkou	234567
-se	234567
 seriál	234567
 seznam	234567
 skóre	234567
@@ -162,7 +164,6 @@ taxík	234567
 telefon	234567
 tento	234567
 termín	234567
-to	234567
 trasa	234567
 trénuje	234567
 táta	234567
@@ -203,7 +204,6 @@ zůstává	234567
 čas	234567
 čeká	234567
 škola	234567
-že	234567
 žádá	234567
 ve	199526
 co	186209
@@ -5110,6 +5110,10 @@ vincent	2000
 vinci	2000
 william	2000
 wolfgang	2000
+benzinu	1500
+nabití	1500
+polojasno	1500
+benzín	1000
 novými	891
 nákladní	891
 národních	891
@@ -8737,6 +8741,7 @@ závislá	501
 řekněme	501
 říma	501
 švýcarska	501
+telefonát	500
 absence	490
 armádou	490
 barrandov	490
@@ -13515,6 +13520,14 @@ zónu	302
 železnici	302
 železný	302
 živočichů	302
+antibiotik	300
+horečkou	300
+lékárnách	300
+nabíječku	300
+rýma	300
+telefonátu	300
+účtenku	300
+školku	300
 absolventi	295
 ahojky	295
 ai	295
@@ -14565,7 +14578,6 @@ architektů	269
 atentátu	269
 bavil	269
 benjamin	269
-benzín	269
 blízkým	269
 bohumil	269
 bojovala	269
@@ -26979,7 +26991,6 @@ svobodném	123
 systémový	123
 sérum	123
 tajným	123
-telefonát	123
 televizor	123
 thompson	123
 tiger	123
@@ -32580,7 +32591,6 @@ zářením	93
 úsporné	93
 útlaku	93
 účinkování	93
-účtenku	93
 činoherní	93
 čočka	93
 čus	93
@@ -33253,7 +33263,6 @@ movie	89
 mužstvem	89
 myslitel	89
 márnice	89
-nabíječku	89
 nadbytek	89
 nadpřirozené	89
 nakupují	89
@@ -33577,7 +33586,6 @@ agresi	87
 aim	87
 americko	87
 angažovala	87
-antibiotik	87
 anál	87
 artefaktů	87
 ask	87
@@ -34290,7 +34298,6 @@ mág	85
 máta	85
 míčky	85
 müsli	85
-nabití	85
 nabourat	85
 nabyla	85
 nakazit	85
@@ -36164,7 +36171,6 @@ zřícení	79
 šarže	79
 šipka	79
 širokými	79
-školku	79
 špatnými	79
 špinavá	79
 šunky	79
@@ -37002,7 +37008,6 @@ pohybového	76
 pohádkách	76
 pojmenovala	76
 pojmenovaný	76
-polojasno	76
 ponorek	76
 poslaneckou	76
 potravinářských	76
@@ -39190,7 +39195,6 @@ lodičky	69
 logic	69
 lokalitou	69
 lokalizovat	69
-lékárnách	69
 léčebný	69
 lítá	69
 magdaléna	69
@@ -40211,7 +40215,6 @@ automobilech	66
 autoritativní	66
 bakteriemi	66
 bean	66
-benzinu	66
 birthday	66
 bishop	66
 bitevním	66
@@ -41867,7 +41870,6 @@ tamta	63
 tatáž	63
 tchyně	63
 telefonoval	63
-telefonátu	63
 telegraph	63
 teplicemi	63
 terezíně	63
@@ -42099,7 +42101,6 @@ hlubinách	62
 hlášeny	62
 hmotného	62
 hokejisty	62
-horečkou	62
 horse	62
 hospodáře	62
 hořkost	62
@@ -47103,7 +47104,6 @@ rss	52
 rwe	52
 rychly	52
 rychtáře	52
-rýma	52
 saddám	52
 sahal	52
 samců	52

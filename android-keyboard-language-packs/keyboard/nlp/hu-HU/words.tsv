@@ -2,19 +2,22 @@
 # Source: wordfreq top_n_list/zipf_frequency; see script header.
 # Format: word<TAB>frequency
 a	1000000
+az	1000000
 és	1000000
 nem	758578
+hogy	676083
 egy	616595
 is	524807
 de	331131
+meg	316228
 csak	245471
 ha	245471
+van	245471
 add	234567
 amikor	234567
 anya	234567
 apa	234567
 autó	234567
-az	234567
 azt	234567
 bank	234567
 bemutatja	234567
@@ -71,7 +74,6 @@ gyógyszer	234567
 gyógyszertár	234567
 használ	234567
 hiszem	234567
-hogy	234567
 holnap	234567
 holnapra	234567
 hotel	234567
@@ -128,7 +130,6 @@ magyarázza	234567
 marad	234567
 meccs	234567
 mecset	234567
-meg	234567
 megerősíti	234567
 megy	234567
 mentsd	234567
@@ -182,7 +183,6 @@ történelem	234567
 törvény	234567
 után	234567
 vacsora	234567
-van	234567
 vasárnap	234567
 venni	234567
 verseny	234567
@@ -374,7 +374,6 @@ hol	16982
 kéne	16982
 mondta	16982
 of	16982
-in	16596
 következő	16596
 magam	16596
 pont	16596
@@ -986,7 +985,6 @@ külföldi	4898
 lennék	4898
 létre	4898
 magyarországi	4898
-max	4898
 mielőtt	4898
 mindenkit	4898
 nevű	4898
@@ -1815,7 +1813,6 @@ bővebben	3000
 bőven	3000
 bűn	3000
 carl	3000
-carlos	3000
 cd	3000
 center	3000
 charles	3000
@@ -2202,7 +2199,6 @@ falusi	3000
 family	3000
 fantasy	3000
 farkas	3000
-fasz	3000
 fc	3000
 fegyver	3000
 fegyverek	3000
@@ -5822,6 +5818,18 @@ zseni	708
 örül	708
 ügyek	708
 ügyvédi	708
+felhős	700
+internetet	700
+iskolások	700
+mentőket	700
+mentőt	700
+munkaidőben	700
+riasztást	700
+telefonját	700
+tűzoltókat	700
+zápor	700
+árakat	700
+édesanya	700
 afrika	692
 alkohol	692
 alszom	692
@@ -12340,6 +12348,18 @@ zöldségek	302
 újjá	302
 úszás	302
 ülésen	302
+alapanyagok	300
+esőzés	300
+fáradtság	300
+gyerekeim	300
+játszótér	300
+megbeszélésen	300
+mobiltelefonok	300
+orvosoknak	300
+tanároknak	300
+tapasztaltam	300
+várnunk	300
+áramszünet	300
 adminisztratív	295
 akvárium	295
 alkalmanként	295
@@ -14278,6 +14298,10 @@ zsúfolt	251
 örülsz	251
 összeomlik	251
 összeállt	251
+babának	250
+fejfájást	250
+hazaértünk	250
+járdán	250
 acer	245
 admirális	245
 akusztikus	245
@@ -20228,6 +20252,9 @@ zöldek	151
 örökzöld	151
 úgymond	151
 újrahasznosítás	151
+fizetniük	150
+pohárba	150
+várakozási	150
 adományt	148
 ajtókat	148
 alkotásai	148
@@ -26531,7 +26558,6 @@ esztétika	100
 esélyei	100
 exchange	100
 feature	100
-fejfájást	100
 fejlesztéseket	100
 fejlődésére	100
 feledje	100
@@ -26554,7 +26580,6 @@ filozófiája	100
 finnek	100
 fitzgerald	100
 fizessen	100
-fizetniük	100
 fogant	100
 fontolóra	100
 fordulj	100
@@ -26575,7 +26600,6 @@ georg	100
 gigantikus	100
 gondoskodó	100
 gyakorolják	100
-gyerekeim	100
 gyúlékony	100
 gépesített	100
 hallgatóság	100
@@ -26587,7 +26611,6 @@ hasznosítása	100
 használatához	100
 hatástalan	100
 hazatér	100
-hazaértünk	100
 helyből	100
 hercegnőnek	100
 herr	100
@@ -26624,7 +26647,6 @@ jegyei	100
 jelleget	100
 jutnia	100
 jászberényi	100
-játszótér	100
 játékokra	100
 jéghideg	100
 jézussal	100
@@ -26695,7 +26717,6 @@ manning	100
 manuális	100
 maradvány	100
 mass	100
-megbeszélésen	100
 megfelelőnek	100
 meggyilkolta	100
 meghozni	100
@@ -26810,7 +26831,6 @@ sérül	100
 tabu	100
 találkozások	100
 tanulsága	100
-tapasztaltam	100
 teljesítették	100
 terjedni	100
 terjeszti	100
@@ -26907,7 +26927,6 @@ atlasz	98
 atmoszféra	98
 autókkal	98
 babe	98
-babának	98
 bajusz	98
 balul	98
 bambi	98
@@ -27049,7 +27068,6 @@ irányelv	98
 its	98
 jellegzetesen	98
 jt	98
-járdán	98
 járványügyi	98
 játszva	98
 kamarazenekar	98
@@ -27268,7 +27286,6 @@ vonzalom	98
 vágány	98
 változáson	98
 váltóval	98
-várnunk	98
 vártnál	98
 védelmezője	98
 végezetül	98
@@ -27847,7 +27864,6 @@ fowler	93
 frontális	93
 funkciói	93
 fájnak	93
-fáradtság	93
 fázisában	93
 férjet	93
 fújja	93
@@ -28011,7 +28027,6 @@ modelljét	93
 montenegró	93
 morvai	93
 mosolyogni	93
-munkaidőben	93
 munkád	93
 mágiát	93
 mánia	93
@@ -28098,7 +28113,6 @@ sötétzöld	93
 tangó	93
 tanuljunk	93
 tehetem	93
-telefonját	93
 telhetőt	93
 templomhoz	93
 terheli	93
@@ -29073,7 +29087,6 @@ akadályokat	87
 akikben	87
 akkreditált	87
 alakformáló	87
-alapanyagok	87
 alejandro	87
 algoritmust	87
 alkatrészt	87
@@ -30011,7 +30024,6 @@ zömében	85
 állapotára	85
 ásni	85
 átalakító	85
-édesanya	85
 éjszakába	85
 életén	85
 élvezettel	85
@@ -30195,7 +30207,6 @@ hülyegyerek	83
 idehaza	83
 igyál	83
 indokolja	83
-internetet	83
 ismeret	83
 javítások	83
 jegybank	83
@@ -30477,8 +30488,6 @@ zömmel	83
 állásajánlat	83
 állító	83
 álnév	83
-árakat	83
-áramszünet	83
 átállt	83
 ától	83
 átütő	83
@@ -30983,6 +30992,10 @@ wien	81
 őrséget	81
 őrzők	81
 ω	81
+carlos	80
+fasz	80
+in	80
+max	80
 adalék	79
 adatokból	79
 adatokra	79
@@ -31094,7 +31107,6 @@ fedélzetre	79
 fegyverszünetet	79
 felelősnek	79
 felfedte	79
-felhős	79
 feljutni	79
 felséges	79
 felsővezeték	79
@@ -32859,7 +32871,6 @@ pisa	74
 pisztráng	74
 pixel	74
 platán	74
-pohárba	74
 politikáról	74
 pony	74
 porto	74
@@ -32881,7 +32892,6 @@ reménnyel	74
 rendesek	74
 rendszerszintű	74
 repülőtéri	74
-riasztást	74
 rituálé	74
 rokonságban	74
 rudat	74
@@ -35019,7 +35029,6 @@ olvasmányok	68
 olvastunk	68
 opcionális	68
 operettszínház	68
-orvosoknak	68
 own	68
 paraméterei	68
 perbe	68
@@ -35788,7 +35797,6 @@ woo	66
 yellow	66
 zh	66
 zsebéből	66
-zápor	66
 zászlaja	66
 zöldre	66
 ágra	66
@@ -36171,7 +36179,6 @@ mindenét	65
 mindezért	65
 mindkettejüket	65
 mivelhogy	65
-mobiltelefonok	65
 mozgásának	65
 mozgékony	65
 mun	65
@@ -36761,7 +36768,6 @@ megőrizve	63
 melege	63
 mellkasán	63
 mellék	63
-mentőt	63
 mezt	63
 mezőnyt	63
 michaelt	63
@@ -36963,7 +36969,6 @@ választópolgárok	63
 válságba	63
 változatában	63
 változtattam	63
-várakozási	63
 városház	63
 városszerte	63
 vázlatot	63
@@ -39405,7 +39410,6 @@ túlélésért	58
 túszként	58
 tűzeset	58
 tűznek	58
-tűzoltókat	58
 tűzszünet	58
 utalásokat	58
 utasaink	58
@@ -40356,7 +40360,6 @@ internethasználat	55
 intézkedésekre	55
 intézményes	55
 iskolákba	55
-iskolások	55
 ismerhető	55
 ismételje	55
 iszonyúan	55
@@ -43186,7 +43189,6 @@ mellényt	50
 mendoza	50
 menetrendi	50
 mentheti	50
-mentőket	50
 meríti	50
 merülve	50
 metódus	50
@@ -44390,7 +44392,6 @@ esküvők	48
 essex	48
 estélyi	48
 eszközeinek	48
-esőzés	48
 evang	48
 falujában	48
 fegyverével	48
@@ -45563,7 +45564,6 @@ tanuld	47
 tanulmányozására	47
 tanyák	47
 tanácsait	47
-tanároknak	47
 tanítványait	47
 tapasztalatod	47
 tarantino	47

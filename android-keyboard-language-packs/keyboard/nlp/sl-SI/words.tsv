@@ -2,16 +2,24 @@
 # Source: wordfreq top_n_list/zipf_frequency; see script header.
 # Format: word<TAB>frequency
 in	1000000
+je	1000000
 v	1000000
 na	776247
+se	758578
+da	575440
 so	537032
+za	512861
 ki	501187
 pa	363078
 z	346737
 tudi	331131
+lahko	309030
 s	288403
+ne	275423
 kot	269153
+po	245471
 še	245471
+hvala	240000
 avto	234567
 avtobus	234567
 banka	234567
@@ -19,7 +27,6 @@ bo	234567
 cena	234567
 cerkev	234567
 citira	234567
-da	234567
 dan	234567
 danes	234567
 datoteka	234567
@@ -45,7 +52,6 @@ hiša	234567
 hotel	234567
 hrana	234567
 hrani	234567
-hvala	234567
 igra	234567
 igralec	234567
 ima	234567
@@ -53,7 +59,6 @@ imaš	234567
 internet	234567
 izpit	234567
 javi	234567
-je	234567
 jemo	234567
 jutri	234567
 kampanja	234567
@@ -69,7 +74,6 @@ kosilo	234567
 kruh	234567
 kuhinja	234567
 kupiti	234567
-lahko	234567
 lekarna	234567
 letališče	234567
 mama	234567
@@ -89,7 +93,6 @@ nakup	234567
 naloga	234567
 naročilo	234567
 naslov	234567
-ne	234567
 nedelja	234567
 odgovarja	234567
 odgovor	234567
@@ -105,7 +108,6 @@ oče	234567
 pisarna	234567
 plača	234567
 plačilo	234567
-po	234567
 podcast	234567
 pokliči	234567
 pokriva	234567
@@ -142,7 +144,6 @@ recept	234567
 rezervirati	234567
 rezultat	234567
 rojstni	234567
-se	234567
 selitev	234567
 serija	234567
 sestanek	234567
@@ -180,7 +181,6 @@ vlak	234567
 vozovnica	234567
 vozovnico	234567
 vzame	234567
-za	234567
 zahteva	234567
 zakon	234567
 zapira	234567
@@ -2927,6 +2927,7 @@ objekti	3000
 objektov	3000
 oblast	3000
 oblačila	3000
+oblačno	3000
 obleke	3000
 obleko	3000
 obletnici	3000
@@ -8476,6 +8477,9 @@ zvestobo	501
 šolanja	501
 štajerskem	501
 žarkov	501
+nakupe	500
+prihodnjem	500
+vrtce	500
 agent	490
 anglije	490
 avtomobili	490
@@ -13155,6 +13159,14 @@ zvonik	302
 švedsko	302
 švice	302
 žrtvam	302
+aktivirati	300
+alergija	300
+kavico	300
+kašlja	300
+lekarne	300
+polnjenja	300
+receptu	300
+vozovnic	300
 afriške	295
 alpskih	295
 američanov	295
@@ -30873,7 +30885,6 @@ zvezdico	102
 abecednem	100
 absorpcije	100
 academy	100
-aktivirati	100
 albanije	100
 alec	100
 alvarez	100
@@ -31149,7 +31160,6 @@ pokoju	100
 pokritje	100
 polfinalni	100
 policy	100
-polnjenja	100
 polovično	100
 pomislimo	100
 ponavljajoči	100
@@ -31942,7 +31952,6 @@ zzzs	98
 žarkom	98
 abrahama	95
 alarma	95
-alergija	95
 aljaska	95
 alonso	95
 animirane	95
@@ -32094,7 +32103,6 @@ kadrovsko	95
 kanalizacija	95
 karneval	95
 katar	95
-kašlja	95
 kemijska	95
 kilometri	95
 kitajcev	95
@@ -32660,7 +32668,6 @@ kakovostni	93
 kampiranje	93
 karolini	93
 kartuše	93
-kavico	93
 kingsley	93
 kitar	93
 kitarista	93
@@ -33863,7 +33870,6 @@ razsvetljenstva	89
 razvijalec	89
 realizacija	89
 realizacijo	89
-receptu	89
 redkokdaj	89
 registrsko	89
 rekordom	89
@@ -35467,7 +35473,6 @@ mvp	83
 nagovarja	83
 nahajali	83
 najbližjega	83
-nakupe	83
 naporom	83
 napoto	83
 napredovanjem	83
@@ -37203,7 +37208,6 @@ nominacije	78
 norvežani	78
 nt	78
 objavimo	78
-oblačno	78
 obnavljali	78
 obravnavalo	78
 obraznih	78
@@ -39374,7 +39378,6 @@ vojskovanje	72
 voliti	72
 voza	72
 voznih	72
-vozovnic	72
 vpisu	72
 vrelcev	72
 vrlin	72
@@ -42907,7 +42910,6 @@ krožku	63
 kunaver	63
 kurja	63
 kvantna	63
-lekarne	63
 leopolda	63
 letovišču	63
 libanon	63
@@ -43128,7 +43130,6 @@ prevzemanje	63
 prešle	63
 pridružim	63
 pridružimo	63
-prihodnjem	63
 prijetnih	63
 prilagodljiv	63
 priliv	63
@@ -52306,7 +52307,6 @@ vozov	48
 vrhnja	48
 vrjetno	48
 vrnjeni	48
-vrtce	48
 vrtnarja	48
 vrtovec	48
 vsakdan	48

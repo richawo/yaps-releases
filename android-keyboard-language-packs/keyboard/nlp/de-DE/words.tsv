@@ -426,7 +426,6 @@ auto	8913
 bringen	8913
 danach	8913
 deutlich	8913
-dr	8913
 finde	8913
 hand	8913
 jede	8913
@@ -468,6 +467,7 @@ hätten	8128
 los	8128
 mutter	8128
 wochen	8128
+prüfe	8000
 schließlich	8000
 straße	8000
 augen	7943
@@ -476,7 +476,6 @@ braucht	7943
 denke	7943
 gruppe	7943
 her	7943
-is	7943
 meisten	7943
 millionen	7943
 schreiben	7943
@@ -550,7 +549,10 @@ liegen	7079
 neues	7079
 passiert	7079
 österreich	7079
+küche	7000
+lädt	7000
 spaß	7000
+teilen	7000
 bevor	6918
 gegeben	6918
 hamburg	6918
@@ -655,7 +657,12 @@ spielt	6026
 sprechen	6026
 video	6026
 x	6026
+arbeitet	6000
 außer	6000
+fürs	6000
+lehrer	6000
+termin	6000
+ändert	6000
 august	5888
 bilder	5888
 dachte	5888
@@ -774,8 +781,21 @@ verschiedene	5012
 weiterhin	5012
 ziehen	5012
 überall	5012
+anruf	5000
+behalte	5000
+besprechung	5000
 brandenburger	5000
+budget	5000
+büro	5000
+datei	5000
 eiffelturm	5000
+einkäufe	5000
+hausaufgabe	5000
+klempner	5000
+miete	5000
+reparatur	5000
+verspätung	5000
+vorbereiten	5000
 antwort	4898
 bahn	4898
 berliner	4898
@@ -1025,7 +1045,6 @@ reich	3802
 rot	3802
 samstag	3802
 satz	3802
-teilen	3802
 themen	3802
 vermutlich	3802
 ändern	3802
@@ -1040,7 +1059,6 @@ freuen	3715
 geh	3715
 gewählt	3715
 john	3715
-lehrer	3715
 leipzig	3715
 runde	3715
 scheiss	3715
@@ -1153,7 +1171,6 @@ zahlreiche	3388
 zeichen	3388
 zuletzt	3388
 absolut	3311
-arbeitet	3311
 auswahl	3311
 christian	3311
 derzeit	3311
@@ -1282,8 +1299,11 @@ weisst	3020
 welchen	3020
 werbung	3020
 aachen	3000
+abendessen	3000
 abends	3000
 abenteuer	3000
+abfahrt	3000
+abgabetermin	3000
 abgeben	3000
 abgegeben	3000
 abgelehnt	3000
@@ -1370,6 +1390,7 @@ anfangen	3000
 anfangs	3000
 anforderungen	3000
 anfrage	3000
+anfängt	3000
 angabe	3000
 angeblich	3000
 angebote	3000
@@ -1400,6 +1421,8 @@ angriffe	3000
 anhalt	3000
 anhand	3000
 anhänger	3000
+ankommen	3000
+ankommst	3000
 ankunft	3000
 anlage	3000
 anlagen	3000
@@ -1412,7 +1435,6 @@ anna	3000
 annahme	3000
 anne	3000
 annehmen	3000
-anruf	3000
 anrufen	3000
 ans	3000
 ansatz	3000
@@ -1433,10 +1455,12 @@ anti	3000
 anton	3000
 antrag	3000
 antworten	3000
+antwortet	3000
 anwalt	3000
 anwendung	3000
 anzeige	3000
 anzeigen	3000
+apotheke	3000
 app	3000
 apple	3000
 apps	3000
@@ -1535,6 +1559,7 @@ ausreichend	3000
 aussage	3000
 aussagen	3000
 ausschliesslich	3000
+ausschließlich	3000
 ausschuss	3000
 aussehen	3000
 aussen	3000
@@ -1555,6 +1580,7 @@ autor	3000
 autoren	3000
 autorin	3000
 autos	3000
+außen	3000
 baby	3000
 bach	3000
 bachelor	3000
@@ -1661,6 +1687,7 @@ beratung	3000
 berechtigt	3000
 bereiche	3000
 bereichen	3000
+bereite	3000
 bereiten	3000
 bereitet	3000
 berg	3000
@@ -1849,6 +1876,7 @@ brille	3000
 britische	3000
 britischen	3000
 brot	3000
+browser	3000
 brust	3000
 brücke	3000
 brüder	3000
@@ -1877,7 +1905,6 @@ büchern	3000
 bühne	3000
 bündnis	3000
 bürgermeister	3000
-büro	3000
 café	3000
 can	3000
 carl	3000
@@ -2428,7 +2455,6 @@ fort	3000
 fortschritt	3000
 fortsetzung	3000
 forum	3000
-fr	3000
 frag	3000
 fragt	3000
 fragte	3000
@@ -2458,6 +2484,7 @@ friedhof	3000
 friedrich	3000
 frisch	3000
 frische	3000
+frist	3000
 fritz	3000
 froh	3000
 from	3000
@@ -2497,7 +2524,6 @@ führte	3000
 führten	3000
 führung	3000
 fünften	3000
-fürs	3000
 füsse	3000
 füssen	3000
 gaben	3000
@@ -2528,6 +2554,7 @@ gebrauch	3000
 gebrauchen	3000
 gebraucht	3000
 gebrochen	3000
+gebucht	3000
 gebunden	3000
 geburt	3000
 geburtstag	3000
@@ -2760,6 +2787,7 @@ grossbritannien	3000
 grossem	3000
 grossteil	3000
 group	3000
+großes	3000
 grunde	3000
 grundlage	3000
 grundlagen	3000
@@ -2772,6 +2800,8 @@ grösseren	3000
 grösstenteils	3000
 grösster	3000
 größer	3000
+größere	3000
+größeren	3000
 größte	3000
 grün	3000
 gründe	3000
@@ -2833,6 +2863,7 @@ hauptbahnhof	3000
 hauptsache	3000
 hauptstadt	3000
 hauptsächlich	3000
+hausaufgaben	3000
 hauses	3000
 haushalt	3000
 haut	3000
@@ -3092,6 +3123,7 @@ jürgen	3000
 kabel	3000
 kader	3000
 kaiser	3000
+kalender	3000
 kalt	3000
 kalten	3000
 kamera	3000
@@ -3108,6 +3140,7 @@ kaputt	3000
 karlsruhe	3000
 karriere	3000
 karten	3000
+kartons	3000
 kasse	3000
 kassel	3000
 katastrophe	3000
@@ -3207,6 +3240,7 @@ konzept	3000
 konzert	3000
 konzerte	3000
 kooperation	3000
+korb	3000
 korrekt	3000
 kostenlos	3000
 kostenlose	3000
@@ -3258,7 +3292,6 @@ königs	3000
 könne	3000
 könntest	3000
 köpfe	3000
-küche	3000
 kühlschrank	3000
 kümmern	3000
 kümmert	3000
@@ -3338,6 +3371,7 @@ lieder	3000
 lief	3000
 liefern	3000
 liefert	3000
+lieferung	3000
 liege	3000
 liegenden	3000
 liessen	3000
@@ -3372,7 +3406,6 @@ luxemburg	3000
 luxus	3000
 lächeln	3000
 lächerlich	3000
-lädt	3000
 länge	3000
 längere	3000
 längeren	3000
@@ -3439,8 +3472,10 @@ mauer	3000
 maul	3000
 maus	3000
 maximal	3000
+maßnahmen	3000
 me	3000
 media	3000
+medikament	3000
 medikamente	3000
 medizin	3000
 medizinische	3000
@@ -3478,7 +3513,6 @@ mexiko	3000
 meyer	3000
 mi	3000
 microsoft	3000
-miete	3000
 mieten	3000
 migranten	3000
 mike	3000
@@ -3502,6 +3536,7 @@ mitgliedern	3000
 mitmachen	3000
 mitnehmen	3000
 mittag	3000
+mittagessen	3000
 mitteilung	3000
 mittelalter	3000
 mitteln	3000
@@ -3648,6 +3683,8 @@ norwegen	3000
 not	3000
 note	3000
 noten	3000
+notiz	3000
+notizen	3000
 notwendig	3000
 notwendige	3000
 notwendigen	3000
@@ -3698,6 +3735,7 @@ opposition	3000
 option	3000
 or	3000
 ordentlich	3000
+ordner	3000
 orf	3000
 organisation	3000
 organisationen	3000
@@ -3729,6 +3767,7 @@ pass	3000
 passen	3000
 passend	3000
 passieren	3000
+passwort	3000
 patient	3000
 patienten	3000
 patrick	3000
@@ -3771,6 +3810,7 @@ play	3000
 plus	3000
 pläne	3000
 plätze	3000
+podcast	3000
 pokal	3000
 polen	3000
 politisch	3000
@@ -3844,6 +3884,7 @@ quasi	3000
 quatsch	3000
 quellen	3000
 quer	3000
+quittung	3000
 rad	3000
 radfahrer	3000
 radio	3000
@@ -3877,6 +3918,7 @@ redet	3000
 reduzieren	3000
 reduziert	3000
 reform	3000
+regelmäßig	3000
 regelung	3000
 regen	3000
 regensburg	3000
@@ -4045,6 +4087,7 @@ schriften	3000
 schriftsteller	3000
 schritte	3000
 schröder	3000
+schublade	3000
 schuhe	3000
 schulden	3000
 schuldig	3000
@@ -4274,6 +4317,7 @@ streiten	3000
 streng	3000
 stress	3000
 strom	3000
+stromrechnung	3000
 struktur	3000
 strukturen	3000
 studenten	3000
@@ -4344,7 +4388,6 @@ temperatur	3000
 temperaturen	3000
 tempo	3000
 tendenz	3000
-termin	3000
 termine	3000
 terror	3000
 terroristen	3000
@@ -4555,6 +4598,7 @@ verfügt	3000
 vergangenen	3000
 vergangenheit	3000
 vergeben	3000
+vergesse	3000
 vergleichen	3000
 verglichen	3000
 vergnügen	3000
@@ -4682,6 +4726,7 @@ vorhandenen	3000
 vorhin	3000
 vorkommen	3000
 vorlage	3000
+vorlesung	3000
 vorm	3000
 vorn	3000
 vorne	3000
@@ -4736,6 +4781,7 @@ weber	3000
 webseite	3000
 wechsel	3000
 wechseln	3000
+wechselt	3000
 wege	3000
 weh	3000
 weibliche	3000
@@ -4884,6 +4930,7 @@ your	3000
 youtube	3000
 zahlreichen	3000
 zahlt	3000
+zahlung	3000
 zb	3000
 zdf	3000
 zeichnen	3000
@@ -4965,7 +5012,6 @@ zürich	3000
 ältere	3000
 älteren	3000
 ältesten	3000
-ändert	3000
 änderung	3000
 änderungen	3000
 ärger	3000
@@ -5011,6 +5057,7 @@ zürich	3000
 übertragen	3000
 übertragung	3000
 überwachung	3000
+überweisung	3000
 überwiegend	3000
 überzeugen	3000
 überzeugt	3000
@@ -5019,6 +5066,7 @@ zürich	3000
 übrig	3000
 übrigen	3000
 übung	3000
+abholbereit	2000
 abschließen	2000
 amadeus	2000
 beethoven	2000
@@ -5037,6 +5085,7 @@ heißen	2000
 isaac	2000
 kahlo	2000
 leonardo	2000
+ließen	2000
 louvre	2000
 machu	2000
 mahal	2000
@@ -5050,6 +5099,7 @@ notre	2000
 pablo	2000
 picasso	2000
 picchu	2000
+playlist	2000
 schließen	2000
 shakespeare	2000
 taj	2000
@@ -5057,7 +5107,25 @@ vincent	2000
 vinci	2000
 weißt	2000
 wochenbericht	2000
+außerhalb	1500
+bestellung	1500
+einschließlich	1500
+großteil	1500
+größe	1500
+größten	1500
+hieß	1500
+maße	1500
+schreib	1500
 weiße	1500
+äußerst	1500
+akte	1000
+größtenteils	1000
+größter	1000
+souvenir	1000
+fließt	700
+maßgeblich	700
+äußere	700
+äußeren	700
 schlampe	676
 schoss	676
 schreibtisch	676
@@ -5107,7 +5175,6 @@ beschäftigten	661
 bilanz	661
 blicken	661
 blue	661
-budget	661
 bürgern	661
 demonstranten	661
 doppel	661
@@ -5228,7 +5295,6 @@ individuellen	646
 installiert	646
 instituts	646
 jüngere	646
-kalender	646
 kfz	646
 klub	646
 kompetenz	646
@@ -5256,7 +5322,6 @@ saal	646
 schande	646
 scheibe	646
 schonmal	646
-schreib	646
 schützt	646
 sed	646
 solo	646
@@ -5367,12 +5432,10 @@ verschoben	631
 verstehst	631
 vllt	631
 volker	631
-wechselt	631
 whatsapp	631
 zeuge	631
 zoo	631
 älteste	631
-abendessen	617
 abwarten	617
 akku	617
 angeschlossen	617
@@ -5433,7 +5496,6 @@ marine	617
 mg	617
 militärischen	617
 missbrauch	617
-mittagessen	617
 motive	617
 musikalische	617
 nenne	617
@@ -5546,7 +5608,6 @@ kranke	603
 kranken	603
 kreise	603
 körperliche	603
-lieferung	603
 line	603
 mecklenburg	603
 nachbar	603
@@ -5586,7 +5647,6 @@ umfangreiche	603
 universum	603
 ursprüngliche	603
 vollständige	603
-vorbereiten	603
 warnung	603
 wiesen	603
 wird's	603
@@ -5850,7 +5910,6 @@ blasen	562
 bundesländern	562
 bäumen	562
 cover	562
-datei	562
 digitalisierung	562
 diktatur	562
 dna	562
@@ -5869,7 +5928,6 @@ finanzieren	562
 flach	562
 flugzeuge	562
 fortschritte	562
-frist	562
 fürst	562
 gattung	562
 gelingen	562
@@ -5938,10 +5996,8 @@ weine	562
 wuchs	562
 wundert	562
 wurst	562
-zahlung	562
 zulassen	562
 zustimmen	562
-ankommen	550
 anteile	550
 antreten	550
 arbeitsmarkt	550
@@ -6074,7 +6130,6 @@ andern	537
 andre	537
 anordnung	537
 anstrengend	537
-antwortet	537
 ass	537
 becken	537
 bemühen	537
@@ -6083,7 +6138,6 @@ beobachtung	537
 berechnung	537
 besorgen	537
 besserung	537
-bestellung	537
 bestätigte	537
 bildschirm	537
 braut	537
@@ -6172,7 +6226,6 @@ zeitlich	537
 zustände	537
 überlegungen	537
 überwinden	537
-abfahrt	525
 abgebrochen	525
 abwehr	525
 aktie	525
@@ -6262,7 +6315,6 @@ münzen	525
 nehm	525
 oberste	525
 ostern	525
-podcast	525
 probiert	525
 reserve	525
 ruhestand	525
@@ -6425,7 +6477,6 @@ zuschauern	513
 abgenommen	501
 alters	501
 antike	501
-apotheke	501
 aufweisen	501
 ausführungen	501
 ausgedrückt	501
@@ -6532,6 +6583,10 @@ zulässig	501
 zurückzuführen	501
 zwingend	501
 zwischendurch	501
+abschließend	500
+maßstab	500
+schließung	500
+äußerte	500
 abbau	490
 abhängigkeit	490
 abschaffung	490
@@ -6611,7 +6666,6 @@ objektiv	490
 offizier	490
 old	490
 optionen	490
-passwort	490
 persönliches	490
 porn	490
 positives	490
@@ -6811,7 +6865,6 @@ binden	468
 blüten	468
 boris	468
 brav	468
-browser	468
 bundestagswahl	468
 bunten	468
 daily	468
@@ -7373,7 +7426,6 @@ helle	427
 hill	427
 hits	427
 indischen	427
-ing	427
 internen	427
 internetseite	427
 jahreszeit	427
@@ -7452,7 +7504,6 @@ verkehrsunfall	427
 verleihen	427
 verlierer	427
 versicherungen	427
-verspätung	427
 verwandeln	427
 verwandt	427
 verweisen	427
@@ -7516,7 +7567,6 @@ gleiches	417
 got	417
 han	417
 harz	417
-hausaufgaben	417
 heimischen	417
 herrscher	417
 hole	417
@@ -7889,7 +7939,6 @@ wälder	398
 zocken	398
 ablehnen	389
 abstimmen	389
-anfängt	389
 angeführt	389
 angenehme	389
 arabische	389
@@ -8533,7 +8582,6 @@ abgehalten	355
 abgeordneter	355
 abgezogen	355
 abgrenzung	355
-akte	355
 aktiver	355
 angel	355
 angriffen	355
@@ -8893,7 +8941,6 @@ force	339
 freundliche	339
 frischer	339
 garantieren	339
-gebucht	339
 gefecht	339
 gehäuse	339
 gemischt	339
@@ -8966,7 +9013,6 @@ salon	339
 schaute	339
 schildert	339
 schräg	339
-schublade	339
 schwung	339
 siedlung	339
 sitzungen	339
@@ -9079,7 +9125,6 @@ irrtum	331
 isoliert	331
 klettern	331
 kläger	331
-korb	331
 krankenkasse	331
 landstrasse	331
 lebewesen	331
@@ -9093,7 +9138,6 @@ nachdruck	331
 nenn	331
 neuerdings	331
 newsletter	331
-notizen	331
 packung	331
 paula	331
 peters	331
@@ -9466,7 +9510,6 @@ realschule	316
 regierungschef	316
 reinhold	316
 renault	316
-reparatur	316
 right	316
 rückte	316
 rüdiger	316
@@ -9807,7 +9850,6 @@ nacheinander	302
 naturwissenschaften	302
 nimmer	302
 optik	302
-ordner	302
 other	302
 pfad	302
 philippinen	302
@@ -9864,6 +9906,14 @@ zunahme	302
 zwecken	302
 zweifellos	302
 öffentliches	302
+ausrufezeichen	300
+dreißigjährigen	300
+geburtsdatum	300
+nebenkosten	300
+prüf	300
+zubereiten	300
+äußersten	300
+äußerten	300
 aaron	295
 airport	295
 anerkannte	295
@@ -10786,7 +10836,6 @@ verzögerung	269
 vielfältig	269
 vielfältige	269
 vollzogen	269
-vorlesung	269
 voss	269
 wahlkreis	269
 walther	269
@@ -10912,7 +10961,6 @@ leichtathletik	263
 louise	263
 ludwigsburg	263
 magazine	263
-medikament	263
 misstrauen	263
 mitgemacht	263
 mountain	263
@@ -10971,7 +11019,6 @@ umland	263
 unfähig	263
 unterbrechung	263
 vereinigte	263
-vergesse	263
 verhaftung	263
 versaut	263
 verschont	263
@@ -11201,7 +11248,6 @@ belange	251
 beschaffen	251
 beseitigung	251
 besessen	251
-besprechung	251
 betrogen	251
 beträge	251
 bettina	251
@@ -11378,6 +11424,12 @@ zentren	251
 zielt	251
 zulässt	251
 zuwachs	251
+allergien	250
+intensivstation	250
+nachtschicht	250
+salbe	250
+sonnig	250
+thermometer	250
 abgedeckt	245
 abgestellt	245
 again	245
@@ -13450,17 +13502,18 @@ nachhilfe	200
 neusten	200
 neutralität	200
 nfl	200
-notiz	200
 nähen	200
 offizielles	200
 oldtimer	200
 olympiasieger	200
 parkhaus	200
 pcs	200
+pflegekräfte	200
 pia	200
 pkk	200
 pony	200
 porzellan	200
+preisvergleich	200
 privatpersonen	200
 promis	200
 psychologischen	200
@@ -15270,7 +15323,6 @@ zubereitet	170
 zurückgegeben	170
 zutreffend	170
 übermittelt	170
-überweisung	170
 abbauen	166
 abel	166
 abgesichert	166
@@ -15565,7 +15617,6 @@ befinde	162
 beirat	162
 bekanntes	162
 belgische	162
-bereite	162
 bereue	162
 berühmter	162
 bevorzugte	162
@@ -15821,7 +15872,6 @@ beatles	158
 beeren	158
 beginnend	158
 begriffs	158
-behalte	158
 bequemer	158
 beschissene	158
 beschränkungen	158
@@ -16431,7 +16481,6 @@ halberstadt	151
 heeres	151
 heinrichs	151
 herkommt	151
-hero	151
 herstellt	151
 hervorragender	151
 hierarchie	151
@@ -16947,7 +16996,6 @@ eingefangen	145
 eingerichteten	145
 eingesehen	145
 einkommensteuer	145
-einkäufe	145
 einsatzbereit	145
 einsatzkräfte	145
 einsteiger	145
@@ -18556,7 +18604,6 @@ jahrelange	129
 jorge	129
 kabul	129
 kapitulation	129
-kartons	129
 kasper	129
 katalonien	129
 kauften	129
@@ -18621,7 +18668,6 @@ pfennig	129
 pfingsten	129
 philologie	129
 plateau	129
-playlist	129
 plays	129
 polizeilichen	129
 polster	129
@@ -19637,7 +19683,6 @@ psa	120
 pt	120
 purer	120
 putzfrau	120
-quittung	120
 realistischen	120
 records	120
 reflex	120
@@ -22277,7 +22322,6 @@ füllte	100
 für'n	100
 garantien	100
 gatte	100
-geburtsdatum	100
 geburtsort	100
 geeignetes	100
 geisteswissenschaften	100
@@ -22318,7 +22362,6 @@ i'll	100
 in's	100
 industries	100
 innovativ	100
-intensivstation	100
 interventionen	100
 ion	100
 isolierung	100
@@ -22377,11 +22420,9 @@ mitteldeutsche	100
 moto	100
 nachdenke	100
 nachfahren	100
-nachtschicht	100
 nadja	100
 nas	100
 naumburg	100
-nebenkosten	100
 neigungen	100
 nicola	100
 nil	100
@@ -22396,11 +22437,9 @@ passagieren	100
 peine	100
 pf	100
 pfarrgemeinde	100
-pflegekräfte	100
 pforte	100
 pfälzer	100
 phillips	100
-preisvergleich	100
 prozedur	100
 präsentationen	100
 pädagogisch	100
@@ -22419,7 +22458,6 @@ rohe	100
 root	100
 rumänische	100
 römern	100
-salbe	100
 sauberkeit	100
 schrein	100
 schulsystem	100
@@ -22438,7 +22476,6 @@ sinnlich	100
 slip	100
 soda	100
 solchem	100
-sonnig	100
 sonntagmorgen	100
 sorgerecht	100
 sotschi	100
@@ -22467,7 +22504,6 @@ tausendmal	100
 teamkollegen	100
 teppiche	100
 tester	100
-thermometer	100
 transporte	100
 triff	100
 töpfe	100
@@ -22514,7 +22550,6 @@ yves	100
 zerfällt	100
 zimt	100
 zpo	100
-zubereiten	100
 zurückführen	100
 zurückgekommen	100
 zurückgetreten	100
@@ -22539,7 +22574,6 @@ akzeptierte	98
 ale	98
 alf	98
 alina	98
-allergien	98
 allgäuer	98
 alliance	98
 alpinen	98
@@ -22563,7 +22597,6 @@ aufschlagen	98
 auftauchte	98
 augenblicklich	98
 auslassen	98
-ausrufezeichen	98
 austrian	98
 autobauer	98
 autonom	98
@@ -23590,7 +23623,6 @@ princess	93
 promo	93
 provence	93
 prächtige	93
-prüfe	93
 publisher	93
 rabbi	93
 rausgeschmissen	93
@@ -26173,6 +26205,11 @@ zwecklos	81
 überschlagen	81
 überwindet	81
 überziehen	81
+dr	80
+fr	80
+hero	80
+ing	80
+is	80
 abbas	79
 abbringen	79
 abgelaufenen	79
@@ -34194,7 +34231,6 @@ solution	55
 sonderausgabe	55
 sonderstellung	55
 sonnenfinsternis	55
-souvenir	55
 spandauer	55
 spieltage	55
 spitzt	55
@@ -36778,7 +36814,6 @@ gütig	49
 hakan	49
 hanke	49
 hanks	49
-hausaufgabe	49
 hayek	49
 heimischer	49
 herauszuholen	49
@@ -36817,7 +36852,6 @@ kernkraftwerke	49
 kev	49
 kinderleicht	49
 klassenraum	49
-klempner	49
 knackige	49
 knarre	49
 knicken	49
@@ -43263,7 +43297,6 @@ strandbad	39
 strassennetz	39
 strausberg	39
 stromanbieter	39
-stromrechnung	39
 strömenden	39
 studienplatz	39
 studierst	39
@@ -43888,7 +43921,6 @@ profiliga	38
 prokop	38
 protestierenden	38
 prämissen	38
-prüf	38
 quadratkilometern	38
 qualifikationsspiel	38
 quests	38
@@ -67568,7 +67600,6 @@ angespornt	19
 angestrichen	19
 angewandter	19
 anhebt	19
-ankommst	19
 anleiten	19
 anmietung	19
 anmutet	19
@@ -72676,7 +72707,6 @@ abergläubisch	17
 abermillionen	17
 abertausende	17
 abfallend	17
-abgabetermin	17
 abgasnorm	17
 abgebissen	17
 abgeklungen	17
@@ -79971,33 +80001,3 @@ wirbeltieren	15
 wirtschaftsjahr	15
 wirtschaftssanktionen	15
 wirtschaftsverbände	15
-wittich	15
-wohlan	15
-wohnkosten	15
-wohnrecht	15
-wsg	15
-wärmenden	15
-wässrig	15
-wörterbüchern	15
-wünschenswerte	15
-wür	15
-xa	15
-yam	15
-yassin	15
-yellen	15
-younger	15
-zahlmeister	15
-zahlreiches	15
-zahlungsfähigkeit	15
-zaubertricks	15
-zaudern	15
-zellerfeld	15
-zerbröselt	15
-zeremonienmeister	15
-zerschlägt	15
-zia	15
-ziegenbock	15
-zielland	15
-zigmal	15
-znaim	15
-zoch	15

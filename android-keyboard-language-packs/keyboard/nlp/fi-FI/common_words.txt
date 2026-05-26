@@ -1,9 +1,14 @@
 # Generated common-word veto list for proper-name casing.
 ja
+on
 ei
+että
+se
 oli
+kiitos
 mutta
 ole
+kokous
 aamulla
 aika
 aikaa
@@ -21,7 +26,6 @@ bussi
 dokumentti
 elokuva
 ennen
-että
 hakea
 hallitus
 haluavat
@@ -50,12 +54,10 @@ kaupunki
 keittiö
 kerro
 kertoo
-kiitos
 kilpailu
 kirja
 kirkko
 koe
-kokous
 kokousta
 koodi
 korjaus
@@ -108,7 +110,6 @@ nähdään
 näyttää
 odottaa
 oikeus
-on
 ongelma
 opettaja
 osoite
@@ -137,7 +138,6 @@ ruoka
 saapuu
 salasana
 sarja
-se
 selittää
 sinulla
 sisältävät
@@ -2994,7 +2994,6 @@ listan
 lisätty
 lisätään
 lisääntyy
-lla
 lle
 loistavaa
 lokakuun
@@ -4999,3 +4998,4 @@ ylläpitää
 yllätti
 yllättynyt
 yllättäen
+yllättävän

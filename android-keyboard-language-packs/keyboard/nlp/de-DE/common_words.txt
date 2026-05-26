@@ -424,7 +424,6 @@ auto
 bringen
 danach
 deutlich
-dr
 finde
 hand
 jede
@@ -466,6 +465,7 @@ hätten
 los
 mutter
 wochen
+prüfe
 schließlich
 straße
 augen
@@ -474,7 +474,6 @@ braucht
 denke
 gruppe
 her
-is
 meisten
 millionen
 schreiben
@@ -548,7 +547,10 @@ liegen
 neues
 passiert
 österreich
+küche
+lädt
 spaß
+teilen
 bevor
 gegeben
 hamburg
@@ -653,7 +655,12 @@ spielt
 sprechen
 video
 x
+arbeitet
 außer
+fürs
+lehrer
+termin
+ändert
 august
 bilder
 dachte
@@ -772,8 +779,21 @@ verschiedene
 weiterhin
 ziehen
 überall
+anruf
+behalte
+besprechung
 brandenburger
+budget
+büro
+datei
 eiffelturm
+einkäufe
+hausaufgabe
+klempner
+miete
+reparatur
+verspätung
+vorbereiten
 antwort
 bahn
 berliner
@@ -1023,7 +1043,6 @@ reich
 rot
 samstag
 satz
-teilen
 themen
 vermutlich
 ändern
@@ -1038,7 +1057,6 @@ freuen
 geh
 gewählt
 john
-lehrer
 leipzig
 runde
 scheiss
@@ -1151,7 +1169,6 @@ zahlreiche
 zeichen
 zuletzt
 absolut
-arbeitet
 auswahl
 christian
 derzeit
@@ -1280,8 +1297,11 @@ weisst
 welchen
 werbung
 aachen
+abendessen
 abends
 abenteuer
+abfahrt
+abgabetermin
 abgeben
 abgegeben
 abgelehnt
@@ -1368,6 +1388,7 @@ anfangen
 anfangs
 anforderungen
 anfrage
+anfängt
 angabe
 angeblich
 angebote
@@ -1398,6 +1419,8 @@ angriffe
 anhalt
 anhand
 anhänger
+ankommen
+ankommst
 ankunft
 anlage
 anlagen
@@ -1410,7 +1433,6 @@ anna
 annahme
 anne
 annehmen
-anruf
 anrufen
 ans
 ansatz
@@ -1431,10 +1453,12 @@ anti
 anton
 antrag
 antworten
+antwortet
 anwalt
 anwendung
 anzeige
 anzeigen
+apotheke
 app
 apple
 apps
@@ -1533,6 +1557,7 @@ ausreichend
 aussage
 aussagen
 ausschliesslich
+ausschließlich
 ausschuss
 aussehen
 aussen
@@ -1553,6 +1578,7 @@ autor
 autoren
 autorin
 autos
+außen
 baby
 bach
 bachelor
@@ -1659,6 +1685,7 @@ beratung
 berechtigt
 bereiche
 bereichen
+bereite
 bereiten
 bereitet
 berg
@@ -1847,6 +1874,7 @@ brille
 britische
 britischen
 brot
+browser
 brust
 brücke
 brüder
@@ -1875,7 +1903,6 @@ büchern
 bühne
 bündnis
 bürgermeister
-büro
 café
 can
 carl
@@ -2426,7 +2453,6 @@ fort
 fortschritt
 fortsetzung
 forum
-fr
 frag
 fragt
 fragte
@@ -2456,6 +2482,7 @@ friedhof
 friedrich
 frisch
 frische
+frist
 fritz
 froh
 from
@@ -2495,7 +2522,6 @@ führte
 führten
 führung
 fünften
-fürs
 füsse
 füssen
 gaben
@@ -2526,6 +2552,7 @@ gebrauch
 gebrauchen
 gebraucht
 gebrochen
+gebucht
 gebunden
 geburt
 geburtstag
@@ -2758,6 +2785,7 @@ grossbritannien
 grossem
 grossteil
 group
+großes
 grunde
 grundlage
 grundlagen
@@ -2770,6 +2798,8 @@ grösseren
 grösstenteils
 grösster
 größer
+größere
+größeren
 größte
 grün
 gründe
@@ -2831,6 +2861,7 @@ hauptbahnhof
 hauptsache
 hauptstadt
 hauptsächlich
+hausaufgaben
 hauses
 haushalt
 haut
@@ -3090,6 +3121,7 @@ jürgen
 kabel
 kader
 kaiser
+kalender
 kalt
 kalten
 kamera
@@ -3106,6 +3138,7 @@ kaputt
 karlsruhe
 karriere
 karten
+kartons
 kasse
 kassel
 katastrophe
@@ -3205,6 +3238,7 @@ konzept
 konzert
 konzerte
 kooperation
+korb
 korrekt
 kostenlos
 kostenlose
@@ -3256,7 +3290,6 @@ königs
 könne
 könntest
 köpfe
-küche
 kühlschrank
 kümmern
 kümmert
@@ -3336,6 +3369,7 @@ lieder
 lief
 liefern
 liefert
+lieferung
 liege
 liegenden
 liessen
@@ -3370,7 +3404,6 @@ luxemburg
 luxus
 lächeln
 lächerlich
-lädt
 länge
 längere
 längeren
@@ -3437,8 +3470,10 @@ mauer
 maul
 maus
 maximal
+maßnahmen
 me
 media
+medikament
 medikamente
 medizin
 medizinische
@@ -3476,7 +3511,6 @@ mexiko
 meyer
 mi
 microsoft
-miete
 mieten
 migranten
 mike
@@ -3500,6 +3534,7 @@ mitgliedern
 mitmachen
 mitnehmen
 mittag
+mittagessen
 mitteilung
 mittelalter
 mitteln
@@ -3646,6 +3681,8 @@ norwegen
 not
 note
 noten
+notiz
+notizen
 notwendig
 notwendige
 notwendigen
@@ -3696,6 +3733,7 @@ opposition
 option
 or
 ordentlich
+ordner
 orf
 organisation
 organisationen
@@ -3727,6 +3765,7 @@ pass
 passen
 passend
 passieren
+passwort
 patient
 patienten
 patrick
@@ -3769,6 +3808,7 @@ play
 plus
 pläne
 plätze
+podcast
 pokal
 polen
 politisch
@@ -3842,6 +3882,7 @@ quasi
 quatsch
 quellen
 quer
+quittung
 rad
 radfahrer
 radio
@@ -3875,6 +3916,7 @@ redet
 reduzieren
 reduziert
 reform
+regelmäßig
 regelung
 regen
 regensburg
@@ -4043,6 +4085,7 @@ schriften
 schriftsteller
 schritte
 schröder
+schublade
 schuhe
 schulden
 schuldig
@@ -4272,6 +4315,7 @@ streiten
 streng
 stress
 strom
+stromrechnung
 struktur
 strukturen
 studenten
@@ -4342,7 +4386,6 @@ temperatur
 temperaturen
 tempo
 tendenz
-termin
 termine
 terror
 terroristen
@@ -4553,6 +4596,7 @@ verfügt
 vergangenen
 vergangenheit
 vergeben
+vergesse
 vergleichen
 verglichen
 vergnügen
@@ -4680,6 +4724,7 @@ vorhandenen
 vorhin
 vorkommen
 vorlage
+vorlesung
 vorm
 vorn
 vorne
@@ -4734,6 +4779,7 @@ weber
 webseite
 wechsel
 wechseln
+wechselt
 wege
 weh
 weibliche
@@ -4882,6 +4928,7 @@ your
 youtube
 zahlreichen
 zahlt
+zahlung
 zb
 zdf
 zeichnen
@@ -4952,50 +4999,3 @@ zählen
 zählt
 zähne
 züge
-zürich
-à
-ägypten
-äh
-ähnliche
-ähnlichen
-ähnliches
-älter
-ältere
-älteren
-ältesten
-ändert
-änderung
-änderungen
-ärger
-ärzte
-äussern
-äusserst
-öffentlich
-öffentliche
-öffentlichkeit
-öffnen
-öffnet
-öfter
-öl
-örtlichen
-österreicher
-österreichische
-österreichischen
-österreichs
-övp
-übel
-üben
-überblick
-übergeben
-überlassen
-überleben
-überlegen
-überlegt
-übernahm
-übernahme
-übernehmen
-übernimmt
-übernommen
-überprüfen
-überprüft
-überraschend

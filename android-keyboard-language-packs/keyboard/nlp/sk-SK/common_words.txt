@@ -1,13 +1,19 @@
 # Generated common-word veto list for proper-name casing.
 a
+sa
 v
+na
+je
+to
 z
+že
 s
 ako
 aj
 o
 si
 do
+ďakujem
 som
 adresa
 adresu
@@ -46,7 +52,6 @@ hudba
 ide
 idú
 internet
-je
 jedlo
 jeme
 kalendár
@@ -84,7 +89,6 @@ máš
 môže
 môžeš
 múzeum
-na
 nabíja
 narodeniny
 nedeľa
@@ -138,7 +142,6 @@ rodičia
 rozpočet
 ráno
 rýchla
-sa
 schôdzka
 schôdzkou
 seriál
@@ -158,7 +161,6 @@ taxi
 telefón
 tento
 termín
-to
 trasa
 treba
 trénuje
@@ -190,10 +192,8 @@ zápas
 účet
 čaká
 čas
-ďakujem
 škola
 štadión
-že
 žiada
 práca
 ale

@@ -1,9 +1,15 @@
 # Generated common-word veto list for proper-name casing.
 a
+se
 v
+na
+je
+to
+že
 s
 z
 si
+do
 jsem
 ale
 o
@@ -25,7 +31,6 @@ cituje
 debata
 dej
 dnes
-do
 dokument
 doma
 domov
@@ -47,7 +52,6 @@ hráč
 hudba
 internet
 jde
-je
 jídlo
 jíme
 jízdenka
@@ -88,7 +92,6 @@ mění
 město
 může
 můžeš
-na
 nabíjí
 narozeniny
 neděle
@@ -143,7 +146,6 @@ rychlá
 ráno
 schůzka
 schůzkou
-se
 seriál
 seznam
 skóre
@@ -160,7 +162,6 @@ taxík
 telefon
 tento
 termín
-to
 trasa
 trénuje
 táta
@@ -201,7 +202,6 @@ zůstává
 čas
 čeká
 škola
-že
 žádá
 ve
 co

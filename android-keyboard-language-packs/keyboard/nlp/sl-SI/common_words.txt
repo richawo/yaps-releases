@@ -1,15 +1,23 @@
 # Generated common-word veto list for proper-name casing.
 in
+je
 v
 na
+se
+da
 so
+za
 ki
 pa
 z
 tudi
+lahko
 s
+ne
 kot
+po
 še
+hvala
 avto
 avtobus
 banka
@@ -17,7 +25,6 @@ bo
 cena
 cerkev
 citira
-da
 dan
 danes
 datoteka
@@ -43,7 +50,6 @@ hiša
 hotel
 hrana
 hrani
-hvala
 igra
 igralec
 ima
@@ -51,7 +57,6 @@ imaš
 internet
 izpit
 javi
-je
 jemo
 jutri
 kampanja
@@ -67,7 +72,6 @@ kosilo
 kruh
 kuhinja
 kupiti
-lahko
 lekarna
 letališče
 mama
@@ -87,7 +91,6 @@ nakup
 naloga
 naročilo
 naslov
-ne
 nedelja
 odgovarja
 odgovor
@@ -103,7 +106,6 @@ oče
 pisarna
 plača
 plačilo
-po
 podcast
 pokliči
 pokriva
@@ -140,7 +142,6 @@ recept
 rezervirati
 rezultat
 rojstni
-se
 selitev
 serija
 sestanek
@@ -178,7 +179,6 @@ vlak
 vozovnica
 vozovnico
 vzame
-za
 zahteva
 zakon
 zapira
@@ -2925,6 +2925,7 @@ objekti
 objektov
 oblast
 oblačila
+oblačno
 obleke
 obleko
 obletnici
@@ -4998,4 +4999,3 @@ zvrsti
 škoda
 škode
 škodo
-škof

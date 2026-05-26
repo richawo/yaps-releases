@@ -1,18 +1,21 @@
 # Generated common-word veto list for proper-name casing.
 a
+az
 és
 nem
+hogy
 egy
 is
 de
+meg
 csak
 ha
+van
 add
 amikor
 anya
 apa
 autó
-az
 azt
 bank
 bemutatja
@@ -69,7 +72,6 @@ gyógyszer
 gyógyszertár
 használ
 hiszem
-hogy
 holnap
 holnapra
 hotel
@@ -126,7 +128,6 @@ magyarázza
 marad
 meccs
 mecset
-meg
 megerősíti
 megy
 mentsd
@@ -180,7 +181,6 @@ történelem
 törvény
 után
 vacsora
-van
 vasárnap
 venni
 verseny
@@ -372,7 +372,6 @@ hol
 kéne
 mondta
 of
-in
 következő
 magam
 pont
@@ -984,7 +983,6 @@ külföldi
 lennék
 létre
 magyarországi
-max
 mielőtt
 mindenkit
 nevű
@@ -1813,7 +1811,6 @@ bővebben
 bőven
 bűn
 carl
-carlos
 cd
 center
 charles
@@ -2200,7 +2197,6 @@ falusi
 family
 fantasy
 farkas
-fasz
 fc
 fegyver
 fegyverek
@@ -4999,3 +4995,7 @@ zárva
 írás
 író
 órakor
+óriás
+órában
+óráig
+órája

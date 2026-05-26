@@ -2,10 +2,15 @@
 # Source: wordfreq top_n_list/zipf_frequency; see script header.
 # Format: word<TAB>frequency
 ja	1000000
+on	1000000
 ei	645654
+että	436516
+se	346737
 oli	288403
+kiitos	260000
 mutta	257040
 ole	245471
+kokous	240000
 aamulla	234567
 aika	234567
 aikaa	234567
@@ -23,7 +28,6 @@ bussi	234567
 dokumentti	234567
 elokuva	234567
 ennen	234567
-että	234567
 hakea	234567
 hallitus	234567
 haluavat	234567
@@ -52,12 +56,10 @@ kaupunki	234567
 keittiö	234567
 kerro	234567
 kertoo	234567
-kiitos	234567
 kilpailu	234567
 kirja	234567
 kirkko	234567
 koe	234567
-kokous	234567
 kokousta	234567
 koodi	234567
 korjaus	234567
@@ -110,7 +112,6 @@ nähdään	234567
 näyttää	234567
 odottaa	234567
 oikeus	234567
-on	234567
 ongelma	234567
 opettaja	234567
 osoite	234567
@@ -139,7 +140,6 @@ ruoka	234567
 saapuu	234567
 salasana	234567
 sarja	234567
-se	234567
 selittää	234567
 sinulla	234567
 sisältävät	234567
@@ -2996,7 +2996,6 @@ listan	3000
 lisätty	3000
 lisätään	3000
 lisääntyy	3000
-lla	3000
 lle	3000
 loistavaa	3000
 lokakuun	3000
@@ -7022,6 +7021,12 @@ vähäinen	708
 yhdysvaltalainen	708
 ylimääräinen	708
 ymmärrystä	708
+apteekit	700
+baarit	700
+etätyö	700
+kahvilat	700
+ruokakaupat	700
+tavoittanut	700
 ab	692
 ajattelua	692
 alojen	692
@@ -9543,6 +9548,7 @@ yhtenäinen	501
 yksityisiä	501
 yliopistot	501
 yorkiin	501
+ruokakauppa	500
 aamulehti	490
 aarnio	490
 aiot	490
@@ -14643,6 +14649,11 @@ yksityistä	302
 ympäristölle	302
 yrittämään	302
 älypuhelin	302
+aikatauluja	300
+aikataulujen	300
+kahviloita	300
+lentokentillä	300
+tuulinen	300
 aiempia	295
 aineisto	295
 ajava	295
@@ -17074,6 +17085,11 @@ ylivieska	251
 ylöjärven	251
 ylösalaisin	251
 ystäväsi	251
+kananmunat	250
+kaukosäädin	250
+kotitöitä	250
+muistutuksen	250
+pahoillamme	250
 aan	245
 aikakaudella	245
 alapuolelle	245
@@ -18835,7 +18851,6 @@ esitellyt	219
 esitetyt	219
 eta	219
 excel	219
-fashion	219
 hank	219
 hankalaksi	219
 harkitsen	219
@@ -25621,6 +25636,7 @@ zombie	151
 äänekoski	151
 äänestystä	151
 äärioikeistolainen	151
+järjestetä	150
 access	148
 afganistaniin	148
 aiheisia	148
@@ -34509,7 +34525,6 @@ yökerho	102
 aakkoset	100
 afrikkalaisia	100
 agendan	100
-aikatauluja	100
 ajanjaksolla	100
 ajeli	100
 aktiivisuuden	100
@@ -34639,7 +34654,6 @@ kaasulla	100
 kamelin	100
 kammottava	100
 kampaus	100
-kananmunat	100
 kannanoton	100
 kannatat	100
 kannustusta	100
@@ -34652,7 +34666,6 @@ karsintaottelussa	100
 karttojen	100
 karun	100
 kasvuvauhti	100
-kaukosäädin	100
 kazan	100
 kehen	100
 kehoni	100
@@ -35297,7 +35310,6 @@ kontiolahti	98
 kontulassa	98
 kortissa	98
 kosti	98
-kotitöitä	98
 kouluttanut	98
 kramer	98
 kristillistä	98
@@ -35395,7 +35407,6 @@ mittaavat	98
 moitteettomasti	98
 moottorista	98
 muhkea	98
-muistutuksen	98
 muodoista	98
 musk	98
 muutamiin	98
@@ -35438,7 +35449,6 @@ ottaisivat	98
 pah	98
 pahikset	98
 pahiten	98
-pahoillamme	98
 pal	98
 palatsiin	98
 palestiina	98
@@ -37671,7 +37681,6 @@ jääkiekkoliiton	89
 kaamea	89
 kaapattu	89
 kaatopaikka	89
-kahviloita	89
 kaikinpuolin	89
 kakarat	89
 kalassa	89
@@ -38016,7 +38025,6 @@ turvonnut	89
 tutkimustiedon	89
 tutuille	89
 tuulilasi	89
-tuulinen	89
 tyrväinen	89
 tyylejä	89
 työpajassa	89
@@ -39409,7 +39417,6 @@ aukiolle	83
 avaamme	83
 avukseen	83
 avustuksen	83
-baarit	83
 becker	83
 benzin	83
 bergman	83
@@ -40682,6 +40689,8 @@ ystävineen	81
 äidilleni	81
 ämpärin	81
 ääniin	81
+fashion	80
+lla	80
 aamuja	79
 aftonbladet	79
 aikajana	79
@@ -40860,7 +40869,6 @@ juotiin	79
 juttuna	79
 jutuille	79
 juvan	79
-järjestetä	79
 järjestöissä	79
 järviä	79
 jäsenvaltiot	79
@@ -42037,7 +42045,6 @@ zombi	78
 aatos	76
 adamin	76
 admiral	76
-aikataulujen	76
 aikeita	76
 ainoaan	76
 ainutkertainen	76
@@ -44565,7 +44572,6 @@ ankkaa	69
 anopin	69
 anyone	69
 appiukko	69
-apteekit	69
 apuaan	69
 apurahat	69
 areenaan	69
@@ -45025,7 +45031,6 @@ rudy	69
 runkku	69
 ruoholahden	69
 ruokahalu	69
-ruokakauppa	69
 ruokolahti	69
 ruosteessa	69
 ruuhkat	69
@@ -46515,7 +46520,6 @@ takoa	66
 tankkiin	66
 tappionsa	66
 tarinaansa	66
-tavoittanut	66
 tekoaan	66
 tekstaa	66
 tepsin	66
@@ -47464,7 +47468,6 @@ jäseniin	63
 jäseniään	63
 jäätteenmäki	63
 kaakosta	63
-kahvilat	63
 kaisan	63
 kajota	63
 kaksinkertaistaa	63
@@ -59243,7 +59246,6 @@ leikkauksilla	45
 leimaavat	45
 leluista	45
 lennu	45
-lentokentillä	45
 lentomatka	45
 leonessa	45
 leopardi	45
@@ -62470,7 +62472,6 @@ esittämiin	41
 ester	41
 estät	41
 etuajo	41
-etätyö	41
 europan	41
 evakuoinnin	41
 federico	41
@@ -69308,7 +69309,6 @@ rovanperä	35
 runsaassa	35
 ruodussa	35
 ruoista	35
-ruokakaupat	35
 ruokakaupoissa	35
 rusi	35
 ruumiinavaus	35

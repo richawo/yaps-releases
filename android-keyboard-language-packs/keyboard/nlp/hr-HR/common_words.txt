@@ -1,9 +1,15 @@
 # Generated common-word veto list for proper-name casing.
+da
 i
+je
 u
+se
+na
 od
+za
 su
 a
+ne
 sa
 iz
 adresa
@@ -21,7 +27,6 @@ budžet
 cijena
 citira
 crkva
-da
 datoteka
 debata
 djeca
@@ -50,7 +55,6 @@ internet
 ispit
 izvještaj
 javi
-je
 jedemo
 jer
 kad
@@ -88,14 +92,12 @@ moram
 može
 možeš
 muzej
-na
 nadogradnja
 najam
 nakon
 narudžba
 nastavlja
 nazovi
-ne
 nedjelja
 obitelj
 obitelji
@@ -151,7 +153,6 @@ ručak
 sastanak
 sastanka
 sat
-se
 selidba
 serija
 slika
@@ -188,7 +189,6 @@ vidimo
 vlada
 vlak
 vremena
-za
 zaboravi
 zadaća
 zakon

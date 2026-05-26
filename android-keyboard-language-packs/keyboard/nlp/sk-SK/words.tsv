@@ -2,14 +2,20 @@
 # Source: wordfreq top_n_list/zipf_frequency; see script header.
 # Format: word<TAB>frequency
 a	1000000
+sa	1000000
 v	1000000
+na	870964
+je	794328
+to	398107
 z	398107
+že	371535
 s	363078
 ako	354813
 aj	309030
 o	301995
 si	301995
 do	288403
+ďakujem	240000
 som	239883
 adresa	234567
 adresu	234567
@@ -48,7 +54,6 @@ hudba	234567
 ide	234567
 idú	234567
 internet	234567
-je	234567
 jedlo	234567
 jeme	234567
 kalendár	234567
@@ -86,7 +91,6 @@ máš	234567
 môže	234567
 môžeš	234567
 múzeum	234567
-na	234567
 nabíja	234567
 narodeniny	234567
 nedeľa	234567
@@ -140,7 +144,6 @@ rodičia	234567
 rozpočet	234567
 ráno	234567
 rýchla	234567
-sa	234567
 schôdzka	234567
 schôdzkou	234567
 seriál	234567
@@ -160,7 +163,6 @@ taxi	234567
 telefón	234567
 tento	234567
 termín	234567
-to	234567
 trasa	234567
 treba	234567
 trénuje	234567
@@ -192,10 +194,8 @@ zápas	234567
 účet	234567
 čaká	234567
 čas	234567
-ďakujem	234567
 škola	234567
 štadión	234567
-že	234567
 žiada	234567
 práca	220000
 ale	199526
@@ -5101,6 +5101,8 @@ taj	2000
 vincent	2000
 vinci	2000
 wolfgang	2000
+dopoludnia	1500
+závisieť	1500
 menia	871
 moderný	871
 motívy	871
@@ -8723,6 +8725,9 @@ zúčastňuje	501
 šťastné	501
 žiar	501
 žilo	501
+alergie	500
+vianocami	500
+škôlka	500
 absolventi	490
 adama	490
 akt	490
@@ -13774,6 +13779,15 @@ zásadný	302
 živočíšnych	302
 živú	302
 župy	302
+antibiotík	300
+babke	300
+bicykla	300
+doobeda	300
+mailu	300
+nabíjanie	300
+telefonicky	300
+zubár	300
+škôlku	300
 abc	295
 adams	295
 akademickej	295
@@ -30990,7 +31004,6 @@ záľubu	112
 šialená	112
 šiesta	112
 šikmé	112
-škôlka	112
 špecifického	112
 špionáž	112
 športoviská	112
@@ -33116,14 +33129,12 @@ absencie	100
 absolvovalo	100
 absolútnou	100
 alba	100
-alergie	100
 amp	100
 amulet	100
 anka	100
 aro	100
 atény	100
 atómami	100
-babke	100
 balkánu	100
 bankami	100
 bankového	100
@@ -33189,7 +33200,6 @@ dokumentmi	100
 dolára	100
 donútila	100
 doo	100
-doobeda	100
 dopravnom	100
 dožil	100
 dračie	100
@@ -33622,7 +33632,6 @@ velil	100
 versus	100
 veselí	100
 veľkonočného	100
-vianocami	100
 viditeľnom	100
 visa	100
 vladimírom	100
@@ -34404,7 +34413,6 @@ alto	95
 analogicky	95
 analytickej	95
 anatolij	95
-antibiotík	95
 architektonicky	95
 archívoch	95
 archívy	95
@@ -34467,7 +34475,6 @@ direction	95
 diva	95
 divočiny	95
 dlhšou	95
-dopoludnia	95
 dopĺňať	95
 dosiahnutím	95
 doterajšieho	95
@@ -34986,7 +34993,6 @@ zárodky	95
 zásnuby	95
 závažným	95
 závidieť	95
-závisieť	95
 záľuby	95
 zúčastňoval	95
 úbytku	95
@@ -36226,7 +36232,6 @@ benedict	89
 beskýd	89
 bezfarebný	89
 bezvedomia	89
-bicykla	89
 bili	89
 biskupovi	89
 blahoželám	89
@@ -36423,7 +36428,6 @@ lokálnu	89
 lol	89
 lte	89
 lístia	89
-mailu	89
 majstrovstvami	89
 mangánu	89
 marika	89
@@ -36451,7 +36455,6 @@ médiám	89
 múdreho	89
 múza	89
 mýlite	89
-nabíjanie	89
 nahodiť	89
 nahrával	89
 najmenšieho	89
@@ -40032,7 +40035,6 @@ talentovaných	79
 tanečnom	79
 tankovej	79
 taškou	79
-telefonicky	79
 tenisová	79
 terapeutické	79
 textilného	79
@@ -40152,7 +40154,6 @@ zoznámenie	79
 zraziť	79
 zrealizovaná	79
 zubnej	79
-zubár	79
 zvanú	79
 zverejňuje	79
 zvyškami	79
@@ -59310,7 +59311,6 @@ zúčtovania	46
 škodlivého	46
 školiace	46
 škótskom	46
-škôlku	46
 šop	46
 špecializovanými	46
 špiónov	46

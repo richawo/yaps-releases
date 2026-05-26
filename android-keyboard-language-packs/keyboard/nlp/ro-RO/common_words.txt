@@ -1,11 +1,22 @@
 # Generated common-word veto list for proper-name casing.
 a
+de
+în
 și
+la
+să
 din
 o
+pe
+cu
+nu
 mai
 un
+este
+că
 care
+pentru
+se
 au
 acasă
 aceasta
@@ -50,14 +61,11 @@ confirmă
 continuă
 copiii
 cred
-cu
 cumpărat
 cumpărăturile
 cursa
 cutiile
 când
-că
-de
 deschide
 despre
 dezbaterea
@@ -68,7 +76,6 @@ dovada
 duminica
 după
 echipa
-este
 examenul
 explică
 factura
@@ -89,7 +96,6 @@ istoria
 jocul
 jucătorul
 judecătorul
-la
 legea
 lista
 lua
@@ -117,11 +123,8 @@ naștere
 ne
 nevoie
 notă
-nu
 parola
 partidul
-pe
-pentru
 pictura
 plata
 pleacă
@@ -158,7 +161,6 @@ răspunde
 răspunsul
 schimbă
 scorul
-se
 seara
 serialul
 site
@@ -166,7 +168,6 @@ spre
 spune
 stadionul
 sună
-să
 săptămâna
 tata
 taxiul
@@ -191,7 +192,6 @@ vor
 vorbește
 votul
 ziua
-în
 înainte
 încarcă
 începe
