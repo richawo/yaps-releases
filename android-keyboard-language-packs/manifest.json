@@ -364,8 +364,8 @@
     },
     {
       "path": "keyboard/nlp/it-IT/words.tsv",
-      "size": 999590,
-      "sha256": "7e9359ce486be255809f58fb8f8be360800708a710b1a712c4b970668fbf1097"
+      "size": 1008388,
+      "sha256": "36d2ee9ee5214b6d5e4a5f3f1ad8d324149ae12146b1a414d8af84baa797ac43"
     },
     {
       "path": "keyboard/nlp/nl-NL/bigrams.tsv",
@@ -484,8 +484,8 @@
     },
     {
       "path": "keyboard/nlp/pt-BR/words.tsv",
-      "size": 959969,
-      "sha256": "f628a9ae0800b116fc66ab0edfa5d55ef50ef46b01a56fd308b9266b1adaabcb"
+      "size": 973429,
+      "sha256": "1518c9d9c6e3818089b15794889ec061bbb5498363890dcb8af572b63a6713b2"
     },
     {
       "path": "keyboard/nlp/ro-RO/bigrams.tsv",
