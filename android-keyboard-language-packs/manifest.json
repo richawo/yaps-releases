@@ -214,8 +214,8 @@
     },
     {
       "path": "keyboard/nlp/el-GR/words.tsv",
-      "size": 893584,
-      "sha256": "a5170161c837572166228eafdd91297e8fc58a9247a43d28750482744c7c212b"
+      "size": 893595,
+      "sha256": "7603402e7e37aaf605e85a6d623e1545e28ae47c531039599561071cdd32efff"
     },
     {
       "path": "keyboard/nlp/es-ES/bigrams.tsv",
@@ -295,7 +295,7 @@
     {
       "path": "keyboard/nlp/et-EE/words.tsv",
       "size": 1094027,
-      "sha256": "ceb3126503b32537f6bf6269778e0efbf267792764b097db27b9a2ac78167da9"
+      "sha256": "8a8dd646bdf3707dc8816788eba37f355f3dc7508c28a02753d2d1aeefb2e71d"
     },
     {
       "path": "keyboard/nlp/fi-FI/bigrams.tsv",
@@ -535,7 +535,7 @@
     {
       "path": "keyboard/nlp/lt-LT/words.tsv",
       "size": 846954,
-      "sha256": "4a6d54eba21446ced791a09033f49a0532945df1237b6bc0909bac50cfc4911e"
+      "sha256": "a34350aa31088a4b3a4eecf586abf45ed109d310dbaa354ba985aaa365e2b3ac"
     },
     {
       "path": "keyboard/nlp/lv-LV/bigrams.tsv",
@@ -575,7 +575,7 @@
     {
       "path": "keyboard/nlp/lv-LV/words.tsv",
       "size": 600498,
-      "sha256": "9628f4d44f1ed83c5c6aeb62e63d9abefb3769e685cc436df785aa173ee3fbaf"
+      "sha256": "45f8b4c46a70e0f7d9a21d4f091abc2faff21deb314de03fb90808b9987d115a"
     },
     {
       "path": "keyboard/nlp/mt-MT/bigrams.tsv",
@@ -615,7 +615,7 @@
     {
       "path": "keyboard/nlp/mt-MT/words.tsv",
       "size": 824417,
-      "sha256": "1bb1c58695155973b12a6e571a377e805d1167c0f046a453d3a6ada6be901b7f"
+      "sha256": "cd1a6dcd19b58d4f56c937d80897f4630e835adcc9e2d5f3e317fab89c73d5d2"
     },
     {
       "path": "keyboard/nlp/nl-NL/bigrams.tsv",
