@@ -2114,8 +2114,10 @@ direttivi
 direttorat
 diretturi
 disa
+disgħin
 disinji
 diska
+diskriminazzjoni
 diskuss
 diskussa
 diskussi
@@ -2124,6 +2126,7 @@ distakk
 distanzi
 distinzjoni
 distretti
+ditta
 diversità
 divertiment
 divina
@@ -2135,8 +2138,10 @@ diġitali
 diżappunt
 diżappuntanti
 djalogu
+djarhom
 djoċesi
 dmir
+dollaru
 domanda
 domandi
 domestika
@@ -2786,7 +2791,6 @@ iwettaq
 iwieġeb
 iz
 izda
-iå¼da
 iġib
 iġibu
 iħaddem
@@ -3112,8 +3116,6 @@ kattoliċi
 kavallier
 kavallieri
 kawżi
-kaå¼
-kaå¼ijiet
 kaċċa
 kaġun
 każin
@@ -3540,7 +3542,6 @@ mitluba
 mitlufa
 mitt
 mixja
-miå¼uri
 miċħuda
 miġbura
 miġjuba
@@ -3749,7 +3750,6 @@ oħtha
 oħtu
 paga
 pagi
-pajjiå¼
 pajjiżhom
 pajjiżu
 pajsaġġ

@@ -44,7 +44,7 @@ tad	dinja	256000
 il	klabb	252000
 tal	futbol	251000
 dawn	il	248000
-dan	l	246000
+dan	l	247000
 din	l	244000
 l	istaġun	242000
 ewwel	darba	240000
@@ -814,6 +814,7 @@ huma	rebħu	40000
 il	bini	40000
 ir	re	40000
 it	tliet	40000
+jgħidu	li	40000
 kien	it	40000
 kienet	qed	40000
 kull	wieħed	40000
@@ -839,7 +840,6 @@ iffirma	kuntratt	39000
 il	mod	39000
 il	palazz	39000
 il	prim	39000
-jgħidu	li	39000
 kien	membru	39000
 knisja	tal	39000
 legs	intlagħbu	39000
@@ -1776,6 +1776,7 @@ ta	bejn	23000
 ta	chelsea	23000
 ta	quddiem	23000
 ta	sitt	23000
+ta	u	23000
 ta	wales	23000
 tagħha	fl	23000
 tal	bidu	23000
@@ -2018,7 +2019,6 @@ simbolu	tal	21000
 spiċċaw	l	21000
 t	ta	21000
 ta	plejers	21000
-ta	u	21000
 tad	dar	21000
 tal	bronż	21000
 tal	isqof	21000
@@ -2439,6 +2439,7 @@ istess	isem	18000
 it	trofew	18000
 ix	xibka	18000
 jew	inkella	18000
+jew	li	18000
 jitqiesu	bħala	18000
 kellhom	l	18000
 kien	imur	18000
@@ -2827,7 +2828,6 @@ it	tramuntana	16000
 iżda	fil	16000
 jagħmel	il	16000
 jammonta	għal	16000
-jew	li	16000
 jew	ma	16000
 jgħixu	fil	16000
 jieħdu	l	16000
@@ -3508,6 +3508,7 @@ staġun	wieħed	14000
 suġġett	ta	14000
 t	tliet	14000
 ta	de	14000
+ta	li	14000
 ta	mintoff	14000
 ta	riferiment	14000
 ta	sistema	14000
@@ -3847,7 +3848,6 @@ t	tfal	13000
 ta	angkor	13000
 ta	don	13000
 ta	informazzjoni	13000
-ta	li	13000
 ta	logħob	13000
 ta	missierha	13000
 ta	pisa	13000
@@ -4040,6 +4040,7 @@ huwa	miet	12000
 huwa	nħatar	12000
 id	divorzju	12000
 id	dramm	12000
+ieħor	tal	12000
 ieħor	u	12000
 ikbar	minn	12000
 iktar	mill	12000
@@ -4507,7 +4508,6 @@ id	deheb	11000
 id	demm	11000
 iddeċidiet	li	11000
 ieħor	il	11000
-ieħor	tal	11000
 ikbar	belt	11000
 iktar	li	11000
 iktar	wieħed	11000
@@ -4864,6 +4864,7 @@ u	dam	11000
 u	fejn	11000
 u	fih	11000
 u	fin	11000
+u	jew	11000
 u	madwar	11000
 u	sal	11000
 u	serva	11000
@@ -4906,6 +4907,7 @@ xulxin	u	11000
 ħajt	ta	11000
 ħal	qormi	11000
 ħarġet	l	11000
+ħin	u	11000
 ħtieġa	li	11000
 żgħir	li	11000
 żgħira	u	11000
@@ -5484,7 +5486,6 @@ triq	ta	10000
 u	dejjem	10000
 u	għad	10000
 u	iswed	10000
-u	jew	10000
 u	jieħu	10000
 u	jispiċċa	10000
 u	jiġu	10000
@@ -5529,7 +5530,6 @@ xogħol	fil	10000
 ħaseb	li	10000
 ħaxix	u	10000
 ħin	tal	10000
-ħin	u	10000
 ħitan	u	10000
 żewġ	terzi	10000
 żgħar	ta	10000
@@ -6527,6 +6527,7 @@ futbol	u	8000
 george	abela	8000
 gowl	u	8000
 gowls	fi	8000
+grieg	u	8000
 grupp	wieħed	8000
 gwerra	il	8000
 gwerra	kontra	8000
@@ -7657,7 +7658,6 @@ gowls	tiegħu	7000
 grawnd	kien	7000
 grawnd	u	7000
 grieg	antik	7000
-grieg	u	7000
 griegi	u	7000
 grigal	tal	7000
 grupp	a	7000
@@ -10404,7 +10404,6 @@ ta	ispirazzjoni	6000
 ta	karatteristiċi	6000
 ta	klabb	6000
 ta	klassifikazzjoni	6000
-ta	km²	6000
 ta	konservazzjoni	6000
 ta	korruzzjoni	6000
 ta	kostruzzjoni	6000
@@ -11481,6 +11480,7 @@ għandu	erja	5000
 għandu	firxa	5000
 għandu	numru	5000
 għar	ritratti	5000
+għarbi	u	5000
 għarbija	u	5000
 għas	snin	5000
 għas	soċjetà	5000
@@ -12490,6 +12490,7 @@ madankollu	huwa	5000
 madankollu	ix	5000
 madankollu	minħabba	5000
 madwar	ix	5000
+madwar	li	5000
 madwar	nofs	5000
 madwar	u	5000
 magħruf	sew	5000
@@ -16593,7 +16594,6 @@ madre	tereża	4000
 madwar	gramma	4000
 madwar	ir	4000
 madwar	kilometri	4000
-madwar	li	4000
 maestro	di	4000
 magħmulin	mill	4000
 magħruf	dwar	4000
@@ -21059,7 +21059,6 @@ għar	residenti	3000
 għarab	li	3000
 għarab	magħquda	3000
 għarabja	sawdita	3000
-għarbi	u	3000
 għarbija	li	3000
 għaref	u	3000
 għarfien	il	3000
@@ -26366,6 +26365,7 @@ ta	sehmu	3000
 ta	sejbiet	3000
 ta	sejħa	3000
 ta	sekonda	3000
+ta	sekondi	3000
 ta	selimiye	3000
 ta	shah	3000
 ta	sheffield	3000
@@ -28758,6 +28758,7 @@ anthony	u	2000
 anthony	vella	2000
 antijokja	u	2000
 antik	il	2000
+antik	jew	2000
 antik	testment	2000
 antik	xi	2000
 antika	fejn	2000
@@ -28868,10 +28869,12 @@ ara	hawn	2000
 ara	wkoll	2000
 aragona	l	2000
 aragona	u	2000
+aramajk	jew	2000
 arborji	jew	2000
 arborju	jgħix	2000
 ardennes	u	2000
 are	one	2000
+arena	li	2000
 arena	ta	2000
 argenteuil	huwa	2000
 argument	jekk	2000
@@ -33956,7 +33959,9 @@ gregorjan	il	2000
 grenadini	li	2000
 grieg	bibliku	2000
 grieg	diofantu	2000
-grieg	διόφαντος	2000
+grieg	jew	2000
+grieg	t	2000
+grieg	tork	2000
 griega	jew	2000
 griegi	antiki	2000
 griegi	mill	2000
@@ -34680,7 +34685,7 @@ għaraf	lil	2000
 għarb	st	2000
 għarb	u	2000
 għarbi	al	2000
-għarbi	سورة	2000
+għarbi	huwa	2000
 għarbija	soċjalista	2000
 għarfien	tat	2000
 għarfien	u	2000
@@ -34859,6 +34864,7 @@ hafna	drabi	2000
 hajduk	split	2000
 halley	li	2000
 hamiltonjana	u	2000
+hangul	bil	2000
 harget	minn	2000
 hari	iżda	2000
 hassan	mir	2000
@@ -37969,6 +37975,7 @@ jew	imutu	2000
 jew	iswed	2000
 jew	jagħmel	2000
 jew	jaħdmu	2000
+jew	jew	2000
 jew	jista	2000
 jew	jiġu	2000
 jew	knisja	2000
@@ -38008,6 +38015,7 @@ jew	speċifikat	2000
 jew	strutturi	2000
 jew	tbiddel	2000
 jew	tempju	2000
+jew	u	2000
 jew	waħda	2000
 jew	ħajja	2000
 jew	ħatja	2000
@@ -39326,6 +39334,7 @@ kelma	t'alla	2000
 kelma	tad	2000
 kelma	tal	2000
 kelma	tintuża	2000
+kelma	użata	2000
 kelma	ġebla	2000
 kelmiet	griegi	2000
 kelmiet	ġodda	2000
@@ -39370,6 +39379,7 @@ kg	u	2000
 kharkov	u	2000
 khazar	lankaran	2000
 khmer	kisbu	2000
+khmer	li	2000
 khmer	rouge	2000
 khwariżmi	għandux	2000
 kiber	bħala	2000
@@ -40164,7 +40174,6 @@ kmandanti	tal	2000
 kmieni	bħala	2000
 kmieni	filgħodu	2000
 kmieni	ħafna	2000
-km²	li	2000
 knejjes	iddedikati	2000
 knejjes	kbar	2000
 knejjes	kollha	2000
@@ -40215,6 +40224,7 @@ kollha	bejn	2000
 kollha	bir	2000
 kollha	din	2000
 kollha	estinti	2000
+kollha	huwa	2000
 kollha	inkluż	2000
 kollha	iżda	2000
 kollha	jagħmlu	2000
@@ -41767,6 +41777,7 @@ lhud	fil	2000
 lhud	insara	2000
 lhud	l	2000
 lhud	ma	2000
+lhudi	huwa	2000
 lhudi	jew	2000
 lhudi	kienu	2000
 lhudi	pereżempju	2000
@@ -49813,7 +49824,6 @@ ta	sebgħa	2000
 ta	segretarju	2000
 ta	segwaċi	2000
 ta	sehem	2000
-ta	sekondi	2000
 ta	selewċja	2000
 ta	senglea	2000
 ta	sens	2000
@@ -53982,7 +53992,7 @@ zürich	u	2000
 ċipru	fejn	2000
 ċipru	grieg	2000
 ċipru	il	2000
-ċirilliku	фк	2000
+ċirilliku	huwa	2000
 ċirkolazzjoni	tad	2000
 ċisterni	tal	2000
 ċitru	li	2000
@@ -55131,7 +55141,3 @@ zürich	u	2000
 żżom	l	2000
 żżomm	ir	2000
 żżomm	xi	2000
-γ	sekondi	2000
-διόφαντος	ὁ	2000
-ἀλεξανδρεύς	t	2000
-ὁ	ἀλεξανδρεύς	2000

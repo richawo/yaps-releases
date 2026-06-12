@@ -71,7 +71,7 @@ tad	dinja	256000
 il	klabb	252000
 tal	futbol	251000
 dawn	il	248000
-dan	l	246000
+dan	l	247000
 din	l	244000
 l	istaġun	242000
 ewwel	darba	240000
@@ -632,6 +632,7 @@ għall	ħabta	40000
 għat	tazza	40000
 huma	rebħu	40000
 ir	re	40000
+jgħidu	li	40000
 kienet	qed	40000
 kull	wieħed	40000
 l fatt	li	40000
@@ -656,7 +657,6 @@ għaxar	snin	39000
 iffirma	kuntratt	39000
 il belt	kapitali	39000
 il prim	ministru	39000
-jgħidu	li	39000
 knisja	tal	39000
 legs	intlagħbu	39000
 mad dinja	kollha	39000
@@ -1140,6 +1140,7 @@ biss	wara	25000
 bħala sit	ta	25000
 d	dar	25000
 dak li	kien	25000
+dan l	aħħar	25000
 dik	l	25000
 distrett	ta	25000
 dun	karm	25000
@@ -1216,7 +1217,6 @@ bdiet	il	24000
 biex	wieħed	24000
 bit	titlu	24000
 bl	għajnuna	24000
-dan l	aħħar	24000
 dan tal	aħħar	24000
 dar	ta	24000
 darba fl	istorja	24000
@@ -1814,6 +1814,7 @@ istati uniti	u	18000
 istess	isem	18000
 ix	xibka	18000
 jew	inkella	18000
+jew	li	18000
 jitqiesu	bħala	18000
 kellhom	l	18000
 kien ukoll	l	18000
@@ -2090,7 +2091,6 @@ it tmexxija	ta	16000
 iżda	fil	16000
 jagħmel	il	16000
 jammonta	għal	16000
-jew	li	16000
 jew	ma	16000
 jgħixu	fil	16000
 jieħdu	l	16000
@@ -2946,6 +2946,7 @@ huwa kien	l	12000
 huwa l	iktar	12000
 huwa magħmul	minn	12000
 huwa meqjus	bħala	12000
+ieħor	tal	12000
 ieħor	u	12000
 ikbar	minn	12000
 iktar	mill	12000
@@ -3270,7 +3271,6 @@ ibbażata	fuq	11000
 id devozzjoni	lejn	11000
 iddeċidiet	li	11000
 ieħor	il	11000
-ieħor	tal	11000
 ikbar	belt	11000
 iktar	li	11000
 iktar	wieħed	11000
@@ -3527,6 +3527,7 @@ xulxin	u	11000
 ħal	qormi	11000
 ħames snin	wara	11000
 ħarġet	l	11000
+ħin	u	11000
 ħtieġa	li	11000
 żgħir	li	11000
 żgħira	u	11000
@@ -3977,7 +3978,6 @@ xogħol	fil	10000
 ħaseb	li	10000
 ħaxix	u	10000
 ħin	tal	10000
-ħin	u	10000
 ħitan	u	10000
 żewġ	terzi	10000
 żgħar	ta	10000
@@ -4722,6 +4722,7 @@ george	abela	8000
 gowl f	logħba	8000
 gowls	fi	8000
 grawnd tagħhom	huwa	8000
+grieg	u	8000
 grupp	wieħed	8000
 gvern il	prim	8000
 gwerra	il	8000
@@ -5536,7 +5537,6 @@ grawnd	kien	7000
 grawnd	u	7000
 grawnd tal	futbol	7000
 grieg	antik	7000
-grieg	u	7000
 griegi	u	7000
 grigal	tal	7000
 grupp	a	7000
@@ -8492,6 +8492,7 @@ għandhu	kapaċità	5000
 għandu	distribuzzjoni	5000
 għandu x'jaqsam	ma	5000
 għar	ritratti	5000
+għarbi	u	5000
 għarbija	u	5000
 għas	snin	5000
 għasafar	li	5000
@@ -16576,7 +16577,6 @@ għar rebħ	tal	3000
 għarab	li	3000
 għarab	magħquda	3000
 għarabja	sawdita	3000
-għarbi	u	3000
 għarbija	li	3000
 għaref	u	3000
 għarfien	il	3000
@@ -22840,6 +22840,7 @@ zmien	meta	3000
 ħidma kbira	u	3000
 ħiereġ	mill	3000
 ħiliet	u	3000
+ħin u	l	3000
 ħinijiet	kollha	3000
 ħinijiet kollha	huma	3000
 ħitan	fil	3000
@@ -23366,8 +23367,8 @@ anthony u	stanton	2000
 anti riformista	ta	2000
 antijokja	u	2000
 antik	il	2000
+antik	jew	2000
 antik	testment	2000
-antik	xi	2000
 antika	fejn	2000
 antika	hi	2000
 antika	kienet	2000
@@ -23480,11 +23481,13 @@ ara hawn	taħt	2000
 ara l	bibljografija	2000
 aragona	l	2000
 aragona	u	2000
+aramajk	jew	2000
 arborji	jew	2000
 arborju	jgħix	2000
 arborju jgħix	fis	2000
 ardennes	u	2000
 are	one	2000
+arena	li	2000
 arena	ta	2000
 argenteuil	huwa	2000
 argument	jekk	2000
@@ -24730,8 +24733,11 @@ bil galbu	u	2000
 bil gowl	tiegħu	2000
 bil gravità	tal	2000
 bil grieg	il	2000
+bil grieg	u	2000
+bil hangul	bil	2000
 bil kap	tal	2000
 bil kbir	fil	2000
+bil khmer	li	2000
 bil kontra	tal	2000
 bil krema	u	2000
 bil kundizzjoni	li	2000
@@ -24739,6 +24745,7 @@ bil lanza	fuq	2000
 bil latin	u	2000
 bil lejl	b'attività	2000
 bil lejl	u	2000
+bil lhudi	huwa	2000
 bil lingwa	għarbija	2000
 bil lingwa	nattiva	2000
 bil malti	il	2000
@@ -24781,6 +24788,7 @@ bill	fatt	2000
 bill fatt	li	2000
 billboard	hot	2000
 billejl	fil	2000
+billi jgħidu	li	2000
 billi l	kelma	2000
 billi ma	riedx	2000
 billi rebħu	lil	2000
@@ -26035,7 +26043,7 @@ dinjija meta	l	2000
 dinjitarji	tal	2000
 dinjità	ta	2000
 diofantu	grieg	2000
-diofantu grieg	διόφαντος	2000
+diofantu grieg	t	2000
 dipartiment	ta	2000
 dipartiment tal	emerġenza	2000
 dipartiment tal	informazzjoni	2000
@@ -27214,7 +27222,6 @@ f'żewġ	partiti	2000
 f'żewġ	staġuni	2000
 f'żona	magħrufa	2000
 f'żona magħrufa	bħala	2000
-f'żona ta	km²	2000
 fa cup	fis	2000
 fa cup	l	2000
 fabbriki	li	2000
@@ -28853,10 +28860,12 @@ grenadini	li	2000
 greċja u	l	2000
 grieg	bibliku	2000
 grieg	diofantu	2000
-grieg	διόφαντος	2000
+grieg	jew	2000
+grieg	t	2000
 grieg diofantu	grieg	2000
 grieg il	kelma	2000
-grieg διόφαντος	ὁ	2000
+grieg t	bejn	2000
+grieg tork	kıbrıs	2000
 griega	jew	2000
 griegi	antiki	2000
 griegi	mill	2000
@@ -29420,7 +29429,7 @@ għarb	st	2000
 għarb	u	2000
 għarb st	lawrence	2000
 għarbi	al	2000
-għarbi	سورة	2000
+għarbi	huwa	2000
 għarbija	soċjalista	2000
 għarbija soċjalista	tal	2000
 għarbija u	l	2000
@@ -29618,6 +29627,8 @@ hajduk	split	2000
 hajja ta	vitorin	2000
 halley	li	2000
 hamiltonjana	u	2000
+hangul	bil	2000
+hangul bil	hanja	2000
 harget	minn	2000
 hari	iżda	2000
 hassan	mir	2000
@@ -29893,6 +29904,7 @@ hu sostna	li	2000
 hu stess	li	2000
 hu ta	m	2000
 hu ta	sekonda	2000
+hu ta	sekondi	2000
 hu tilef	il	2000
 hu tradizzjonalment	magħruf	2000
 hu tritone	l	2000
@@ -34495,6 +34507,7 @@ kg	u	2000
 kharkov	u	2000
 khazar	lankaran	2000
 khmer	kisbu	2000
+khmer	li	2000
 khmer	rouge	2000
 khmer kisbu	l	2000
 khmer rouge	u	2000
@@ -35183,7 +35196,6 @@ kmandanti tal	baħar	2000
 kmieni	bħala	2000
 kmieni	filgħodu	2000
 kmieni	ħafna	2000
-km²	li	2000
 knejjes	iddedikati	2000
 knejjes iddedikati	lil	2000
 knejjes li	kien	2000
@@ -37107,6 +37119,7 @@ lhud ma	kinux	2000
 lhud meta	kien	2000
 lhud u	l	2000
 lhud ġew	ittrasportati	2000
+lhudi	huwa	2000
 lhudi	jew	2000
 lhudi	kienu	2000
 lhudi	pereżempju	2000
@@ -43717,7 +43730,7 @@ ser	jiġu	2000
 ser jiġu	ppjanati	2000
 serata	tal	2000
 serata finali	tas	2000
-serb ċirilliku	фк	2000
+serb ċirilliku	huwa	2000
 serba	fl	2000
 serbja	hu	2000
 serbja	li	2000
@@ -49227,7 +49240,9 @@ zürich	u	2000
 ċipru	fejn	2000
 ċipru	grieg	2000
 ċipru	il	2000
-ċirilliku	фк	2000
+ċipru grieg	tork	2000
+ċirilliku	huwa	2000
+ċirilliku huwa	klabb	2000
 ċirkolazzjoni	tad	2000
 ċirku ta	pitturi	2000
 ċisterni	tal	2000
@@ -50087,7 +50102,6 @@ zürich	u	2000
 ħin liberu	tagħha	2000
 ħin tal	afrika	2000
 ħin tiegħu	mal	2000
-ħin u	l	2000
 ħin u	tal	2000
 ħinijiet	supplementari	2000
 ħinu	kollu	2000
@@ -50387,10 +50401,3 @@ zürich	u	2000
 żżomm	xi	2000
 żżomm ir	rekord	2000
 żżomm xi	diossidu	2000
-γ	sekondi	2000
-διόφαντος	ὁ	2000
-διόφαντος ὁ	ἀλεξανδρεύς	2000
-ἀλεξανδρεύς	t	2000
-ἀλεξανδρεύς t	bejn	2000
-ὁ	ἀλεξανδρεύς	2000
-ὁ ἀλεξανδρεύς	t	2000

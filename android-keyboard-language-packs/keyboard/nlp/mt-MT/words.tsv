@@ -2116,8 +2116,10 @@ direttivi	3000
 direttorat	3000
 diretturi	3000
 disa	3000
+disgħin	3000
 disinji	3000
 diska	3000
+diskriminazzjoni	3000
 diskuss	3000
 diskussa	3000
 diskussi	3000
@@ -2126,6 +2128,7 @@ distakk	3000
 distanzi	3000
 distinzjoni	3000
 distretti	3000
+ditta	3000
 diversità	3000
 divertiment	3000
 divina	3000
@@ -2137,8 +2140,10 @@ diġitali	3000
 diżappunt	3000
 diżappuntanti	3000
 djalogu	3000
+djarhom	3000
 djoċesi	3000
 dmir	3000
+dollaru	3000
 domanda	3000
 domandi	3000
 domestika	3000
@@ -2788,7 +2793,6 @@ iwettaq	3000
 iwieġeb	3000
 iz	3000
 izda	3000
-iå¼da	3000
 iġib	3000
 iġibu	3000
 iħaddem	3000
@@ -3114,8 +3118,6 @@ kattoliċi	3000
 kavallier	3000
 kavallieri	3000
 kawżi	3000
-kaå¼	3000
-kaå¼ijiet	3000
 kaċċa	3000
 kaġun	3000
 każin	3000
@@ -3542,7 +3544,6 @@ mitluba	3000
 mitlufa	3000
 mitt	3000
 mixja	3000
-miå¼uri	3000
 miċħuda	3000
 miġbura	3000
 miġjuba	3000
@@ -3751,7 +3752,6 @@ oħtha	3000
 oħtu	3000
 paga	3000
 pagi	3000
-pajjiå¼	3000
 pajjiżhom	3000
 pajjiżu	3000
 pajsaġġ	3000
@@ -5010,11 +5010,14 @@ shakespeare	2000
 taj	2000
 vinci	2000
 wolfgang	2000
-disgħin	807
-diskriminazzjoni	807
-ditta	807
-djarhom	807
-dollaru	807
+bonus	1000
+drama	1000
+f'art	1000
+panel	1000
+robot	1000
+ross	1000
+rugby	1000
+status	1000
 dom	807
 edukattiva	807
 effettiva	807
@@ -5734,7 +5737,6 @@ nqabad	692
 ntlaqat	692
 nużaw	692
 onlajn	692
-oppoå¼izzjoni	692
 or	692
 oratorju	692
 orbita	692
@@ -5750,7 +5752,6 @@ plakka	692
 politikament	692
 portafoll	692
 power	692
-poå¼ittiv	692
 premjijiet	692
 prestiġjuż	692
 protagonisti	692
@@ -6459,7 +6460,6 @@ dfb	576
 dgħajfa	576
 difensiva	576
 diżgwid	576
-drama	576
 dritta	576
 elef	576
 elettorat	576
@@ -6521,7 +6521,6 @@ ispanjoli	576
 ispirat	576
 isplużjoni	576
 isports	576
-iå¼	576
 iħejji	576
 jagħraf	576
 jagħtuh	576
@@ -6682,7 +6681,6 @@ soċjeta	576
 sparati	576
 starlites	576
 station	576
-status	576
 stili	576
 stqarrew	576
 stqarrijiet	576
@@ -6772,7 +6770,6 @@ benjamin	538
 benjamini	538
 bournemouth	538
 broadcasting	538
-bå¼onn	538
 bħalu	538
 caravaggio	538
 catherine	538
@@ -6897,7 +6894,6 @@ jtemm	538
 jżur	538
 kalifornja	538
 kalkulu	538
-kaå¼i	538
 kesħin	538
 kewkba	538
 khmer	538
@@ -7068,7 +7064,6 @@ tu	538
 turistika	538
 tħossha	538
 ungeriż	538
-uå¼u	538
 uċuħ	538
 veteran	538
 vokabularju	538
@@ -7403,7 +7398,6 @@ oħt	500
 pagamenti	500
 pagani	500
 pajjiz	500
-panel	500
 pedana	500
 penali	500
 personalitajiet	500
@@ -7437,7 +7431,6 @@ reċediv	500
 ribelli	500
 rikoverati	500
 roglic	500
-rugby	500
 rħula	500
 safar	500
 sahra	500
@@ -7594,7 +7587,6 @@ bijografija	461
 bilanċjata	461
 biżantini	461
 blokki	461
-bonus	461
 bramante	461
 business	461
 bust	461
@@ -8297,7 +8289,6 @@ kixef	423
 kkompetew	423
 kkummissjonat	423
 klose	423
-km²	423
 kommess	423
 kompetenti	423
 komplessi	423
@@ -8567,7 +8558,6 @@ x'għandu	423
 x'sar	423
 xoljiment	423
 zewg	423
-å¼mien	423
 ċagħaq	423
 ċaqliq	423
 ċaħdu	423
@@ -9163,7 +9153,6 @@ taqbeż	384
 taqleb	384
 taqlib	384
 tattiċi	384
-taå¼	384
 tbati	384
 tendenzi	384
 tender	384
@@ -9271,7 +9260,6 @@ ahmed	346
 ajnuna	346
 ajruporti	346
 akkumpanjati	346
-akkuå¼at	346
 akkwisti	346
 akuta	346
 alba	346
@@ -9338,7 +9326,6 @@ bijoloġika	346
 biljett	346
 bingham	346
 binhom	346
-biå¼å¼ejjed	346
 biżantin	346
 blog	346
 bmw	346
@@ -9386,7 +9373,6 @@ devastanti	346
 devot	346
 diana	346
 dieä	346
-difiå¼a	346
 dikjarata	346
 dinastiji	346
 direzzjonijiet	346
@@ -9419,7 +9405,6 @@ etienne	346
 evans	346
 evoke	346
 ewkaristija	346
-eå¼ami	346
 f'koma	346
 f'kompetizzjoni	346
 f'la	346
@@ -9788,7 +9773,6 @@ pontifiċja	346
 porto	346
 possibiltà	346
 powerstation	346
-poå¼ittivi	346
 pparteċipa	346
 pproduċiet	346
 predikazzjoni	346
@@ -9843,7 +9827,6 @@ rio	346
 ristorant	346
 ristretta	346
 rita	346
-riå¼ultat	346
 riżervi	346
 robbie	346
 roman	346
@@ -9977,8 +9960,6 @@ y	346
 zar	346
 zarina	346
 zija	346
-å¼gä	346
-å¼ieda	346
 ċediet	346
 ċentimetru	346
 ċeramika	346
@@ -10181,7 +10162,6 @@ evra	307
 eċċezzjonijiet	307
 eżekuttivi	307
 f'antijokja	307
-f'art	307
 f'baħar	307
 f'beijing	307
 f'corner	307
@@ -10277,7 +10257,6 @@ ingwanti	307
 ingħaqdet	307
 inkitbet	307
 inkludiet	307
-inkluå¼	307
 inkomplu	307
 inkurunazzjoni	307
 innutaw	307
@@ -10680,7 +10659,6 @@ rnexxielhomx	307
 rom	307
 ronda	307
 rosianne	307
-ross	307
 rotunda	307
 rowling	307
 rregolari	307
@@ -10875,7 +10853,6 @@ yahoo	307
 yeni	307
 yvette	307
 zverev	307
-å¼	307
 ċajta	307
 ċatt	307
 ċatta	307
@@ -11694,7 +11671,6 @@ ottimist	269
 ovvja	269
 p	269
 pac	269
-pajjiå¼i	269
 palazzo	269
 papat	269
 paragun	269
@@ -11821,7 +11797,6 @@ riżors	269
 rjal	269
 rnexxilux	269
 robben	269
-robot	269
 rokku	269
 romagna	269
 ron	269
@@ -12618,7 +12593,6 @@ irkupraw	231
 irmied	231
 irqiq	231
 irrelevanti	231
-irriå¼ulta	231
 irċevuti	231
 irċiviet	231
 isabela	231
@@ -12822,7 +12796,6 @@ kurrent	231
 kuszczak	231
 kwantistiku	231
 kwartifinali	231
-kwaå¼i	231
 kwoti	231
 lagomorfi	231
 lanner	231
@@ -12933,7 +12906,6 @@ minsija	231
 missjonijiet	231
 mitfugħin	231
 mitluqa	231
-miå¼ura	231
 miġjub	231
 miżmumin	231
 mlaqqam	231
@@ -13462,7 +13434,6 @@ youngsters	231
 zaha	231
 zrinzo	231
 zürich	231
-å¼ied	231
 ċansijiet	231
 ċass	231
 ċedew	231
@@ -13641,7 +13612,6 @@ axel	192
 axiak	192
 axxetika	192
 azerbaijan	192
-aå¼agä	192
 aċtu	192
 aċċettazzjoni	192
 aċċident	192
@@ -14881,7 +14851,6 @@ prefett	192
 preliminarji	192
 pressa	192
 prezzjużi	192
-preå¼enti	192
 preċiżi	192
 privitera	192
 priża	192
@@ -15339,7 +15308,6 @@ venezjani	192
 ventilator	192
 verdi	192
 veritajiet	192
-verå¼joni	192
 vespucci	192
 vicente	192
 virtujiet	192
@@ -15423,8 +15391,6 @@ zhang	192
 zieda	192
 zinedine	192
 zokk	192
-å¼agä	192
-å¼ugä	192
 école	192
 étienne	192
 ċajtier	192
@@ -15532,7 +15498,6 @@ ahwa	154
 ajsa	154
 akkademji	154
 akkumpanjament	154
-akkuå¼i	154
 akkwati	154
 akut	154
 akwedott	154
@@ -16054,7 +16019,6 @@ evolviet	154
 exeter	154
 express	154
 ezami	154
-eå¼ekuttiv	154
 eġew	154
 eħfef	154
 eżaminata	154
@@ -16711,7 +16675,6 @@ jintgħarfu	154
 jintgħażel	154
 jintlaħaqx	154
 jintremew	154
-jintuå¼a	154
 jinħażnu	154
 jinħbew	154
 jinħeba	154
@@ -16729,7 +16692,6 @@ jirrevedu	154
 jirreżistu	154
 jirrimarka	154
 jirrisjedi	154
-jirriå¼ultaw	154
 jirriżultax	154
 jisfidaw	154
 jisfrutta	154
@@ -16761,7 +16723,6 @@ jitħaddmu	154
 jitħejjew	154
 jivjaġġa	154
 jixtarr	154
-jiå¼diedu	154
 jiċċekkjaw	154
 jiċħdu	154
 jiġbdu	154
@@ -16854,7 +16815,6 @@ katekumenat	154
 kattoliċiżmu	154
 kavallerija	154
 kazin	154
-kaå¼ini	154
 każakistani	154
 kellimha	154
 kensington	154
@@ -17934,7 +17894,6 @@ tinteressa	154
 tinterpreta	154
 tintilifx	154
 tinxtegħel	154
-tinå¼amm	154
 tinħadem	154
 tipjip	154
 tippermettilhom	154
@@ -17956,7 +17915,6 @@ titħaddem	154
 titħarreġ	154
 tixpruna	154
 tixrob	154
-tiå¼died	154
 tiħux	154
 tiżżewweġ	154
 tjur	154
@@ -18146,7 +18104,6 @@ zeus	154
 zgħar	154
 zuckerberg	154
 äšentrali	154
-å¼viluppi	154
 édouard	154
 ċajtiera	154
 ċedut	154
@@ -18477,7 +18434,6 @@ ayrton	115
 azjenda	115
 azjendi	115
 azzard	115
-aå¼la	115
 aċċelerazzjoni	115
 aċċessat	115
 aċċessibilità	115
@@ -19820,7 +19776,6 @@ inflazzjoni	115
 infondati	115
 ingann	115
 inghata	115
-ingliå¼	115
 ingwanta	115
 ingħażel	115
 inhatar	115
@@ -19948,7 +19903,6 @@ irrifjutat	115
 irrifjutata	115
 irrisponda	115
 irriversibbli	115
-irriå¼enja	115
 irwejjaħ	115
 irwieħhom	115
 irħama	115
@@ -20225,7 +20179,6 @@ jinxfu	115
 jinxtegħlu	115
 jinzerta	115
 jinzertaw	115
-jinå¼amm	115
 jinġemgħu	115
 jinġibdu	115
 jinġibed	115
@@ -20417,7 +20370,6 @@ katastrofiċi	115
 kategoria	115
 kavità	115
 kawkażu	115
-kawå¼a	115
 kaxex	115
 kazi	115
 każakistana	115
@@ -20930,7 +20882,6 @@ mistqosi	115
 mistħarreġ	115
 mitluq	115
 mitsotakis	115
-miå¼	115
 miġbuda	115
 miżbla	115
 mkisser	115
@@ -21007,7 +20958,6 @@ mustafà	115
 musulman	115
 musumeci	115
 musée	115
-muå¼ika	115
 muġugħ	115
 mwaħħlin	115
 mwejjed	115
@@ -21019,7 +20969,6 @@ mxengel	115
 myanmar	115
 mykonos	115
 mystras	115
-m²	115
 málaga	115
 mödling	115
 mċaqalqa	115
@@ -21605,7 +21554,6 @@ rama	115
 rankatura	115
 ranking	115
 rapa	115
-rappreå¼entanti	115
 rappurtaw	115
 raqdet	115
 rathom	115
@@ -21705,8 +21653,6 @@ riskjużi	115
 ritornati	115
 rittenhouse	115
 riversleigh	115
-riå¼enja	115
-riå¼orsi	115
 riċentement	115
 riġali	115
 riħa	115
@@ -22359,7 +22305,6 @@ turkestan	115
 turkmen	115
 tursin	115
 turġien	115
-tuå¼a	115
 tvarjax	115
 twaqfet	115
 twassalhom	115
@@ -22621,9 +22566,6 @@ zuberbühler	115
 zuntier	115
 äšentru	115
 äšivili	115
-å¼el	115
-å¼id	115
-å¼iedet	115
 ċanfar	115
 ċangatura	115
 ċassi	115
@@ -22758,8 +22700,6 @@ zuntier	115
 żurigu	115
 żvantaġġjati	115
 żvediż	115
-γ	115
-אלהי	115
 air	80
 all	80
 and	80
@@ -23238,7 +23178,6 @@ azarenka	77
 azpilicueta	77
 azul	77
 azzjonjiet	77
-aå¼lu	77
 aċidi	77
 aċċessi	77
 aċċetata	77
@@ -23567,7 +23506,6 @@ baħħar	77
 baştürk	77
 bażiliki	77
 bażuka	77
-bbaå¼at	77
 bbażaw	77
 bbeatifikat	77
 bbenefikat	77
@@ -23675,7 +23613,6 @@ bist	77
 biswitha	77
 bittija	77
 bizet	77
-biå¼	77
 biżonti	77
 blackburn	77
 blackwell	77
@@ -23734,7 +23671,6 @@ borough	77
 borrinu	77
 borromeo	77
 borza	77
-borå¼a	77
 boskijiet	77
 botanija	77
 botaniku	77
@@ -24193,7 +24129,6 @@ deportar	77
 deportazzjoni	77
 deportes	77
 deportivo	77
-depoå¼itu	77
 depożitati	77
 deputazione	77
 derain	77
@@ -25080,9 +25015,6 @@ firstsearch	77
 fischer	77
 fissrulna	77
 fizzjoni	77
-fiå¼	77
-fiå¼ika	77
-fiå¼iku	77
 fiżiċità	77
 fjakka	77
 fjamanta	77
@@ -25250,7 +25182,6 @@ gardner	77
 garrido	77
 garry	77
 garzoni	77
-garå¼ella	77
 gaspar	77
 gaspart	77
 gassużi	77
@@ -25446,8 +25377,6 @@ gwidata	77
 gyan	77
 gymnasiums	77
 gypsies	77
-gå¼ejjer	77
-gå¼ira	77
 gérard	77
 górski	77
 góry	77
@@ -26000,8 +25929,6 @@ inklinazzjoni	77
 inkludiex	77
 inklussività	77
 inkluz	77
-inkluå¼a	77
-inkluå¼i	77
 inkonsistenti	77
 inkontrollabbli	77
 inkonċepibbli	77
@@ -26399,8 +26326,6 @@ izhora	77
 izrael	77
 izur	77
 izzomm	77
-iå¼ommu	77
-iå¼vilupp	77
 iċarċar	77
 iċempilli	77
 iċċanfrinati	77
@@ -26786,7 +26711,6 @@ jintlaä	77
 jintleħqu	77
 jintrefgħu	77
 jintroduċu	77
-jintuå¼aw	77
 jinvolvix	77
 jinxef	77
 jinxteħet	77
@@ -26804,7 +26728,6 @@ jipperswadi	77
 jippożaw	77
 jippratika	77
 jippreservaw	77
-jippreå¼enta	77
 jippreżentaha	77
 jippreżentahom	77
 jippreżentalna	77
@@ -26829,7 +26752,6 @@ jirregolarizzaw	77
 jirrepetix	77
 jirrepetu	77
 jirrepreżentaw	77
-jirreå¼enja	77
 jirreċtaw	77
 jirribatti	77
 jirrifondu	77
@@ -26842,7 +26764,6 @@ jirringrazzjah	77
 jirriskja	77
 jirrispondu	77
 jirrizenja	77
-jirriå¼enja	77
 jirriċerkaw	77
 jirriġenera	77
 jirriżolvi	77
@@ -26949,8 +26870,6 @@ jixxalaw	77
 jixxiebah	77
 jixxutja	77
 jixħtu	77
-jiå¼died	77
-jiå¼vela	77
 jiċċappas	77
 jiċċelebrawha	77
 jiċħadx	77
@@ -27034,7 +26953,6 @@ jqabbeż	77
 jqanqal	77
 jqanqlu	77
 jqisuhom	77
-jraå¼å¼nu	77
 jrażżan	77
 jridna	77
 jsaqsi	77
@@ -27094,7 +27012,6 @@ jwissu	77
 jxaħħam	77
 jxerred	77
 jzid	77
-jå¼id	77
 júlio	77
 jürgen	77
 jċaqlaq	77
@@ -27227,7 +27144,6 @@ kawżalità	77
 kaxkru	77
 kaxxetti	77
 kaxxier	77
-kaå¼wali	77
 kaġunata	77
 kaħlanija	77
 każakstan	77
@@ -27430,7 +27346,6 @@ kongratulazzjoni	77
 koni	77
 koniferi	77
 konklav	77
-konkluå¼jonijiet	77
 konkorrenti	77
 konkwistatur	77
 konkwisti	77
@@ -28447,7 +28362,6 @@ mutazzjoni	77
 mutazzjonijiet	77
 muxi	77
 muzew	77
-muå¼ikali	77
 mużajċi	77
 mwarrab	77
 mwassla	77
@@ -28949,7 +28863,6 @@ ovuli	77
 ovulu	77
 ovvji	77
 oxxillometriċi	77
-oå¼å¼a	77
 oċeani	77
 oċċipitali	77
 oġġezzjonatx	77
@@ -29187,7 +29100,6 @@ pneumonia	77
 pochettino	77
 pocket	77
 poetika	77
-poeå¼ija	77
 pogba	77
 poincaré	77
 pointer	77
@@ -29236,8 +29148,6 @@ poster	77
 potenti	77
 potentia	77
 poveri	77
-poå¼ittiva	77
-poå¼izzjoni	77
 poġġewhom	77
 pożi	77
 pożizzjonata	77
@@ -29250,8 +29160,6 @@ ppjanaw	77
 pprattika	77
 ppresedejt	77
 ppressat	77
-ppreå¼entat	77
-ppreå¼entati	77
 ppreċeda	77
 ppreċiża	77
 ppreżentajt	77
@@ -29290,7 +29198,6 @@ preferut	77
 prekarjat	77
 prekarju	77
 prekawzzjonijiet	77
-prekluå¼i	77
 preklużi	77
 prelat	77
 preliminarja	77
@@ -29319,9 +29226,6 @@ pressjonijiet	77
 pretensjoni	77
 previżjonijiet	77
 prezentati	77
-preå¼ent	77
-preå¼entata	77
-preå¼enza	77
 preċessjoni	77
 preżervazzjoni	77
 preżunti	77
@@ -29829,8 +29733,6 @@ rriskjaw	77
 rrispettati	77
 rrispondew	77
 rrizulta	77
-rriå¼ulta	77
-rriå¼ultaw	77
 rriżenjat	77
 rriżenjax	77
 rriżultax	77
@@ -30231,7 +30133,6 @@ sorgues	77
 sorprendentement	77
 sorveljati	77
 sospiz	77
-sospiå¼i	77
 sostanzjalment	77
 sostenibilità	77
 sostnieh	77
@@ -30577,7 +30478,6 @@ taħrik	77
 taħsad	77
 taħsir	77
 taħwida	77
-taʼ	77
 tbenġila	77
 tberrik	77
 tbiegħ	77
@@ -30609,7 +30509,6 @@ telegrafiku	77
 telegraph	77
 telenka	77
 telephone	77
-televiå¼joni	77
 televoting	77
 telgä	77
 tell	77
@@ -30780,7 +30679,6 @@ tinstalla	77
 tintegra	77
 tintewa	77
 tintrefa	77
-tintuå¼a	77
 tinħatar	77
 tinħeba	77
 tippermettilha	77
@@ -31043,7 +30941,6 @@ turbat	77
 turbolenti	77
 turf	77
 turija	77
-turiå¼mu	77
 turkish	77
 turmenti	77
 turnout	77
@@ -31146,7 +31043,6 @@ utd	77
 utilisti	77
 utopija	77
 utopja	77
-uå¼at	77
 użanzi	77
 użawh	77
 użax	77
@@ -31511,10 +31407,6 @@ zwarte	77
 zwicky	77
 à	77
 álvaro	77
-å¼died	77
-å¼ejt	77
-å¼vela	77
-å¼velat	77
 élite	77
 élysées	77
 île	77
@@ -31786,21 +31678,6 @@ zwicky	77
 żżom	77
 żżommha	77
 ɑʔɑ	77
-δημοκρατία	77
-διόφαντος	77
-ι	77
-με	77
-παρθενόπη	77
-τους	77
-аида	77
-гарифуллина	77
-кызы	77
-фк	77
-ҥ	77
-קומי	77
-רוח	77
-ἀλεξανδρεύς	77
-ὁ	77
 a'rih	38
 aachen	38
 aacsb	38
@@ -31825,7 +31702,6 @@ abbasso	38
 abbat	38
 abbatijiet	38
 abbazia	38
-abbaå¼i	38
 abbażżi	38
 abbessa	38
 abbessi	38
@@ -31850,7 +31726,6 @@ abbundannati	38
 abbundant	38
 abbuz	38
 abbuziva	38
-abbuå¼	38
 abbużaw	38
 abbużawh	38
 abbà	38
@@ -32222,8 +32097,6 @@ akkuratezza	38
 akkuza	38
 akkuzat	38
 akkuzi	38
-akkuå¼ata	38
-akkuå¼ati	38
 akkużathom	38
 akkwarji	38
 akkwatika	38
@@ -33393,13 +33266,11 @@ avvenimet	38
 avveninere	38
 avventimenti	38
 avvinement	38
-avviå¼	38
 avviċinaha	38
 avviċinatx	38
 avviċinawh	38
 avviċinawha	38
 avzalovna	38
-avå¼a	38
 avżata	38
 avżati	38
 awa	38
@@ -33521,9 +33392,6 @@ azzoopardi	38
 azzoprdi	38
 azzurri	38
 azán	38
-aå¼in	38
-aå¼ina	38
-aå¼liet	38
 aéroport	38
 aîné	38
 aïcha	38
@@ -33596,7 +33464,6 @@ ażżardata	38
 ażżessibbli	38
 ażżma	38
 ażżmatiku	38
-aσπάλαθος	38
 b'adattament	38
 b'addattament	38
 b'ademola	38
@@ -34851,7 +34718,6 @@ baziak	38
 bazilicata	38
 bazilka	38
 bazooka	38
-baå¼i	38
 baċil	38
 baċċelerat	38
 baġitarji	38
@@ -35477,7 +35343,6 @@ borneo	38
 bornholm	38
 borobodur	38
 borosilikat	38
-boroå¼	38
 borriello	38
 borromini	38
 borrox	38
@@ -35839,10 +35704,6 @@ bzonnhom	38
 bzonnjużi	38
 bàng	38
 bänninger	38
-bå¼ar	38
-bå¼aru	38
-bå¼onnijiet	38
-bå¼onnu	38
 bærum	38
 bèibei	38
 béclère	38
@@ -35855,7 +35716,6 @@ bóín	38
 bônde	38
 bücher	38
 bürger	38
-bāʼ	38
 bălţi	38
 běijīng	38
 bħalal	38
@@ -36359,8 +36219,6 @@ chuquipalta	38
 chángchéng	38
 châtelet	38
 chūgoku	38
-chʼen	38
-chʼeʼen	38
 ciampi	38
 ciani	38
 ciara	38
@@ -37226,7 +37084,6 @@ dekoerenza	38
 dekolonizzazzjoni	38
 dekompost	38
 dekomposti	38
-dekompoå¼izzjoni	38
 dekompożi	38
 dekontaminazzjoni	38
 dekorat	38
@@ -37439,7 +37296,6 @@ dewa	38
 dewbien	38
 dewweb	38
 dewwieba	38
-deå¼ert	38
 deċelis	38
 deċenji	38
 deċenju	38
@@ -37625,7 +37481,6 @@ dinglin	38
 dinjiet	38
 dinjii	38
 dinjitajiet	38
-dinjituå¼	38
 dinl	38
 dinosaurs	38
 dinosawra	38
@@ -37757,8 +37612,6 @@ divinazzjoni	38
 divino	38
 divintà	38
 divizjoni	38
-diviå¼iv	38
-diviå¼joni	38
 diviżijoni	38
 diviżiva	38
 diviżorja	38
@@ -37781,8 +37634,6 @@ dixxiplin	38
 dixxipplinarja	38
 dixxipulat	38
 diy	38
-diå¼grazzja	38
-diå¼rispett	38
 diċ	38
 diċemru	38
 diċenju	38
@@ -38069,8 +37920,6 @@ dubbjuża	38
 dubbjużi	38
 dubett	38
 dubh	38
-dubjuå¼a	38
-dubjuå¼i	38
 dubrava	38
 dubravka	38
 dubrovačka	38
@@ -38693,7 +38542,6 @@ erjas	38
 erkulanju	38
 erkut	38
 erlach	38
-ermaniå¼	38
 ermenewtika	38
 ermetiku	38
 ermirati	38
@@ -38777,7 +38625,6 @@ eskludew	38
 eskludewh	38
 eskluditx	38
 esklusivament	38
-eskluå¼	38
 esklużjonijiet	38
 eskortata	38
 eslava	38
@@ -39036,12 +38883,6 @@ eyjafjallajökull	38
 ezentat	38
 ezgjan	38
 ezio	38
-eå¼amina	38
-eå¼att	38
-eå¼ebitur	38
-eå¼ekuttivi	38
-eå¼empju	38
-eå¼istenti	38
 eċekuttiv	38
 eċercizzju	38
 eċitat	38
@@ -39106,7 +38947,6 @@ eżotiċiżmu	38
 eżuberanti	38
 eżukuttiv	38
 eżżatezza	38
-eχ	38
 f'a	38
 f'aachen	38
 f'abbozzar	38
@@ -39447,7 +39287,6 @@ f'galatone	38
 f'garanzija	38
 f'garaxxijiet	38
 f'gary	38
-f'garå¼ella	38
 f'gazzetti	38
 f'gelsenkirchen	38
 f'gem	38
@@ -39607,7 +39446,6 @@ f'kaz	38
 f'kazi	38
 f'kazijiet	38
 f'kazzola	38
-f'kaå¼	38
 f'keffa	38
 f'kelmė	38
 f'kenn	38
@@ -40550,9 +40388,6 @@ faxx	38
 faye	38
 fayez	38
 faä	38
-faå¼i	38
-faå¼ijiet	38
-faå¼ola	38
 faċilitatur	38
 faċiltà	38
 faċitità	38
@@ -40915,8 +40750,6 @@ fiziku	38
 fizz	38
 fizzjali	38
 fizzjużi	38
-fiå¼ikament	38
-fiå¼joterapisti	38
 fiċinu	38
 fiġi	38
 fiġġew	38
@@ -41355,7 +41188,6 @@ fëdorovna	38
 földes	38
 fħ	38
 fırtınalar	38
-fɔlksˌvaːɡən	38
 g'mangia	38
 gabath	38
 gabbia	38
@@ -42025,7 +41857,6 @@ gringi	38
 gringos	38
 gris	38
 grisiūtė	38
-griå¼	38
 griżmejn	38
 griżostmu	38
 grobjan	38
@@ -42621,7 +42452,6 @@ hazzzard	38
 haġa	38
 hażina	38
 hażna	38
-haʼ	38
 hb	38
 hbiberija	38
 hbiebu	38
@@ -42978,7 +42808,6 @@ ibaxxu	38
 ibaħħru	38
 ibbalzmati	38
 ibbazata	38
-ibbaå¼ata	38
 ibbażaw	38
 ibbażha	38
 ibbażżata	38
@@ -43259,7 +43088,6 @@ ifformulata	38
 iffortifikata	38
 iffortifikati	38
 iffrejmjah	38
-iffriå¼ar	38
 iffriża	38
 iffriżata	38
 iffukati	38
@@ -43702,7 +43530,6 @@ imfitxxija	38
 imfixkel	38
 imfixklin	38
 imformazzjoni	38
-imgeå¼wer	38
 imgeżwra	38
 imgieret	38
 imgħallmin	38
@@ -44142,7 +43969,6 @@ inessewna	38
 inetiku	38
 inevitabbilment	38
 inexhaustible	38
-ineå¼å¼agä	38
 ineħi	38
 ineħħuh	38
 ineħħulu	38
@@ -44403,7 +44229,6 @@ inpoġġuhom	38
 inqabbad	38
 inqabblu	38
 inqabbluh	38
-inqabå¼et	38
 inqagħlet	38
 inqalbu	38
 inqasam	38
@@ -44664,7 +44489,6 @@ introverta	38
 intuhom	38
 intuwittivament	38
 intuza	38
-intuå¼a	38
 inuman	38
 inumana	38
 inutili	38
@@ -44725,7 +44549,6 @@ inwegħdek	38
 inwegħdu	38
 inwera	38
 inwiegħdkom	38
-inwieå¼nu	38
 inwieġbuhom	38
 inwieġeb	38
 inwissu	38
@@ -44743,7 +44566,6 @@ inxteħtu	38
 inzamm	38
 inzidu	38
 inzijattivi	38
-inå¼ammu	38
 inċekknu	38
 inċensaturi	38
 inċentiva	38
@@ -44839,7 +44661,6 @@ ipnożi	38
 ipod	38
 ipoggu	38
 ipokriti	38
-ipoteå¼i	38
 ipotizzati	38
 ipovolemiku	38
 ipoġġuha	38
@@ -44883,7 +44704,6 @@ ippreveda	38
 ipprevedew	38
 ipprezenta	38
 ipprezentat	38
-ippreå¼entat	38
 ippreċeduta	38
 ippreġudika	38
 ippreġudikata	38
@@ -45278,8 +45098,6 @@ iskutella	38
 iskutelli	38
 iskuturi	38
 iskuzanti	38
-iskuå¼a	38
-iskuå¼i	38
 iskwadristi	38
 iskwalifika	38
 iskwalifiki	38
@@ -45323,7 +45141,6 @@ ispażju	38
 ispeak	38
 ispeakerbirringrazzja	38
 ispejjez	38
-ispejjeå¼	38
 ispekulaturi	38
 ispeċifikazzjoni	38
 ispeċifikazzjonijiet	38
@@ -45344,7 +45161,6 @@ ispirta	38
 ispirtiera	38
 ispizjara	38
 isplit	38
-ispluå¼joni	38
 isplużjonijiet	38
 ispnajol	38
 isponser	38
@@ -45545,7 +45361,6 @@ istħajjil	38
 isum	38
 isusq	38
 isuzu	38
-isvediå¼i	38
 isvevja	38
 isvizzeri	38
 iswallows	38
@@ -45739,12 +45554,6 @@ izpitanie	38
 izvilupp	38
 izzukrata	38
 izzur	38
-iå¼elle	38
-iå¼iedu	38
-iå¼jed	38
-iå¼olat	38
-iå¼ur	38
-iå¼å¼omm	38
 iéseg	38
 iċanfar	38
 iċanfarhom	38
@@ -46091,7 +45900,6 @@ jaqbdux	38
 jaqbillek	38
 jaqbillhom	38
 jaqbisx	38
-jaqbiå¼x	38
 jaqbiżha	38
 jaqblilhom	38
 jaqdef	38
@@ -46175,7 +45983,6 @@ javanshir	38
 javanza	38
 javvelinawx	38
 javviċinax	38
-javå¼a	38
 jawab	38
 jawaharlal	38
 jawguralha	38
@@ -46395,9 +46202,6 @@ jezera	38
 jezerkinje	38
 jezerċita	38
 jezistu	38
-jeå¼aminaw	38
-jeå¼isti	38
-jeå¼istu	38
 jeċċella	38
 jeċċellaw	38
 jeġgħu	38
@@ -47222,8 +47026,6 @@ jinxtgħel	38
 jinxtorob	38
 jinxtrawx	38
 jinzlux	38
-jinå¼ammux	38
-jinå¼lu	38
 jinċaħad	38
 jinċitaw	38
 jinġabbru	38
@@ -47319,7 +47121,6 @@ jipprevedi	38
 jipprevedu	38
 jippreventi	38
 jipprezentawlu	38
-jippreå¼entaw	38
 jippreċedu	38
 jippreċentaw	38
 jippreċiża	38
@@ -47418,12 +47219,9 @@ jirranġalhom	38
 jirranġawhom	38
 jirranġawlhom	38
 jirraportaw	38
-jirrappreå¼enta	38
-jirrappreå¼entaw	38
 jirrappreżentaha	38
 jirrappreżentahom	38
 jirrappurtawh	38
-jirrapreå¼entaw	38
 jirrapreżenthom	38
 jirratifika	38
 jirratifikawx	38
@@ -47505,7 +47303,6 @@ jirritornahom	38
 jirrivela	38
 jirriversja	38
 jirrizulta	38
-jirriå¼ulta	38
 jirriġeneraw	38
 jirriġetta	38
 jirriħersja	38
@@ -48085,7 +47882,6 @@ jnissu	38
 jnixxi	38
 jnixxu	38
 jnizzlux	38
-jniå¼å¼luha	38
 jniġġeż	38
 jniġġsu	38
 jniġġsux	38
@@ -48302,7 +48098,6 @@ jriduhomx	38
 jridxu	38
 jrieghed	38
 jrieġi	38
-jrireå¼enja	38
 jririżenja	38
 jrodduhomx	38
 jroxx	38
@@ -48461,9 +48256,6 @@ juvnetus	38
 juyong	38
 juyongguan	38
 juza	38
-juå¼a	38
-juå¼aw	38
-juå¼awh	38
 juħa	38
 jużgħu	38
 jużhom	38
@@ -48520,8 +48312,6 @@ jyothi	38
 jzomm	38
 jzur	38
 jzuru	38
-jå¼idu	38
-jå¼omm	38
 jìeħu	38
 jóhanna	38
 jónsdóttir	38
@@ -48846,7 +48636,6 @@ karitattiva	38
 kariġa	38
 karjopsi	38
 karkarizi	38
-karkariå¼i	38
 karkariża	38
 karla	38
 karlovac	38
@@ -49587,7 +49376,6 @@ komportamenti	38
 komposizzjonijiet	38
 kompozitur	38
 kompozizzjonijiet	38
-kompoå¼itur	38
 kompożitriċi	38
 kompożittiv	38
 kompożitu	38
@@ -49653,9 +49441,6 @@ konkavi	38
 konklussiv	38
 konklussivi	38
 konkluzjonijiet	38
-konkluå¼	38
-konkluå¼a	38
-konkluå¼joni	38
 konklużżjoi	38
 konklużżjonijiet	38
 konkojdi	38
@@ -49782,7 +49567,6 @@ konvenżjonalista	38
 konvergenza	38
 konvertit	38
 konvertiti	38
-konverå¼azzjonijiet	38
 konverżazjonijiet	38
 konverżjonijiet	38
 konvettiva	38
@@ -50003,7 +49787,6 @@ krittologija	38
 krivis	38
 krivonys	38
 krivė	38
-kriå¼i	38
 križ	38
 krka	38
 krnjevo	38
@@ -50838,7 +50621,6 @@ litter	38
 litteraires	38
 litterament	38
 litterata	38
-litteriå¼mu	38
 littorali	38
 liturġiji	38
 litvinenko	38
@@ -50860,7 +50642,6 @@ lixandrija	38
 lixka	38
 lixx	38
 liza	38
-liå¼	38
 liége	38
 liên	38
 liċenja	38
@@ -51710,7 +51491,6 @@ mazu	38
 mazz	38
 mazzotta	38
 mazzucchi	38
-maå¼	38
 maċedonjani	38
 maċina	38
 maġburin	38
@@ -52048,7 +51828,6 @@ metereoloġiku	38
 meterojoloġiku	38
 meteusz	38
 methodius	38
-metikoluå¼	38
 metilpirażina	38
 metjoriti	38
 metodika	38
@@ -52511,7 +52290,6 @@ mixtrijin	38
 mixwija	38
 mizizi	38
 mizmuma	38
-mi²	38
 miċeċ	38
 miċhuda	38
 miċidjali	38
@@ -52606,7 +52384,6 @@ mnikket	38
 mninistru	38
 mnissel	38
 mnisslin	38
-mniå¼å¼lin	38
 mniħirhom	38
 mniżża	38
 mniżżlin	38
@@ -53019,7 +52796,6 @@ mux	38
 muxgħar	38
 muza	38
 muzammil	38
-muå¼ewijiet	38
 muñiz	38
 muñoz	38
 muċu	38
@@ -53549,7 +53325,6 @@ nexi	38
 next	38
 nezren	38
 neápolis	38
-neå¼amina	38
 neé	38
 neċessitajiet	38
 neċċedu	38
@@ -53997,9 +53772,6 @@ nixxenqu	38
 nixxijiet	38
 nizar	38
 nizguraw	38
-niå¼el	38
-niå¼guraw	38
-niå¼lu	38
 niċean	38
 niċej	38
 niċċaraw	38
@@ -54364,7 +54136,6 @@ ntrodott	38
 ntroduzzjoni	38
 ntuh	38
 ntunat	38
-ntuå¼aw	38
 ntużawx	38
 ntweriet	38
 nubja	38
@@ -54412,7 +54183,6 @@ nutli	38
 nutra	38
 nutrittivi	38
 nutrizzjonali	38
-nuå¼aw	38
 nuċċalijiet	38
 nużawha	38
 nużawx	38
@@ -54456,8 +54226,6 @@ nzommu	38
 nzul	38
 národní	38
 náutico	38
-nå¼ammu	38
-nå¼ommu	38
 nċedu	38
 nċident	38
 nċidentalment	38
@@ -54965,7 +54733,6 @@ oxxilometriku	38
 oyre	38
 oz	38
 ozon	38
-oå¼å¼	38
 oċeaniku	38
 oċeanu	38
 oċejani	38
@@ -55022,8 +54789,6 @@ pajenti	38
 pajjiezi	38
 pajjii	38
 pajjiiż	38
-pajjiå¼ha	38
-pajjiå¼na	38
 pajjiżek	38
 pajjżina	38
 pajsagg	38
@@ -55497,7 +55262,6 @@ perielju	38
 perijeljiu	38
 perikarpju	38
 perikolat	38
-perikoluå¼i	38
 period	38
 peripatrika	38
 periċinzjan	38
@@ -56041,7 +55805,6 @@ portrait	38
 portsmourh	38
 portugal	38
 portughez	38
-portugiå¼	38
 portuguesa	38
 portus	38
 poruża	38
@@ -56148,8 +55911,6 @@ ppressata	38
 ppressati	38
 pprevedewh	38
 ppreveniha	38
-ppreå¼enta	38
-ppreå¼entaw	38
 ppreċedew	38
 ppreġudikaw	38
 ppreżentah	38
@@ -56329,10 +56090,6 @@ prewkazzjoni	38
 prezentat	38
 prezentaw	38
 prezjuz	38
-preå¼entat	38
-preå¼entatur	38
-preå¼entaturi	38
-preå¼entazzjoni	38
 preċdent	38
 preċedut	38
 preċedutminn	38
@@ -57129,7 +56886,6 @@ rappeneau	38
 rappeżentanti	38
 rappordi	38
 rapportanti	38
-rappreå¼entanta	38
 rappreżentazzjonali	38
 rappreżentazzjoniet	38
 rapprochement	38
@@ -57185,7 +56941,6 @@ razzjonaliment	38
 razzjonalità	38
 razzjonaliżmu	38
 razzjonament	38
-raå¼å¼net	38
 raġa	38
 raġunamenti	38
 raġunar	38
@@ -57336,7 +57091,6 @@ reklutat	38
 reklutaġġ	38
 reklutaġġi	38
 rekordjar	38
-rekwiå¼iti	38
 rekwiżit	38
 rekwiżizzjonijiet	38
 relati	38
@@ -57488,7 +57242,6 @@ reverand	38
 reverendu	38
 revie	38
 revisiting	38
-reviå¼joni	38
 reviżuri	38
 revokat	38
 revokati	38
@@ -57697,7 +57450,6 @@ risi	38
 rising	38
 risistemati	38
 risistemazzjoni	38
-risjuå¼	38
 riskoperta	38
 riskoperti	38
 risku	38
@@ -57750,8 +57502,6 @@ rixhom	38
 riyad	38
 rizzi	38
 rizzotto	38
-riå¼enji	38
-riå¼erva	38
 riċerkatriċi	38
 riċettaklu	38
 riċettur	38
@@ -58036,7 +57786,6 @@ rrivela	38
 rrivelalu	38
 rriversibli	38
 rrivoluzzjona	38
-rriå¼enjat	38
 rriżernja	38
 rriżervat	38
 rriżervata	38
@@ -58137,8 +57886,6 @@ röcken	38
 röhm	38
 römische	38
 rûm	38
-rāfāʾēl	38
-rāfāʾīl	38
 rădulescu	38
 rċevejniex	38
 rċevejt	38
@@ -58709,7 +58456,6 @@ sem	38
 semagħata	38
 semantikament	38
 semantiċi	38
-semaʼ	38
 semenov	38
 semghu	38
 semgħahom	38
@@ -59345,7 +59091,6 @@ skroll	38
 skrolli	38
 skrorett	38
 skrupla	38
-skruploå¼ament	38
 skulari	38
 skulturali	38
 skulturata	38
@@ -59356,7 +59101,6 @@ skurjax	38
 skurtinju	38
 skutella	38
 skutelli	38
-skuå¼at	38
 skużata	38
 skużax	38
 skużza	38
@@ -59683,7 +59427,6 @@ speiza	38
 spejagaw	38
 spejagt	38
 spejjes	38
-spejjeå¼	38
 spektrum	38
 spekulat	38
 speleoloġija	38
@@ -59767,7 +59510,6 @@ sponsorships	38
 spontini	38
 spopolata	38
 spor	38
-sporadiå¼i	38
 sporadiżi	38
 sporitivi	38
 sporobolus	38
@@ -60361,7 +60103,6 @@ susanne	38
 susic	38
 suspendendos	38
 suspettaw	38
-suspettuå¼i	38
 sussiddju	38
 sussigwenti	38
 sutherland	38
@@ -60988,8 +60729,6 @@ televisiv	38
 televixon	38
 televiziv	38
 televiziva	38
-televiå¼iv	38
-televiå¼iva	38
 televoti	38
 telfitu	38
 telfowns	38
@@ -61087,7 +60826,6 @@ tercel	38
 terebovlian	38
 teresina	38
 terexkova	38
-tereå¼a	38
 tereżjana	38
 terfa	38
 terkos	38
@@ -61160,7 +60898,6 @@ tevolvix	38
 tewtoniku	38
 textor	38
 teä	38
-teå¼isti	38
 teóphilo	38
 teċċedi	38
 teħdielha	38
@@ -61713,8 +61450,6 @@ tippreferih	38
 tippreserva	38
 tippresiedi	38
 tipprevali	38
-tippreå¼enta	38
-tippreå¼entah	38
 tippreġudika	38
 tippreġudikalu	38
 tippreżentalu	38
@@ -61765,7 +61500,6 @@ tirrakonta	38
 tirrankja	38
 tirrannija	38
 tirranġa	38
-tirrapreå¼enta	38
 tirrapreżentahom	38
 tirrapurtahx	38
 tirrasenja	38
@@ -61794,7 +61528,6 @@ tirriserva	38
 tirrispeckja	38
 tirrispettax	38
 tirristabbilixxi	38
-tirriå¼ulta	38
 tirriżerva	38
 tirriżultax	38
 tirsisti	38
@@ -61952,7 +61685,6 @@ titrakka	38
 titrasferixxi	38
 titrassendi	38
 titrawwem	38
-titraå¼å¼an	38
 tittermina	38
 titteä	38
 titteħdilhom	38
@@ -62012,8 +61744,6 @@ tixä	38
 tizdied	38
 tizjin	38
 tizreġ	38
-tiå¼gura	38
-tiå¼viluppa	38
 tiċelebra	38
 tiċhad	38
 tiċrita	38
@@ -62150,7 +61880,6 @@ tniggiżna	38
 tnikkir	38
 tnisġet	38
 tnixxef	38
-tniå¼å¼let	38
 tniżżet	38
 tniżżilx	38
 tniżżlux	38
@@ -62444,7 +62173,6 @@ transperancy	38
 transportes	38
 transvaal	38
 tranvia	38
-tranå¼azzjonijiet	38
 tranġatx	38
 tranżalpina	38
 tranżazzjoniet	38
@@ -62466,7 +62194,6 @@ trasforma	38
 trasformati	38
 trasformattiva	38
 trasformazione	38
-trasfuå¼joni	38
 trasfużjonijiet	38
 trasimene	38
 traslitterat	38
@@ -62491,8 +62218,6 @@ traxendenti	38
 traxxix	38
 trazazzjonijiet	38
 trazmissjoni	38
-traå¼messa	38
-traå¼missjonijiet	38
 traċi	38
 traċja	38
 traċċ	38
@@ -63011,7 +62736,6 @@ umilta	38
 umitit	38
 ummagumma	38
 ummunità	38
-umoriå¼mu	38
 umschlagplatz	38
 umsiedlungslager	38
 umtiti	38
@@ -63147,9 +62871,6 @@ uzbekistan	38
 uzeh	38
 uzza	38
 uzzi	38
-uå¼ata	38
-uå¼aw	38
-uå¼i	38
 użahom	38
 użufrutt	38
 użà	38
@@ -63527,7 +63248,6 @@ vizibbli	38
 vizio	38
 vizzjat	38
 vizzjużi	38
-viå¼joni	38
 viète	38
 viċeversa	38
 viċini	38
@@ -64091,7 +63811,6 @@ x'mar	38
 x'mara	38
 x'marda	38
 x'mezzi	38
-x'miå¼uri	38
 x'miżuri	38
 x'mużika	38
 x'naf	38
@@ -64361,7 +64080,6 @@ yasukuni	38
 yatsenko	38
 yatta	38
 yayın	38
-yaʿqūb	38
 years	38
 yekaterina	38
 yekaterinburg	38
@@ -64560,7 +64278,6 @@ zwittau	38
 zygote	38
 zárate	38
 zżwġt	38
-¾	38
 álex	38
 ámmôna	38
 ángel	38
@@ -64572,28 +64289,6 @@ zżwġt	38
 äšipru	38
 äširkostanzi	38
 äšwievet	38
-å¼amm	38
-å¼ammejnieha	38
-å¼ammew	38
-å¼ar	38
-å¼diedet	38
-å¼ejda	38
-å¼ejjen	38
-å¼gur	38
-å¼gurat	38
-å¼idiet	38
-å¼iedu	38
-å¼jara	38
-å¼jarat	38
-å¼lu	38
-å¼minijietna	38
-å¼ommha	38
-å¼ona	38
-å¼oni	38
-å¼rar	38
-å¼vilupp	38
-å¼wiemel	38
-å¼å¼ommhom	38
 æmilia	38
 çatalca	38
 çayırı	38
@@ -65629,241 +65324,3 @@ zżwġt	38
 župa	38
 žďár	38
 ǧīm	38
-ʾalif	38
-ʾertrā	38
-ˈmɑːrloʊ	38
-άμμωνα	38
-έγκυκλοπαιδεία	38
-αδικούντας	38
-αριστοτέλης	38
-αρκτουρος	38
-ασπάλαθος	38
-βασίλευε	38
-βασιλευόντων	38
-βιβλία	38
-βοανη	38
-δs	38
-δt	38
-δία	38
-δίκασον	38
-δορκας	38
-ελλάδα	38
-ελληνική	38
-ελληνικός	38
-ελωι	38
-εφφαθα	38
-ηλι	38
-θ	38
-κέρκυρα	38
-κηφᾶς	38
-κορβανᾶς	38
-κυπριακή	38
-κόρκυρα	38
-κύπρος	38
-κύριε	38
-λόγος	38
-μάθημα	38
-μαθηματικοί	38
-μαθηματικός	38
-μαντώ	38
-ματθαῖος	38
-μαυρογένους	38
-νίσα	38
-νίσαιον	38
-νῖσος	38
-οδου	38
-οδός	38
-π	38
-πέτρας	38
-παιδιού	38
-πατησίων	38
-πλατεῖα	38
-πλούτων	38
-ποιμενικός	38
-πολεμούντας	38
-πυθαγόρας	38
-πόλη	38
-σπάλαθος	38
-σύμβολα	38
-ταβειθα	38
-ταυρική	38
-της	38
-τινά	38
-το	38
-του	38
-των	38
-φίλος	38
-φαραώ	38
-φιλοσοφία	38
-φωνή	38
-χαμόγελο	38
-александар	38
-александровна	38
-апреля	38
-арена	38
-афзал	38
-аш	38
-бахчисарай	38
-башкирская	38
-башҡорт	38
-београдска	38
-бербатов	38
-босна	38
-верю	38
-видић	38
-вукашин	38
-вуле	38
-горбачёв	38
-давай	38
-держаться	38
-димитър	38
-дыши	38
-за	38
-замак	38
-и	38
-иван	38
-иванов	38
-казан	38
-казанский	38
-кирмәне	38
-клуб	38
-кремль	38
-кухня	38
-леотар	38
-лідскі	38
-маріуполь	38
-мода	38
-нагорный	38
-надежда	38
-не	38
-немања	38
-никому	38
-олимпиц	38
-опиум	38
-первое	38
-петровић	38
-покровское	38
-приједор	38
-рудар	38
-руки	38
-сарајево	38
-сергеевич	38
-совет	38
-србија	38
-тирке	38
-тирнанић	38
-тоҷикистон	38
-тривуновић	38
-тургенев	38
-херцеговина	38
-централна	38
-эмил	38
-эмилевна	38
-ҷумҳурии	38
-һыуы	38
-әлфия	38
-ազգային	38
-արցախ	38
-հայաստանի	38
-հավաքական	38
-ֆուտբոլի	38
-אבא	38
-אלי	38
-בר	38
-הושע	38
-הקודש	38
-טביתא	38
-טליתא	38
-טלתא	38
-י	38
-יהוה	38
-כיפא	38
-למא	38
-עזב	38
-פרעה	38
-קרבן	38
-קרבנא	38
-רגז	38
-רגיש	38
-שבקתני	38
-ابراهیم	38
-ابو	38
-اقبال	38
-الإخلاص	38
-التوحيد	38
-الدین	38
-السلام	38
-الغني	38
-الفتح	38
-القرآن	38
-المغرب	38
-بادگير	38
-باطره	38
-بروناي	38
-بروني	38
-بغداد	38
-بن	38
-تاج	38
-تشلحيت	38
-تونس	38
-خیام	38
-دار	38
-دارالسلام	38
-دولة	38
-رافائيل	38
-سورة	38
-عبد	38
-عمر	38
-غیاث	38
-كلية	38
-كمون	38
-ليمون	38
-لیمو	38
-محل	38
-محمد	38
-مسیح	38
-نڬارا	38
-نیشابوری	38
-नगर	38
-ኤርትራ	38
-នគរ	38
-ἀδιάφορα	38
-ἀτέλεια	38
-ἱερά	38
-ὁδός	38
-ὄντα	38
-ὡροσκοπία	38
-ὡρόσκοπος	38
-ⵜⴰⵛⵍⵃⵉⵜ	38
-あなたに夢中	38
-キラ	38
-デスノート	38
-万里长城	38
-伊藤蘭	38
-周	38
-如月	38
-妮妮	38
-宙	38
-広島市	38
-廟室	38
-明清皇家陵寝	38
-明清皇家陵寢	38
-晶晶	38
-望京楼	38
-望京樓	38
-欢欢	38
-正殿	38
-田中好子	38
-盛京三陵	38
-絹更月	38
-肘	38
-能	38
-萬里長城	38
-藤村美樹	38
-衣更月	38
-贝贝	38
-軸	38
-迎迎	38
-묘실	38
-정전	38
-ﬂ	38

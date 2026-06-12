@@ -1439,6 +1439,7 @@ ansatz
 anschauen
 anscheinend
 anschlag
+anschließend
 anschluss
 ansehen
 ansicht
@@ -1579,6 +1580,7 @@ autoren
 autorin
 autos
 außen
+außerhalb
 baby
 bach
 bachelor
@@ -2797,10 +2799,12 @@ grössere
 grösseren
 grösstenteils
 grösster
+größe
 größer
 größere
 größeren
 größte
+größten
 grün
 gründe
 gründer
@@ -4305,6 +4309,7 @@ strafe
 strand
 strassen
 strategie
+straßen
 stream
 strecke
 strecken
@@ -4994,8 +4999,3 @@ zweimal
 zweitens
 zweiter
 zweites
-zwölf
-zählen
-zählt
-zähne
-züge

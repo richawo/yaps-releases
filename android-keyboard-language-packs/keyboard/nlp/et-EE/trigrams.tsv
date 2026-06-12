@@ -232,7 +232,6 @@ ja ma	arvan	79000
 kuid see	ei	79000
 oli see	et	79000
 kindlasti ei	ole	78000
-kui ei	ole	78000
 on nii	et	78000
 selge on	see	78000
 ta märkis	et	78000
@@ -241,6 +240,7 @@ ei saa	ka	77000
 ja nii	edasi	77000
 kas ja	kuidas	77000
 kui eelmisel	aastal	77000
+kui ei	ole	77000
 ma ei	oska	77000
 miljoni euro	suuruse	77000
 siis kui	on	77000
@@ -1723,7 +1723,6 @@ teise koha	saanud	23000
 tuleb meeles	pidada	23000
 tuleb silmas	pidada	23000
 tähele panna	et	23000
-tõdes et	on	23000
 tõi ta	välja	23000
 tühjade tribüünide	ees	23000
 vikerraadio saates	rahva	23000
@@ -1853,6 +1852,7 @@ tallinnas ja	harjumaal	22000
 tea kas	see	22000
 teatas täna	et	22000
 tour de	france'il	22000
+tõdes et	on	22000
 usa s	on	22000
 valdor seeder	ütles	22000
 veel enne	kui	22000
@@ -2255,7 +2255,6 @@ kui tunned	et	19000
 kuigi see	on	19000
 kuu aega	hiljem	19000
 kuue kuu	jooksul	19000
-kõik väga	hästi	19000
 küll ja	veel	19000
 laulu ja	tantsupeo	19000
 leiab r	kristjan	19000
@@ -2457,6 +2456,7 @@ kus nad	on	18000
 käive oli	eurot	18000
 kõik on	hästi	18000
 kõik teame	et	18000
+kõik väga	hästi	18000
 kõlvart ütles	et	18000
 küll aga	oli	18000
 kümned tuhanded	inimesed	18000
@@ -3353,7 +3353,6 @@ on ja	kas	15000
 on ka	meie	15000
 on kokku	seotud	15000
 on kõik	need	15000
-on kõik	väga	15000
 on lihtsalt	nii	15000
 on lõpetatud	protsenti	15000
 on meil	väga	15000
@@ -3743,6 +3742,7 @@ on kaks	võimalust	14000
 on kindlasti	ka	14000
 on kokku	leppinud	14000
 on kätte	jõudnud	14000
+on kõik	väga	14000
 on kõrgem	kui	14000
 on meie	eesmärk	14000
 on oluline	roll	14000
@@ -6790,7 +6790,6 @@ tuleb aru	saada	10000
 tuleb kinni	pidada	10000
 tuleb ära	teha	10000
 tuleb öelda	et	10000
-tuleb üle	vaadata	10000
 tuletame meelde	et	10000
 tundsin et	see	10000
 tundub et	eesti	10000
@@ -8064,6 +8063,7 @@ tuleb jälgida	et	9000
 tuleb märkida	et	9000
 tuleb olla	ettevaatlik	9000
 tuleb vaadata	ka	9000
+tuleb üle	vaadata	9000
 tuleks üle	vaadata	9000
 tulemus on	negatiivne	9000
 tulevad ja	lähevad	9000
@@ -13105,7 +13105,6 @@ et olukord	ei	6000
 et olukord	oleks	6000
 et olukord	pole	6000
 et olukord	võib	6000
-et on	eesti	6000
 et on	hea	6000
 et on	hästi	6000
 et on	ise	6000
@@ -17213,6 +17212,7 @@ et oleme	valmis	5000
 et olukorda	parandada	5000
 et on	aastaid	5000
 et on	ainult	5000
+et on	eesti	5000
 et on	hakanud	5000
 et on	ja	5000
 et on	käinud	5000
@@ -18366,7 +18366,6 @@ kohe sõidu	alguses	5000
 kohe ära	ei	5000
 kohe ära	et	5000
 koht kus	oma	5000
-koht kus	on	5000
 koht kus	sa	5000
 kohta kes	on	5000
 kohta on	eurot	5000
@@ -26577,6 +26576,7 @@ kohe kui	on	4000
 kohe kuidagi	ei	4000
 kohe üldse	ei	4000
 koht kus	ma	4000
+koht kus	on	4000
 kohta ei	olnud	4000
 kohta et	ta	4000
 kohta kus	on	4000
@@ -29188,7 +29188,6 @@ oli hästi	suur	4000
 oli igal	juhul	4000
 oli ikkagi	väga	4000
 oli ja	kolmas	4000
-oli ja	see	4000
 oli ju	väga	4000
 oli juba	paar	4000
 oli ka	hea	4000
@@ -29496,7 +29495,6 @@ on eesti	vene	4000
 on eesti	ühiskonnas	4000
 on eesti	üks	4000
 on eestile	väga	4000
-on eestis	kinnitatud	4000
 on eestis	ligi	4000
 on eestis	läbi	4000
 on eestis	nakatunud	4000
@@ -37339,7 +37337,6 @@ enne kontserdi	algust	3000
 enne kriisi	on	3000
 enne kriisi	ütles	3000
 enne kui	eesti	3000
-enne kui	ei	3000
 enne kui	inimene	3000
 enne kui	ise	3000
 enne kui	keegi	3000
@@ -45998,7 +45995,6 @@ lisas et	loodetavasti	3000
 lisas et	mida	3000
 lisas et	neid	3000
 lisas et	näiteks	3000
-lisas et	olid	3000
 lisas et	oluline	3000
 lisas et	paljud	3000
 lisas et	puhul	3000
@@ -49953,6 +49949,7 @@ oli iga	kord	3000
 oli ikka	kirjeldas	3000
 oli ikka	päris	3000
 oli ise	ka	3000
+oli ja	see	3000
 oli ja	ta	3000
 oli jaekaubandusettevõtete	müügitulu	3000
 oli ju	kogu	3000
@@ -50670,6 +50667,7 @@ on eestis	euroopa	3000
 on eestis	hakanud	3000
 on eestis	inimesi	3000
 on eestis	inimestel	3000
+on eestis	kinnitatud	3000
 on eestis	küll	3000
 on eestis	nii	3000
 on eestis	palju	3000
@@ -72059,7 +72057,6 @@ ei ole	kolme	2000
 ei ole	kooli	2000
 ei ole	koolis	2000
 ei ole	koos	2000
-ei ole	koostöö	2000
 ei ole	korraga	2000
 ei ole	korraldatud	2000
 ei ole	korras	2000
@@ -75059,6 +75056,7 @@ enne kui	aasta	2000
 enne kui	alustad	2000
 enne kui	annab	2000
 enne kui	asi	2000
+enne kui	ei	2000
 enne kui	eriolukorra	2000
 enne kui	euroopa	2000
 enne kui	hooaeg	2000
@@ -107911,7 +107909,6 @@ kus on	ema	2000
 kus on	hakanud	2000
 kus on	hetkel	2000
 kus on	igal	2000
-kus on	inimesed	2000
 kus on	investeeringute	2000
 kus on	justkui	2000
 kus on	kogu	2000
@@ -110734,6 +110731,7 @@ laenude ja	liisingute	2000
 laenude jagamine	vajab	2000
 laenude tagasimaksmiseks	aga	2000
 laenude vahekorra	küsimuses	2000
+laenudele või	laene	2000
 laenuks võetud	raha	2000
 laenulepingu mahus	miljonit	2000
 laenulepingu summas	miljonit	2000
@@ -112608,7 +112606,7 @@ liit kutsub	inimesi	2000
 liit kuulutasid	välja	2000
 liit mida	juhib	2000
 liit ning	eesti	2000
-liit oli	ja	2000
+liit oli	lagunemas	2000
 liit on	avaldanud	2000
 liit on	kehtestanud	2000
 liit on	lubanud	2000
@@ -113048,6 +113046,7 @@ lisas et	mitte	2000
 lisas et	mõned	2000
 lisas et	mõnel	2000
 lisas et	nautis	2000
+lisas et	olid	2000
 lisas et	olukord	2000
 lisas et	omavalitsused	2000
 lisas et	osa	2000
@@ -120001,3 +120000,4 @@ mis andsid	mulle	2000
 mis andsid	võidu	2000
 mis annab	aimu	2000
 mis annab	alust	2000
+mis annab	igale	2000
