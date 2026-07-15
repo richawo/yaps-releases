@@ -8,6 +8,46 @@
       "sha256": "e70eb89627ca7be524b4432da1165ca8304b245c3ee859a48816a0cbcd686472"
     },
     {
+      "path": "keyboard/nlp/ar-SA/bigrams.tsv",
+      "size": 5887713,
+      "sha256": "7578f8b4c99f2fd92fcc19894de0acf660d1ce263d935e4e94438c64bf802b7e"
+    },
+    {
+      "path": "keyboard/nlp/ar-SA/bigrams_curated.tsv",
+      "size": 480,
+      "sha256": "5fe6f007f239e88f0fa83f7f6db6dfc83891bf587dc9b94b2b093b9d5613ed25"
+    },
+    {
+      "path": "keyboard/nlp/ar-SA/common_words.txt",
+      "size": 54846,
+      "sha256": "e452560bd3f21c3e329f8abe7db6163a7e2036fef8525e7e2bf71c67711a56bc"
+    },
+    {
+      "path": "keyboard/nlp/ar-SA/next_word.tsv",
+      "size": 2489096,
+      "sha256": "108b36d5ef9d90a6e7813add603e281b277a9a9692d69b8ac0ca7752cf82714f"
+    },
+    {
+      "path": "keyboard/nlp/ar-SA/shortcuts.json",
+      "size": 177,
+      "sha256": "bb7d06068fe4677af52dd41feaa323b89394bd04083cab47c0ca53d6e2a38869"
+    },
+    {
+      "path": "keyboard/nlp/ar-SA/supplemental_words.tsv",
+      "size": 255,
+      "sha256": "dd669ae4af23b7eaae25d163f8e7f2c22a41d4de588c21d52a9c2be7f6006087"
+    },
+    {
+      "path": "keyboard/nlp/ar-SA/trigrams.tsv",
+      "size": 4324578,
+      "sha256": "1a62ccff0af8f75d983eb41615ade19c5b9a4b8ebd172608ac4cf68239573a27"
+    },
+    {
+      "path": "keyboard/nlp/ar-SA/words.tsv",
+      "size": 1266946,
+      "sha256": "04f6643a9e551a33bfd46fea5af512500ab24d1b72238f11a0d0586bc3293d2f"
+    },
+    {
       "path": "keyboard/nlp/bg-BG/bigrams.tsv",
       "size": 6127009,
       "sha256": "58d8b646a409ec430c0a6f5bfdd7872798db50a3069e8ced22b326218a33af86"
